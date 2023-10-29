@@ -1,6 +1,7 @@
 from typing import Dict, List
 from datatypes import Record
 from datatypes import Tag, LabelClass
+import json
 
 
 class RecordEncoder:
@@ -143,6 +144,8 @@ class RecordDecoder:
         unlabel.comparative = comparatives
 
         for label in comparatives:
+            if label == "No":
+                continue
             quintuple = {
                 "label": label,
                 "subject": [],
@@ -164,3 +167,11 @@ class RecordDecoder:
             unlabel.quintuples.append(quintuple)
 
         return unlabel
+
+    def format_record(self, record: Record) -> str:
+        """Format record to string"""
+        formatted_sentence = f"{record.original}\t{record.sentence}"
+        formatted_quintuples = [
+            json.dumps(quintuple) for quintuple in record.quintuples
+        ]
+        return "\n".join([formatted_sentence, *formatted_quintuples])
