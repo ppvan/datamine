@@ -1,0 +1,195 @@
+title: Google Pixel 7a vs iPhone 13: Lựa chọn Android giá rẻ hay iOS cao cấp?	title : Google Pixel 7a vs iPhone 13 : Lựa chọn Android giá rẻ hay iOS cao cấp ?
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Google Pixel 7a đột phá nhưng vẫn chưa vượt mặt được iPhone 13?	Google Pixel 7a đột phá nhưng vẫn chưa vượt mặt được iPhone 13 ?
+{"label": "COM+", "subject": [], "object": ["12&&iPhone", "13&&13"], "aspect": [], "predicate": ["8&&ch\u01b0a", "9&&v\u01b0\u1ee3t", "10&&m\u1eb7t", "11&&\u0111\u01b0\u1ee3c"]}
+
+Mới đây, Google đã trình làng mẫu smartphone Google Pixel 7a với hàng loạt tính năng hàng đầu ấn tượng.	Mới đây , Google đã trình làng mẫu smartphone Google Pixel 7a với hàng loạt tính năng hàng đầu ấn tượng .
+{"label": "COM", "subject": [], "object": ["10&&Google", "11&&Pixel", "12&&7a"], "aspect": ["15&&lo\u1ea1t", "16&&t\u00ednh", "17&&n\u0103ng", "18&&h\u00e0ng", "19&&\u0111\u1ea7u", "20&&\u1ea5n", "21&&t\u01b0\u1ee3ng"], "predicate": []}
+
+Thiết bị cũng được trang bị chip Google TenSor G2 cao cấp với hiệu suất ngang bằng iPhone 13.	Thiết bị cũng được trang bị chip Google TenSor G2 cao cấp với hiệu suất ngang bằng iPhone 13 .
+{"label": "EQL", "subject": ["1&&Thi\u1ebft", "2&&b\u1ecb", "8&&Google", "9&&TenSor", "10&&G2", "11&&cao", "12&&c\u1ea5p"], "object": ["18&&iPhone", "19&&13"], "aspect": [], "predicate": []}
+
+Vậy Google Pixel 7a có điểm gì khác biệt so với iPhone 13?	Vậy Google Pixel 7a có điểm gì khác biệt so với iPhone 13 ?
+
+Hay nên mua Google Pixel 7a hay iPhone 13?	Hay nên mua Google Pixel 7a hay iPhone 13 ?
+
+Cùng XTmobile so sánh Google Pixel 7a và iPhone 13 để tìm ra chiếc điện thoại lý tưởng ở thời điểm hiện tại nhé.	Cùng XTmobile so sánh Google Pixel 7a và iPhone 13 để tìm ra chiếc điện thoại lý tưởng ở thời điểm hiện tại nhé .
+
+Google Pixel 7a được thiết kế mới mẻ với nhiều điểm khác biệt hơn	Google Pixel 7a được thiết kế mới mẻ với nhiều điểm khác biệt hơn
+{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": ["10&&nhi\u1ec1u", "11&&\u0111i\u1ec3m", "12&&kh\u00e1c", "13&&bi\u1ec7t", "14&&h\u01a1n"]}
+
+Điểm khác biệt lớn nhất mà dễ dàng nhận thấy giữa Google Pixel 7a và iPhone 13 chính là thiết kế.	Điểm khác biệt lớn nhất mà dễ dàng nhận thấy giữa Google Pixel 7a và iPhone 13 chính là thiết kế .
+
+Google Pixel 7a sở hữu thiết kế mặt lưng bằng nhựa và các khung viền bằng kim loại.	Google Pixel 7a sở hữu thiết kế mặt lưng bằng nhựa và các khung viền bằng kim loại .
+
+Trong khi đó, mặt lưng sau của iPhone 13 lại được làm bằng chất liệu nhôm và kính, mang đến cảm giác sang trọng và bắt mắt hơn.	Trong khi đó , mặt lưng sau của iPhone 13 lại được làm bằng chất liệu nhôm và kính , mang đến cảm giác sang trọng và bắt mắt hơn .
+{"label": "EQL", "subject": ["9&&iPhone", "10&&13"], "object": [], "aspect": ["23&&c\u1ea3m", "24&&gi\u00e1c"], "predicate": ["25&&sang", "26&&tr\u1ecdng", "27&&v\u00e0", "28&&b\u1eaft", "29&&m\u1eaft", "30&&h\u01a1n"]}
+
+Tuy nhiên, mặt lưng nhựa của Google Pixel 7a sẽ bền hơn so với mặt lưng kính của iPhone 13.	Tuy nhiên , mặt lưng nhựa của Google Pixel 7a sẽ bền hơn so với mặt lưng kính của iPhone 13 .
+{"label": "EQL", "subject": [], "object": ["8&&Google", "9&&Pixel", "10&&7a", "20&&iPhone", "21&&13"], "aspect": [], "predicate": ["12&&b\u1ec1n", "13&&h\u01a1n"]}
+
+Nó sẽ không bị vỡ khi điện thoại rớt xuống đất.	Nó sẽ không bị vỡ khi điện thoại rớt xuống đất .
+
+alt: Google Pixel 7a được thiết kế mới mẻ với nhiều điểm khác biệt hơn	alt : Google Pixel 7a được thiết kế mới mẻ với nhiều điểm khác biệt hơn
+{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": ["12&&nhi\u1ec1u", "13&&\u0111i\u1ec3m", "14&&kh\u00e1c", "15&&bi\u1ec7t", "16&&h\u01a1n"]}
+
+des:	des :
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Một điểm mà chiếc điện thoại nhà Apple có thể ăn đứt chiếc điện thoại nhà Google đó chính là tùy chọn màu.	Một điểm mà chiếc điện thoại nhà Apple có thể ăn đứt chiếc điện thoại nhà Google đó chính là tùy chọn màu .
+{"label": "EQL", "subject": ["4&&chi\u1ebfc", "5&&\u0111i\u1ec7n", "6&&tho\u1ea1i", "7&&nh\u00e0", "8&&Apple"], "object": [], "aspect": [], "predicate": []}
+
+Google Pixel 7a chỉ có bốn tùy chọn màu cơ bản như Xanh, Đen, Trắng và Cam.	Google Pixel 7a chỉ có bốn tùy chọn màu cơ bản như Xanh , Đen , Trắng và Cam .
+
+Trong khi đó iPhone 13 lại có tới 6 tùy chọn màu sắc, đa dạng cho người dùng lựa chọn.	Trong khi đó iPhone 13 lại có tới 6 tùy chọn màu sắc , đa dạng cho người dùng lựa chọn .
+
+Cả hai thiết bị đều có khả năng kháng nước và chống bụi.	Cả hai thiết bị đều có khả năng kháng nước và chống bụi .
+
+Tuy nhiên, Google pixel 7a chỉ đạt chứng nhận IP67.	Tuy nhiên , Google pixel 7a chỉ đạt chứng nhận IP67 .
+
+Trong khi đó, iPhone 13 lại có xếp hạng kháng nước, chống bụi chuẩn IP68.	Trong khi đó , iPhone 13 lại có xếp hạng kháng nước , chống bụi chuẩn IP68 .
+
+Nhờ vậy, chiếc điện thoại nhà táo khuyết có thể ngâm nước sâu hơn và lâu hơn.	Nhờ vậy , chiếc điện thoại nhà táo khuyết có thể ngâm nước sâu hơn và lâu hơn .
+
+Màn hình iPhone 13 có chất lượng hiển thị tốt hơn Google Pixel 7a	Màn hình iPhone 13 có chất lượng hiển thị tốt hơn Google Pixel 7a
+
+Màn hình của iPhone 13 vượt trội hơn Google Pixel 7a khi sở hữu tấm nền Super Retina XDR OLED 6.1 inch với độ phân giải Full HD+, tần số quét 120Hz. Mang đến những khung hình hiển thị cực kỳ sắc nét, mượt mà và sống động.	Màn hình của iPhone 13 vượt trội hơn Google Pixel 7a khi sở hữu tấm nền Super Retina XDR OLED 6.1 inch với độ phân giải Full HD + , tần số quét 120Hz . Mang đến những khung hình hiển thị cực kỳ sắc nét , mượt mà và sống động .
+
+Ngoài ra, máy còn được trang bị thêm công nghệ hiển thị HDR10+, Dolby Vision có khả năng điều chỉnh màu sắc theo ánh sáng xung quanh.	Ngoài ra , máy còn được trang bị thêm công nghệ hiển thị HDR10 + , Dolby Vision có khả năng điều chỉnh màu sắc theo ánh sáng xung quanh .
+
+Đi kèm theo đó là công nghệ True Tone giúp tạo ra những hình ảnh có màu sắc sống động và tự nhiên hơn.	Đi kèm theo đó là công nghệ True Tone giúp tạo ra những hình ảnh có màu sắc sống động và tự nhiên hơn .
+
+alt: Màn hình iPhone 13 có chất lượng hiển thị tốt hơn Google Pixel 7a	alt : Màn hình iPhone 13 có chất lượng hiển thị tốt hơn Google Pixel 7a
+{"label": "COM+", "subject": ["3&&M\u00e0n", "4&&h\u00ecnh", "5&&iPhone", "6&&13"], "object": ["14&&Google", "15&&Pixel", "16&&7a"], "aspect": ["8&&ch\u1ea5t", "9&&l\u01b0\u1ee3ng", "10&&hi\u1ec3n", "11&&th\u1ecb"], "predicate": ["12&&t\u1ed1t", "13&&h\u01a1n"]}
+
+des:	des :
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Trong khi đó, Google Pixel 7a chỉ được trang bị tấm nền OLED 6,2 inch cùng tần số quét 60Hz. Bù lại, màn hình chiếc flagship của Google có kích thước lớn hơn so với iPhone 13.	Trong khi đó , Google Pixel 7a chỉ được trang bị tấm nền OLED 6,2 inch cùng tần số quét 60Hz . Bù lại , màn hình chiếc flagship của Google có kích thước lớn hơn so với iPhone 13 .
+{"label": "COM+", "subject": ["26&&m\u00e0n", "27&&h\u00ecnh", "28&&chi\u1ebfc", "29&&flagship", "30&&c\u1ee7a", "31&&Google"], "object": ["5&&Google", "6&&Pixel", "7&&7a", "39&&iPhone", "40&&13"], "aspect": ["12&&t\u1ea5m", "13&&n\u1ec1n", "14&&OLED", "15&&6,2", "16&&inch", "17&&c\u00f9ng", "18&&t\u1ea7n", "19&&s\u1ed1", "20&&qu\u00e9t", "21&&60Hz", "33&&k\u00edch", "34&&th\u01b0\u1edbc"], "predicate": ["35&&l\u1edbn", "36&&h\u01a1n"]}
+
+Màn hình của máy được bố trí rộng rãi hơn nhờ các đường viền xung quanh được làm mỏng đi.	Màn hình của máy được bố trí rộng rãi hơn nhờ các đường viền xung quanh được làm mỏng đi .
+{"label": "EQL", "subject": ["1&&M\u00e0n", "2&&h\u00ecnh", "3&&c\u1ee7a", "4&&m\u00e1y"], "object": [], "aspect": [], "predicate": []}
+
+Chưa hết, thiết bị còn được trang bị cảm biến vân tay dưới màn hình rất tiện lợi.	Chưa hết , thiết bị còn được trang bị cảm biến vân tay dưới màn hình rất tiện lợi .
+
+Điều mà chiếc điện thoại nhà Apple không có.	Điều mà chiếc điện thoại nhà Apple không có .
+
+Nhìn chung, màn hình Google Pixel 7a tuy không xịn sò như iPhone 13 nhưng nó vẫn đủ để người dùng sử dụng và trải nghiệm.	Nhìn chung , màn hình Google Pixel 7a tuy không xịn sò như iPhone 13 nhưng nó vẫn đủ để người dùng sử dụng và trải nghiệm .
+
+alt: Google Pixel 7a sở hữu màn hình rộng rãi hơn so với iPhone 13	alt : Google Pixel 7a sở hữu màn hình rộng rãi hơn so với iPhone 13
+
+des:	des :
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Hệ thống camera không có quá nhiều sự khác biệt	Hệ thống camera không có quá nhiều sự khác biệt
+{"label": "COM+", "subject": [], "object": [], "aspect": ["1&&H\u1ec7", "2&&th\u1ed1ng", "3&&camera"], "predicate": ["4&&kh\u00f4ng", "5&&c\u00f3", "6&&qu\u00e1", "7&&nhi\u1ec1u", "8&&s\u1ef1", "9&&kh\u00e1c", "10&&bi\u1ec7t"]}
+
+Google Pixel 7a và iPhone 13 đều được đánh giá cao về hệ thống camera.	Google Pixel 7a và iPhone 13 đều được đánh giá cao về hệ thống camera .
+{"label": "COM+", "subject": [], "object": ["5&&iPhone", "6&&13"], "aspect": ["13&&h\u1ec7", "14&&th\u1ed1ng", "15&&camera"], "predicate": []}
+
+Google Pixel 7a sở hữu cụm camera kép với ống kính chính 64MP và camera góc siêu rộng 13MP.	Google Pixel 7a sở hữu cụm camera kép với ống kính chính 64MP và camera góc siêu rộng 13MP .
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"label": "COM", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Trong khi đó, iPhone 13 có cụm 2 camera có độ phân giải 12MP thấp hơn.	Trong khi đó , iPhone 13 có cụm 2 camera có độ phân giải 12MP thấp hơn .
+{"label": "COM+", "subject": ["5&&iPhone", "6&&13"], "object": [], "aspect": ["8&&c\u1ee5m", "9&&2", "10&&camera", "12&&\u0111\u1ed9", "13&&ph\u00e2n", "14&&gi\u1ea3i", "15&&12MP"], "predicate": ["16&&th\u1ea5p", "17&&h\u01a1n"]}
+{"label": "COM", "subject": ["5&&iPhone", "6&&13"], "object": [], "aspect": ["8&&c\u1ee5m", "9&&2", "10&&camera", "12&&\u0111\u1ed9", "13&&ph\u00e2n", "14&&gi\u1ea3i", "15&&12MP"], "predicate": ["16&&th\u1ea5p", "17&&h\u01a1n"]}
+
+Có thể thấy, hệ thống camera trên Google Pixel 7 có độ phân giải cao hơn rất nhiều so với iPhone 13.	Có thể thấy , hệ thống camera trên Google Pixel 7 có độ phân giải cao hơn rất nhiều so với iPhone 13 .
+{"label": "COM+", "subject": ["5&&h\u1ec7", "6&&th\u1ed1ng", "7&&camera", "8&&tr\u00ean", "9&&Google", "10&&Pixel", "11&&7"], "object": ["22&&iPhone", "23&&13"], "aspect": ["13&&\u0111\u1ed9", "14&&ph\u00e2n", "15&&gi\u1ea3i"], "predicate": ["16&&cao", "17&&h\u01a1n", "18&&r\u1ea5t", "19&&nhi\u1ec1u"]}
+
+Tuy nhiên, nếu so sánh ảnh chụp thực tế của iPhone 13 và Google Pixel 7a thì lại tương đương nhau.	Tuy nhiên , nếu so sánh ảnh chụp thực tế của iPhone 13 và Google Pixel 7a thì lại tương đương nhau .
+
+alt: Hệ thống camera không có quá nhiều sự khác biệt	alt : Hệ thống camera không có quá nhiều sự khác biệt
+
+des:	des :
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Cả hai mẫu điện thoại đều có khả năng quay video 4K với tốc độ 60 khung hình/giây.	Cả hai mẫu điện thoại đều có khả năng quay video 4K với tốc độ 60 khung hình / giây .
+{"label": "COM-", "subject": [], "object": ["1&&C\u1ea3", "2&&hai", "3&&m\u1eabu", "4&&\u0111i\u1ec7n", "5&&tho\u1ea1i"], "aspect": ["8&&kh\u1ea3", "9&&n\u0103ng", "10&&quay", "11&&video", "12&&4K"], "predicate": ["6&&\u0111\u1ec1u", "7&&c\u00f3"]}
+
+Tuy nhiên, Google Pixel 7a lại có ưu điểm hơn về khả năng chụp ảnh xóa phông.	Tuy nhiên , Google Pixel 7a lại có ưu điểm hơn về khả năng chụp ảnh xóa phông .
+{"label": "COM-", "subject": [], "object": ["4&&Google", "5&&Pixel", "6&&7a", "7&&l\u1ea1i"], "aspect": ["13&&kh\u1ea3", "14&&n\u0103ng", "15&&ch\u1ee5p", "16&&\u1ea3nh", "17&&x\u00f3a", "18&&ph\u00f4ng"], "predicate": ["8&&c\u00f3", "9&&\u01b0u", "10&&\u0111i\u1ec3m", "11&&h\u01a1n"]}
+
+Tính năng này giúp người dùng tạo ra những bức ảnh xóa phông chuyên nghiệp, trông rất đẹp mắt và tự nhiên.	Tính năng này giúp người dùng tạo ra những bức ảnh xóa phông chuyên nghiệp , trông rất đẹp mắt và tự nhiên .
+
+Bên cạnh đó, iPhone 13 cũng được trang bị một tính năng tuyệt vời không thua kém gì mẫu flagship nhà Google.	Bên cạnh đó , iPhone 13 cũng được trang bị một tính năng tuyệt vời không thua kém gì mẫu flagship nhà Google .
+{"label": "DIF", "subject": ["5&&iPhone", "6&&13"], "object": ["20&&m\u1eabu", "21&&flagship", "22&&nh\u00e0", "23&&Google"], "aspect": [], "predicate": []}
+
+Thiết bị sở hữu tính năng chụp ảnh Night mode cực ấn tượng, với khả năng tái tạo màu sắc và chi tiết tốt những bức ảnh chụp trong điều kiện ánh sáng yếu.	Thiết bị sở hữu tính năng chụp ảnh Night mode cực ấn tượng , với khả năng tái tạo màu sắc và chi tiết tốt những bức ảnh chụp trong điều kiện ánh sáng yếu .
+{"label": "COM+", "subject": ["1&&Thi\u1ebft", "2&&b\u1ecb"], "object": ["28&&\u1ea3nh", "29&&ch\u1ee5p", "30&&trong", "31&&\u0111i\u1ec1u", "32&&ki\u1ec7n", "33&&\u00e1nh", "34&&s\u00e1ng", "35&&y\u1ebfu"], "aspect": ["16&&kh\u1ea3", "17&&n\u0103ng", "18&&t\u00e1i", "19&&t\u1ea1o", "20&&m\u00e0u", "21&&s\u1eafc", "22&&v\u00e0", "23&&chi", "24&&ti\u1ebft"], "predicate": ["25&&t\u1ed1t", "26&&nh\u1eefng", "27&&b\u1ee9c"]}
+
+Flagship Android tầm trung nhưng sở hữu hiệu năng mạnh mẽ ngang iPhone 13	Flagship Android tầm trung nhưng sở hữu hiệu năng mạnh mẽ ngang iPhone 13
+
+Thông thường, những mẫu điện thoại Android tầm trung sẽ có bộ vi xử lý chậm hơn, nhưng Google Pixel 7a là một trường hợp ngoại lệ.	Thông thường , những mẫu điện thoại Android tầm trung sẽ có bộ vi xử lý chậm hơn , nhưng Google Pixel 7a là một trường hợp ngoại lệ .
+
+Google Pixel 7a được trang bị chip Google Tensor G2 đi kèm RAM 8GB.	Google Pixel 7a được trang bị chip Google Tensor G2 đi kèm RAM 8GB .
+
+Đây được xem là con chip có hiệu năng tốt nhất hiện nay trong phân khúc trung cấp.	Đây được xem là con chip có hiệu năng tốt nhất hiện nay trong phân khúc trung cấp .
+{"label": "COM+", "subject": [], "object": [], "aspect": ["8&&hi\u1ec7u", "9&&n\u0103ng"], "predicate": ["10&&t\u1ed1t", "11&&nh\u1ea5t", "12&&hi\u1ec7n", "13&&nay"]}
+
+Với chipset này, bạn có thể trải nghiệm mượt mà các tác vụ hàng ngày như lướt web, xem phim hay thậm chí là chơi game.	Với chipset này , bạn có thể trải nghiệm mượt mà các tác vụ hàng ngày như lướt web , xem phim hay thậm chí là chơi game .
+
+Ngoài ra, Google Pixel 7a cũng được trang bị bộ nhớ rộng rãi, giúp bạn thoải mái lưu trữ nhiều dữ liệu và ứng dụng mà không lo bộ nhớ đầy.	Ngoài ra , Google Pixel 7a cũng được trang bị bộ nhớ rộng rãi , giúp bạn thoải mái lưu trữ nhiều dữ liệu và ứng dụng mà không lo bộ nhớ đầy .
+
+Đặc biệt, máy còn được hỗ trợ công nghệ 5G với tốc độ kết nối nhanh chóng và ổn định.	Đặc biệt , máy còn được hỗ trợ công nghệ 5G với tốc độ kết nối nhanh chóng và ổn định .
+
+alt: Flagship Android tầm trung nhưng sở hữu hiệu năng mạnh mẽ ngang iPhone 13	alt : Flagship Android tầm trung nhưng sở hữu hiệu năng mạnh mẽ ngang iPhone 13
+
+des:	des :
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Trong khi đó, iPhone 13 được trang bị bộ vi xử lý A15 Bionic mạnh mẽ với hiệu suất vượt trội.	Trong khi đó , iPhone 13 được trang bị bộ vi xử lý A15 Bionic mạnh mẽ với hiệu suất vượt trội .
+
+Kết hợp cùng với RAM 4GB và bộ nhớ lưu trữ 64GB đến 512GB.	Kết hợp cùng với RAM 4GB và bộ nhớ lưu trữ 64GB đến 512GB .
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Bên cạnh đó, thiết bị cũng được hỗ trợ công nghệ 5G tiên tiến, đảm bảo kết nối nhanh chóng và ổn định.	Bên cạnh đó , thiết bị cũng được hỗ trợ công nghệ 5G tiên tiến , đảm bảo kết nối nhanh chóng và ổn định .
+
+Với cấu hình này, iPhone 13 có thể mang lại những trải nghiệm mượt mà và đáp ứng tốt cả các tác vụ đa nhiệm và ứng dụng nặng.	Với cấu hình này , iPhone 13 có thể mang lại những trải nghiệm mượt mà và đáp ứng tốt cả các tác vụ đa nhiệm và ứng dụng nặng .
+
+Điểm khác biệt đáng chú ý nhất giữa hai thiết bị này đó chính là phần mềm cập nhật bên trong máy.	Điểm khác biệt đáng chú ý nhất giữa hai thiết bị này đó chính là phần mềm cập nhật bên trong máy .
+{"label": "EQL", "subject": [], "object": [], "aspect": ["16&&ph\u1ea7n", "17&&m\u1ec1m", "18&&c\u1eadp", "19&&nh\u1eadt"], "predicate": ["1&&\u0110i\u1ec3m", "2&&kh\u00e1c", "3&&bi\u1ec7t", "4&&\u0111\u00e1ng", "5&&ch\u00fa", "6&&\u00fd", "7&&nh\u1ea5t"]}
+
+iPhone 13 sở hữu hệ điều hành iOS 16 với nhiều tính năng hấp dẫn hơn so với Android 13 trên Google Pixel 7a.	iPhone 13 sở hữu hệ điều hành iOS 16 với nhiều tính năng hấp dẫn hơn so với Android 13 trên Google Pixel 7a .
+{"label": "EQL", "subject": [], "object": ["22&&Google", "23&&Pixel", "24&&7a"], "aspect": ["11&&nhi\u1ec1u", "12&&t\u00ednh", "13&&n\u0103ng"], "predicate": ["14&&h\u1ea5p", "15&&d\u1eabn", "16&&h\u01a1n"]}
+
+alt: Bảng so sánh thông số kỹ thuật Google Pixel 7a vs iPhone 13	alt : Bảng so sánh thông số kỹ thuật Google Pixel 7a vs iPhone 13
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+des:	des :
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+iPhone 13 có thời lượng pin tốt hơn Google Pixel 7a	iPhone 13 có thời lượng pin tốt hơn Google Pixel 7a
+
+Google Pixel 7a sở hữu viên pin có dung lượng lên đến 4.385 mAh. Nghe có vẻ là một kích thước đáng nể so với viên pin 3.227 mAh trên iPhone 13.	Google Pixel 7a sở hữu viên pin có dung lượng lên đến 4.385 mAh . Nghe có vẻ là một kích thước đáng nể so với viên pin 3.227 mAh trên iPhone 13 .
+
+Tuy nhiên, thời lượng pin sử dụng thực tế trên Google Pixel 7a lại không tồn tại lâu bằng iPhone 13.	Tuy nhiên , thời lượng pin sử dụng thực tế trên Google Pixel 7a lại không tồn tại lâu bằng iPhone 13 .
+
+Tốc độ sạc có dây của hai thiết bị này gần như giống hệt nhau.	Tốc độ sạc có dây của hai thiết bị này gần như giống hệt nhau .
+
+Về sạc không dây, iPhone 13 được tích hợp công nghệ MagSafe 15W nhanh gấp đôi so với tốc độ sạc không dây 7,5W trên Google Pixel 7a.	Về sạc không dây , iPhone 13 được tích hợp công nghệ MagSafe 15W nhanh gấp đôi so với tốc độ sạc không dây 7,5W trên Google Pixel 7a .
+
+alt: iPhone 13 có thời lượng pin tốt hơn Google Pixel 7a	alt : iPhone 13 có thời lượng pin tốt hơn Google Pixel 7a
+{"label": "EQL", "subject": ["3&&iPhone", "4&&13"], "object": ["11&&Google", "12&&Pixel", "13&&7a"], "aspect": [], "predicate": []}
+{"label": "COM+", "subject": ["3&&iPhone", "4&&13"], "object": ["11&&Google", "12&&Pixel", "13&&7a"], "aspect": [], "predicate": []}
+
+des:	des :
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Nên mua Google Pixel 7a hay iPhone 13?	Nên mua Google Pixel 7a hay iPhone 13 ?
+{"label": "COM+", "subject": [], "object": ["7&&iPhone", "8&&13"], "aspect": [], "predicate": []}
+
+Google Pixel 7a và iPhone 13 đều là những chiếc flagship đáng mua nhất trong năm 2023.	Google Pixel 7a và iPhone 13 đều là những chiếc flagship đáng mua nhất trong năm 2023 .
+
+Có thể thấy cả hai mẫu điện thoại này đều sở hữu những ưu điểm riêng khác nhau.	Có thể thấy cả hai mẫu điện thoại này đều sở hữu những ưu điểm riêng khác nhau .
+{"label": "COM+", "subject": [], "object": ["4&&c\u1ea3", "5&&hai", "6&&m\u1eabu", "7&&\u0111i\u1ec7n", "8&&tho\u1ea1i", "9&&n\u00e0y"], "aspect": ["13&&nh\u1eefng", "14&&\u01b0u", "15&&\u0111i\u1ec3m"], "predicate": ["10&&\u0111\u1ec1u", "11&&s\u1edf", "12&&h\u1eefu", "16&&ri\u00eang", "17&&kh\u00e1c", "18&&nhau"]}
+
+Nên lựa chọn Google Pixel 7a hay iPhone 13 còn tùy thuộc vào nhu cầu sử dụng cũng như điều kiện kinh tế của mỗi người.	Nên lựa chọn Google Pixel 7a hay iPhone 13 còn tùy thuộc vào nhu cầu sử dụng cũng như điều kiện kinh tế của mỗi người .
+
+Nếu bạn đang tìm kiếm một mẫu điện thoại Android với nhiều cải tiến hiện đại và giá cả hợp lý thì Google Pixel 7a sẽ là sự lựa chọn phù hợp nhất.	Nếu bạn đang tìm kiếm một mẫu điện thoại Android với nhiều cải tiến hiện đại và giá cả hợp lý thì Google Pixel 7a sẽ là sự lựa chọn phù hợp nhất .
+
+Tuy nhiên, nếu bạn yêu thích một chiếc smartphone có hiệu năng mạnh mẽ và màn hình chất lượng hơn thì iPhone 13 sẽ là một lựa chọn tuyệt vời.	Tuy nhiên , nếu bạn yêu thích một chiếc smartphone có hiệu năng mạnh mẽ và màn hình chất lượng hơn thì iPhone 13 sẽ là một lựa chọn tuyệt vời .
+

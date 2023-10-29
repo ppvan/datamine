@@ -1,0 +1,122 @@
+Title: So sánh iPhone 13 và Google Pixel 6: Đâu mới là trùm cuối?	Title : So sánh iPhone 13 và Google Pixel 6 : Đâu mới là trùm cuối ?
+
+Sau nhiều ngày chờ đợi, Google mới đây vừa chính thức ra mắt dòng Pixel 6 mới.	Sau nhiều ngày chờ đợi , Google mới đây vừa chính thức ra mắt dòng Pixel 6 mới .
+
+Năm nay, các điện thoại thuộc phân khúc cao cấp chứ không phải là tầm trung như các mẫu máy Pixel 5 tiền nhiệm.	Năm nay , các điện thoại thuộc phân khúc cao cấp chứ không phải là tầm trung như các mẫu máy Pixel 5 tiền nhiệm .
+
+Điều đó có nghĩa là Pixel 6 sẽ phải cạnh tranh khá nhiều đối thủ “sừng sỏ” khác và iPhone 13 của Apple là một trong số đó.	Điều đó có nghĩa là Pixel 6 sẽ phải cạnh tranh khá nhiều đối thủ “ sừng sỏ ” khác và iPhone 13 của Apple là một trong số đó .
+
+Vậy khi đặt lên bàn cân so sánh thì đâu mới là lựa chọn tốt hơn cho người dùng?	Vậy khi đặt lên bàn cân so sánh thì đâu mới là lựa chọn tốt hơn cho người dùng ?
+
+alt: So sánh iPhone 13 và Google Pixel 6 (ảnh 1)	alt : So sánh iPhone 13 và Google Pixel 6 ( ảnh 1 )
+
+des:	des :
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+So sánh về thiết kế	So sánh về thiết kế
+{"label": "EQL", "subject": [], "object": [], "aspect": ["4&&thi\u1ebft", "5&&k\u1ebf"], "predicate": []}
+
+Google Pixel 6 đi kèm với một thiết kế hoàn toàn mới, và trông hoàn toàn khác biệt so với các smartphone khác trên thị trường.	Google Pixel 6 đi kèm với một thiết kế hoàn toàn mới , và trông hoàn toàn khác biệt so với các smartphone khác trên thị trường .
+{"label": "COM+", "subject": [], "object": ["22&&c\u00e1c", "23&&smartphone", "24&&kh\u00e1c", "25&&tr\u00ean", "26&&th\u1ecb", "27&&tr\u01b0\u1eddng"], "aspect": [], "predicate": ["16&&ho\u00e0n", "17&&to\u00e0n", "18&&kh\u00e1c", "19&&bi\u1ec7t"]}
+
+Không giống như các nhà sản xuất khác, Google quyết định không chạy theo xu hướng và tung ra một thiết bị có mô-đun camera hoàn toàn khác với iPhone.	Không giống như các nhà sản xuất khác , Google quyết định không chạy theo xu hướng và tung ra một thiết bị có mô-đun camera hoàn toàn khác với iPhone .
+
+alt: So sánh iPhone 13 và Google Pixel 6 (ảnh 2)	alt : So sánh iPhone 13 và Google Pixel 6 ( ảnh 2 )
+
+des:	des :
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Điện thoại Pixel mới cũng đi kèm với chất lượng hoàn thiện tuyệt vời khi đi kèm lớp kính bảo vệ Gorilla Glass Victus cho mặt trước, kính bảo vệ Gorilla Glass 6 cho mặt sau và chứng nhận IP68 đảm bảo khả năng chống nước và bụi.	Điện thoại Pixel mới cũng đi kèm với chất lượng hoàn thiện tuyệt vời khi đi kèm lớp kính bảo vệ Gorilla Glass Victus cho mặt trước , kính bảo vệ Gorilla Glass 6 cho mặt sau và chứng nhận IP68 đảm bảo khả năng chống nước và bụi .
+
+Trong khi đó, iPhone 13 có thiết kế có phần nhàm chán với phần notch và cụm camera hình vuông, nhưng di động Apple vẫn có chất lượng hoàn thiện thậm chí còn tốt hơn Pixel 6 với kính Ceramic Shield và chứng nhận IP68 cho phép nó chịu được nước sâu tới 6 mét.	Trong khi đó , iPhone 13 có thiết kế có phần nhàm chán với phần notch và cụm camera hình vuông , nhưng di động Apple vẫn có chất lượng hoàn thiện thậm chí còn tốt hơn Pixel 6 với kính Ceramic Shield và chứng nhận IP68 cho phép nó chịu được nước sâu tới 6 mét .
+
+Cuối cùng nhưng không kém phần quan trọng, iPhone 13 nhỏ gọn hơn, cho cảm giác cầm nắm bằng một tay thoải mái hơn so với Pixel 6.	Cuối cùng nhưng không kém phần quan trọng , iPhone 13 nhỏ gọn hơn , cho cảm giác cầm nắm bằng một tay thoải mái hơn so với Pixel 6 .
+
+So sánh màn hình	So sánh màn hình
+
+alt: So sánh iPhone 13 và Google Pixel 6 (ảnh 3)	alt : So sánh iPhone 13 và Google Pixel 6 ( ảnh 3 )
+{"label": "COM+", "subject": ["5&&iPhone", "6&&13"], "object": ["8&&Google", "9&&Pixel", "10&&6"], "aspect": [], "predicate": []}
+
+des:	des :
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Nếu bạn đang tìm kiếm một chiếc điện thoại có màn hình chất lượng hơn thì hãy chọn iPhone 13 mà không cần suy nghĩ nhiều.	Nếu bạn đang tìm kiếm một chiếc điện thoại có màn hình chất lượng hơn thì hãy chọn iPhone 13 mà không cần suy nghĩ nhiều .
+
+Tấm nền Super Retina XDR OLED của nó có thể hiển thị màu sắc rất trung thực và độ tương phản tuyệt vời.	Tấm nền Super Retina XDR OLED của nó có thể hiển thị màu sắc rất trung thực và độ tương phản tuyệt vời .
+
+Di động Apple cũng đi kèm với chứng nhận HDR10 và hỗ trợ Dolby Vision.	Di động Apple cũng đi kèm với chứng nhận HDR10 và hỗ trợ Dolby Vision .
+
+iPhone 13 có thể không dành cho tất cả mọi người vì nó có màn hình 6.1 inch khá nhỏ so với xu hướng hiện nay.	iPhone 13 có thể không dành cho tất cả mọi người vì nó có màn hình 6.1 inch khá nhỏ so với xu hướng hiện nay .
+
+Nhưng nếu bạn không bận tâm về kích thước thì màn hình của nó là tốt nhất cho nhu cầu của bạn.	Nhưng nếu bạn không bận tâm về kích thước thì màn hình của nó là tốt nhất cho nhu cầu của bạn .
+
+Dù vậy, Google Pixel 6 vẫn mang lại ba lợi thế quan trọng về mặt hiển thị.	Dù vậy , Google Pixel 6 vẫn mang lại ba lợi thế quan trọng về mặt hiển thị .
+
+Đầu tiên là tốc độ làm tươi cao hơn với 90Hz, thứ hai là kích thước lớn hơn với đường chéo 6.4 inch và thứ ba là sự hiện diện của đầu đọc dấu vân tay trong màn hình.	Đầu tiên là tốc độ làm tươi cao hơn với 90Hz , thứ hai là kích thước lớn hơn với đường chéo 6.4 inch và thứ ba là sự hiện diện của đầu đọc dấu vân tay trong màn hình .
+
+Thông số kỹ thuật và phần mềm	Thông số kỹ thuật và phần mềm
+{"label": "DIF", "subject": [], "object": [], "aspect": ["6&&ph\u1ea7n", "7&&m\u1ec1m"], "predicate": []}
+{"label": "EQL", "subject": [], "object": [], "aspect": ["6&&ph\u1ea7n", "7&&m\u1ec1m"], "predicate": []}
+
+alt: So sánh iPhone 13 và Google Pixel 6 (ảnh 4)	alt : So sánh iPhone 13 và Google Pixel 6 ( ảnh 4 )
+{"label": "COM+", "subject": ["5&&iPhone", "6&&13"], "object": ["8&&Google", "9&&Pixel", "10&&6"], "aspect": [], "predicate": []}
+
+des:	des :
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Google Pixel 6 là điện thoại đầu tiên có SoC độc quyền đầu tiên của Google, đó là Google Tensor.	Google Pixel 6 là điện thoại đầu tiên có SoC độc quyền đầu tiên của Google , đó là Google Tensor .
+
+Con chip này được xây dựng trên tiến trình 5nm và là bộ xử lý đầu tiên có hai CPU Cortex-X1 trên bo mạch.	Con chip này được xây dựng trên tiến trình 5nm và là bộ xử lý đầu tiên có hai CPU Cortex-X1 trên bo mạch .
+{"label": "EQL", "subject": ["1&&Con", "2&&chip", "3&&n\u00e0y"], "object": [], "aspect": [], "predicate": []}
+
+Nó được ghép nối với 8GB RAM và 128GB hoặc 256GB bộ nhớ trong chuẩn UFS 3.1.	Nó được ghép nối với 8GB RAM và 128GB hoặc 256GB bộ nhớ trong chuẩn UFS 3.1 .
+{"label": "COM+", "subject": ["1&&N\u00f3"], "object": [], "aspect": ["9&&128GB", "10&&ho\u1eb7c", "11&&256GB", "12&&b\u1ed9", "13&&nh\u1edb", "14&&trong"], "predicate": []}
+
+Mặt khác, iPhone 13 có chipset Apple A15 Bionic kết hợp với RAM 4GB và bộ nhớ trong lên đến 512GB.	Mặt khác , iPhone 13 có chipset Apple A15 Bionic kết hợp với RAM 4GB và bộ nhớ trong lên đến 512GB .
+
+Dù có bộ nhớ không bằng Pixel 6 nhưng nhờ hệ điều hành iOS tối ưu hóa tốt nên iPhone 13 cung cấp hiệu suất cao hơn và ổn định hơn so với đối thủ của nó.	Dù có bộ nhớ không bằng Pixel 6 nhưng nhờ hệ điều hành iOS tối ưu hóa tốt nên iPhone 13 cung cấp hiệu suất cao hơn và ổn định hơn so với đối thủ của nó .
+
+Nhưng bạn cũng không nên đánh giá thấp các tính năng của Android 12 và đặc biệt là những tính năng dành riêng cho Pixel 6.	Nhưng bạn cũng không nên đánh giá thấp các tính năng của Android 12 và đặc biệt là những tính năng dành riêng cho Pixel 6 .
+
+So sánh máy ảnh	So sánh máy ảnh
+
+alt: So sánh iPhone 13 và Google Pixel 6 (ảnh 5)	alt : So sánh iPhone 13 và Google Pixel 6 ( ảnh 5 )
+{"label": "EQL", "subject": ["5&&iPhone", "6&&13"], "object": ["8&&Google", "9&&Pixel", "10&&6"], "aspect": [], "predicate": []}
+
+des:	des :
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Trên lý thuyết, có vẻ như Google Pixel 6 có thiết lập máy ảnh thú vị hơn khi nó đi kèm với cảm biến chính 50MP với OIS và một máy ảnh siêu rộng 12MP.	Trên lý thuyết , có vẻ như Google Pixel 6 có thiết lập máy ảnh thú vị hơn khi nó đi kèm với cảm biến chính 50MP với OIS và một máy ảnh siêu rộng 12MP .
+
+Còn hệ thống camera kép của iPhone 13 chỉ có cùng độ phân giải 12MP.	Còn hệ thống camera kép của iPhone 13 chỉ có cùng độ phân giải 12MP .
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Dù vậy, về chất lượng ảnh thực tế thì nhiều khả năng bộ đôi điện thoại này sẽ cho ra những bức ảnh không chênh lệch nhau quá nhiều và dư sức đáp ứng tốt nhu cầu sử dụng hàng ngày của người dùng.	Dù vậy , về chất lượng ảnh thực tế thì nhiều khả năng bộ đôi điện thoại này sẽ cho ra những bức ảnh không chênh lệch nhau quá nhiều và dư sức đáp ứng tốt nhu cầu sử dụng hàng ngày của người dùng .
+
+So sánh thời lượng pin	So sánh thời lượng pin
+
+alt: So sánh iPhone 13 và Google Pixel 6 (ảnh 6)	alt : So sánh iPhone 13 và Google Pixel 6 ( ảnh 6 )
+{"label": "SUP+", "subject": ["5&&iPhone", "6&&13"], "object": ["8&&Google", "9&&Pixel", "10&&6"], "aspect": [], "predicate": []}
+
+des:	des :
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Google Pixel 6 có pin lớn hơn với dung lượng 4,614 mAh và Google rất giỏi trong việc tối ưu hóa điện thoại của mình để đạt được thời lượng pin cao nhất có thể.	Google Pixel 6 có pin lớn hơn với dung lượng 4,614 mAh và Google rất giỏi trong việc tối ưu hóa điện thoại của mình để đạt được thời lượng pin cao nhất có thể .
+
+Do đó, iPhone 13 nhiều khả năng sẽ có thời lượng pin kém hơn một chút so với đối thủ đến từ Google.	Do đó , iPhone 13 nhiều khả năng sẽ có thời lượng pin kém hơn một chút so với đối thủ đến từ Google .
+{"label": "COM+", "subject": [], "object": ["20&&\u0111\u1ed1i", "21&&th\u1ee7", "22&&\u0111\u1ebfn", "23&&t\u1eeb", "24&&Google"], "aspect": ["11&&th\u1eddi", "12&&l\u01b0\u1ee3ng", "13&&pin"], "predicate": ["14&&k\u00e9m", "15&&h\u01a1n", "16&&m\u1ed9t", "17&&ch\u00fat"]}
+
+Tạm kết	Tạm kết
+
+alt: So sánh iPhone 13 và Google Pixel 6 (ảnh 7)	alt : So sánh iPhone 13 và Google Pixel 6 ( ảnh 7 )
+{"label": "EQL", "subject": ["5&&iPhone", "6&&13"], "object": ["8&&Google", "9&&Pixel", "10&&6"], "aspect": [], "predicate": []}
+{"label": "COM+", "subject": ["5&&iPhone", "6&&13"], "object": ["8&&Google", "9&&Pixel", "10&&6"], "aspect": [], "predicate": []}
+
+des:	des :
+{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Nhìn chung, Pixel 6 mang đến nhiều cải tiến so với mẫu máy tiền nhiệm, nhưng rõ ràng iPhone 13 là một lựa chọn tốt hơn cho người dùng khi sở hữu màn hình cực kỳ chất lượng, hiệu năng mạnh mẽ và hệ thống camera tuyệt vời..	Nhìn chung , Pixel 6 mang đến nhiều cải tiến so với mẫu máy tiền nhiệm , nhưng rõ ràng iPhone 13 là một lựa chọn tốt hơn cho người dùng khi sở hữu màn hình cực kỳ chất lượng , hiệu năng mạnh mẽ và hệ thống camera tuyệt vời . .
+{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": []}
+
+Tuy nhiên, Pixel 6 có thể khiến chúng ta ngạc nhiên trong tương lai với các tính năng mới và sự tối ưu hóa của nó, vì vậy đừng đánh giá thấp điện thoại này.	Tuy nhiên , Pixel 6 có thể khiến chúng ta ngạc nhiên trong tương lai với các tính năng mới và sự tối ưu hóa của nó , vì vậy đừng đánh giá thấp điện thoại này .
+
