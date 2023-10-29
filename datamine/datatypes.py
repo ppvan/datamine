@@ -6,16 +6,16 @@ import json
 Tag = Literal[
     "B-Sub", "I-Sub", "B-Obj", "I-Obj", "B-Asp", "I-Asp", "B-Pre", "I-Pre", "O"
 ]
+LabelClass = Literal["No", "DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
 
 
 @dataclass
 class Record:
+    original: str
     sentence: str
     # label None means we using dev dataset (no labels)
     quintuples: List[Dict]
-    comparative: List[
-        Literal[["No", "DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]]
-    ] = field(default_factory=list)
+    comparative: List[LabelClass] = field(default_factory=list)
 
     @staticmethod
     def parse(raw: str):
@@ -26,7 +26,7 @@ class Record:
             raise ValueError(f"Invalid record format: {raw}")
 
         sentences, *raw_labels = raw.split("\n")
-        _, tokenized_sentence = sentences.split("\t")
+        original, tokenized_sentence = sentences.split("\t")
 
         quintuples = [json.loads(label) for label in raw_labels]
         comparative = [tup["label"] for tup in quintuples]
@@ -34,7 +34,8 @@ class Record:
             comparative = ["No"]
 
         return Record(
-            sentence=tokenized_sentence, quintuples=quintuples, comparative=comparative
+            original=original,
+            sentence=tokenized_sentence,
+            quintuples=quintuples,
+            comparative=comparative,
         )
-
-    pass
