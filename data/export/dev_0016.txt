@@ -35,16 +35,17 @@ alt: so-sanh-samsung-galaxy-a53-5g-va-galaxy-a73-5g-7	alt : so-sanh-samsung-gala
 des: Mặt trước Samsung Galaxy A53 5G	des : Mặt trước Samsung Galaxy A53 5G
 
 Mặt trước của cả hai máy đều là màn hình tràn viền với 85,1% mặt trước trên Vivo T1 5G và trên Galaxy A73 màn hình chiếm đến 87% mặt trước.	Mặt trước của cả hai máy đều là màn hình tràn viền với   85,1% mặt trước trên Vivo T1 5G và trên Galaxy A73 màn hình chiếm đến 87% mặt trước .
-{"subject": ["19&&Vivo", "20&&T1", "21&&5G"], "object": ["4&&cả", "5&&hai", "6&&máy", "24&&Galaxy", "25&&A73", "26&&màn", "27&&hình", "28&&chiếm", "29&&đến", "30&&87%", "31&&mặt", "32&&trước"], "aspect": [], "predicate": [], "label": "EQL"}
+{"subject": [], "object": ["4&&cả", "5&&hai", "6&&máy", "14&& ", "15&&85,1%", "16&&mặt", "17&&trước", "18&&trên", "19&&Vivo", "20&&T1", "21&&5G", "24&&Galaxy", "25&&A73", "26&&màn", "27&&hình", "28&&chiếm", "29&&đến", "30&&87%", "31&&mặt", "32&&trước"], "aspect": ["1&&Mặt", "2&&trước"], "predicate": [], "label": "EQL"}
 
 Phần viền dưới các các viền xung quanh của Galaxy A73 sẽ mỏng hơn và chỗ đặt camera trước là một chấm nhỏ, nhìn cao cấp và hiện đại hơn màn hình dạng giọt nước đã "quá cổ" của chiếc T1 5G.	Phần viền dưới các các viền xung quanh của Galaxy A73 sẽ mỏng hơn và chỗ đặt camera trước là một chấm nhỏ , nhìn cao cấp và hiện đại hơn màn hình dạng giọt nước đã " quá cổ " của chiếc T1 5G .
-{"subject": ["1&&Phần", "2&&viền", "3&&dưới", "4&&các", "5&&các", "6&&viền", "7&&xung", "8&&quanh", "9&&của", "10&&Galaxy", "11&&A73"], "object": ["43&&chiếc", "44&&T1", "45&&5G"], "aspect": [], "predicate": ["13&&mỏng", "14&&hơn", "39&&quá", "40&&cổ"], "label": "COM+"}
+{"subject": ["10&&Galaxy", "11&&A73"], "object": ["32&&màn", "33&&hình", "34&&dạng", "35&&giọt", "36&&nước", "37&&đã", "39&&quá", "40&&cổ", "42&&của", "43&&chiếc", "44&&T1", "45&&5G"], "aspect": [], "predicate": ["13&&mỏng", "14&&hơn", "26&&cao", "27&&cấp", "28&&và", "29&&hiện", "30&&đại", "31&&hơn"], "label": "COM+"}
 
 alt: vivo-t1-5g-4-1	alt : vivo-t1 - 5g - 4 - 1
 
 des: Mặt sau Vivo T1 5G	des : Mặt sau Vivo T1 5G
 
 Hơn nữa, Vivo T1 5G cũng thua thiệt hơn về khả năng kháng nước, khi máy không hỗ trợ tính năng này trong khi Samsung Galaxy A73 5G đạt chuẩn IP67 giúp người tha hồ đi mưa mà không lo hỏng thiết bị.	Hơn nữa , Vivo T1 5G cũng thua thiệt hơn về khả năng kháng nước , khi máy không hỗ trợ tính năng này trong khi Samsung Galaxy A73 5G đạt chuẩn IP67 giúp người tha hồ đi mưa mà không lo hỏng thiết bị .
+{"subject": ["4&&Vivo", "5&&T1", "6&&5G", "18&&máy", "27&&Samsung", "28&&Galaxy", "29&&A73", "30&&5G"], "object": [], "aspect": ["12&&khả", "13&&năng", "14&&kháng", "15&&nước"], "predicate": ["8&&thua", "9&&thiệt", "10&&hơn", "19&&không", "20&&hỗ", "21&&trợ", "22&&tính", "23&&năng", "24&&này"], "label": "COM-"}
 
 alt: vivo-t1-5g-chinh-hang-14	alt : vivo-t1 - 5g-chinh-hang - 14
 
@@ -55,14 +56,14 @@ Màn hình	Màn hình
 Cả Vivo T1 5G và Samsung Galaxy A73 5G đều được trang bị màn hình tấm nền AMOLED, Samsung đặt cho màn hình của A73 do mình tự sản xuất với cái tên mỹ miều là Super AMOLED Plus.	Cả Vivo T1 5G và Samsung Galaxy A73 5G đều được trang bị màn hình tấm nền AMOLED , Samsung đặt cho màn hình của A73 do mình tự sản xuất với cái tên mỹ miều là   Super AMOLED Plus .
 
 Chúng đều có chung độ phân giải Full HD+, nhưng Vivo T1 có mật độ điểm ảnh lên tới 409 PPI cao hơn 393 PPI trên đối thủ, do nó có màn hình nhỏ hơn.	Chúng đều có chung độ phân giải Full HD + , nhưng Vivo T1 có mật độ điểm ảnh lên tới 409 PPI cao hơn 393 PPI trên đối thủ , do nó có màn hình nhỏ hơn .
-{"subject": ["13&&Vivo", "14&&T1", "33&&nó"], "object": [], "aspect": ["5&&độ", "6&&phân", "7&&giải", "8&&Full", "9&&HD", "35&&màn", "36&&hình"], "predicate": ["37&&nhỏ", "38&&hơn"], "label": "COM+"}
+{"subject": ["33&&nó"], "object": [], "aspect": ["35&&màn", "36&&hình"], "predicate": ["37&&nhỏ", "38&&hơn"], "label": "COM+"}
+{"subject": ["33&&nó"], "object": [], "aspect": ["35&&màn", "36&&hình"], "predicate": ["37&&nhỏ", "38&&hơn"], "label": "COM-"}
 
 alt: so-sanh-samsung-galaxy-a53-5g-va-galaxy-a73-5g-16	alt : so-sanh-samsung-galaxy-a53 - 5g-va-galaxy-a73 - 5g - 16
 
 des: Màn hình Samsung Galaxy A73 5G	des : Màn hình Samsung Galaxy A73 5G
 
 Vivo trang bị cho chiếc máy của mình công nghệ HDR10+ giúp tăng cường khả năng hiển thị và độ tương phản cho hình ảnh sống động hơn.	Vivo trang bị cho chiếc máy của mình công nghệ HDR10 + giúp tăng cường khả năng hiển thị và độ tương phản cho hình ảnh sống động hơn .
-{"subject": ["5&&chiếc", "6&&máy"], "object": [], "aspect": ["21&&độ", "22&&tương", "23&&phản"], "predicate": ["27&&sống", "28&&động", "29&&hơn"], "label": "COM+"}
 
 Còn chiếc máy của Samsung thì không có được tính năng này.	Còn chiếc máy của Samsung thì không có được tính năng này .
 
@@ -73,7 +74,7 @@ des: Màn hình Vivo T1 5G	des : Màn hình Vivo T1 5G
 Galaxy A73 hỗ trợ độ sáng lên tới 800 nits ở chế độ HBM trong khi T1 có thể kích thích lên được 1300 nits.	Galaxy A73 hỗ trợ độ sáng lên tới 800 nits ở chế độ HBM trong khi T1 có thể kích thích lên được 1300 nits .
 
 Điện thoại A73 thắng thế về tốc độ làm tươi, nó có tần số quét 120Hz cao hơn so với 90Hz của T1.	Điện thoại A73 thắng thế về tốc độ làm tươi , nó có tần số quét 120Hz cao hơn so với 90Hz của T1 .
-{"subject": ["1&&Điện", "2&&thoại", "3&&A73", "12&&nó"], "object": ["22&&90Hz", "23&&của", "24&&T1"], "aspect": ["14&&tần", "15&&số", "16&&quét", "17&&120Hz"], "predicate": ["4&&thắng", "5&&thế", "18&&cao", "19&&hơn"], "label": "COM+"}
+{"subject": ["12&&nó"], "object": ["24&&T1"], "aspect": ["14&&tần", "15&&số", "16&&quét", "17&&120Hz"], "predicate": ["18&&cao", "19&&hơn"], "label": "COM+"}
 
 Cả hai máy đều được trang bị cảm biến vân tay trong màn hình tốc độ nhanh và nhạy.	Cả hai máy đều được trang bị cảm biến vân tay trong màn hình tốc độ nhanh và nhạy .
 {"subject": [], "object": ["1&&Cả", "2&&hai", "3&&máy"], "aspect": ["8&&cảm", "9&&biến", "10&&vân", "11&&tay", "12&&trong", "13&&màn", "14&&hình"], "predicate": ["4&&đều", "5&&được", "6&&trang", "7&&bị"], "label": "EQL"}
@@ -108,15 +109,16 @@ alt: danh-gia-vivo-t1-5g-chinh-hang-6	alt : danh-gia-vivo-t1 - 5g-chinh-hang - 6
 des: Điện thoại Vivo T1 5G	des : Điện thoại Vivo T1 5G
 
 Về kết nối, cả hai máy đều có thể truy cập internet với 5G.	Về kết nối , cả hai máy đều có thể truy cập internet với 5G .
-{"subject": [], "object": ["5&&cả", "6&&hai", "7&&máy", "15&&5G"], "aspect": [], "predicate": ["8&&đều", "9&&có"], "label": "EQL"}
+{"subject": [], "object": ["5&&cả", "6&&hai", "7&&máy"], "aspect": [], "predicate": ["8&&đều", "9&&có", "10&&thể", "11&&truy", "12&&cập", "13&&internet"], "label": "EQL"}
 
 Vivo T1 5G được tích hợp Bluetooth 5.2 hiện đại và mới hơn 5.0 trên A73, bù lại chiếc máy của Samsung lại có Wi-Fi 802.11 a/b/g/n/ac/6 cao hơn Wi-Fi 802.11 a/b/g/n/ac trên đối thủ.	Vivo T1 5G được tích hợp Bluetooth 5.2 hiện đại và mới hơn 5.0 trên A73 , bù lại chiếc máy của Samsung lại có Wi-Fi 802.11 a / b / g / n / ac / 6 cao hơn   Wi-Fi 802.11 a / b / g / n / ac trên đối thủ .
-{"subject": ["1&&Vivo", "2&&T1", "3&&5G", "20&&chiếc", "21&&máy", "22&&của", "23&&Samsung"], "object": ["14&&5.0", "15&&trên", "16&&A73", "54&&đối", "55&&thủ"], "aspect": [], "predicate": ["12&&mới", "13&&hơn"], "label": "COM+"}
+{"subject": ["1&&Vivo", "2&&T1", "3&&5G", "20&&chiếc", "21&&máy", "22&&của", "23&&Samsung"], "object": ["54&&đối", "55&&thủ"], "aspect": ["7&&Bluetooth", "8&&5.2"], "predicate": ["9&&hiện", "10&&đại", "11&&và", "12&&mới", "13&&hơn"], "label": "COM+"}
 
 Pin và sạc nhanh	Pin và sạc nhanh
 
 Samsung Galaxy A73 được trang bị viên pin 5000 mAh cao hơn viên pin 4700 mAh của đối thủ nhưng lại không "có tuổi" khi so sánh về công suất sạc.	Samsung Galaxy A73 được trang bị viên pin 5000 mAh cao hơn viên pin 4700 mAh của đối thủ nhưng lại không " có tuổi " khi so sánh về công suất sạc .
-{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A73"], "object": ["18&&đối", "19&&thủ", "20&&nhưng", "21&&lại", "22&&không"], "aspect": ["31&&công", "32&&suất", "33&&sạc"], "predicate": ["27&&khi", "28&&so", "29&&sánh", "30&&về"], "label": "COM+"}
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A73"], "object": [], "aspect": ["31&&công", "32&&suất", "33&&sạc"], "predicate": ["22&&không", "24&&có", "25&&tuổi"], "label": "COM+"}
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A73"], "object": [], "aspect": ["31&&công", "32&&suất", "33&&sạc"], "predicate": ["22&&không", "24&&có", "25&&tuổi"], "label": "COM-"}
 
 Vivo hào phóng trang bị sạc nhanh 66W cho thiết bị của mình, bạn chỉ cần 18 phút để kích viền pin của máy từ 0 lên 50%.	Vivo hào phóng trang bị sạc nhanh 66W cho thiết bị của mình , bạn chỉ cần 18 phút để kích viền pin của máy từ 0 lên 50% .
 
@@ -140,16 +142,17 @@ Lưu ý: giá bán có thể thay đổi theo từng thời điểm khác nhau.	
 Ưu và nhược điểm Vivo T1 5G và Samsung Galaxy A73 5G	Ưu và nhược điểm   Vivo T1 5G và Samsung Galaxy A73 5G
 
 Khi so về giá bán trên hiệu năng thì Vivo T1 5G có lợi thế hoàn toàn.	Khi so về giá bán trên hiệu năng thì Vivo T1 5G có lợi thế hoàn toàn .
+{"subject": ["10&&Vivo", "11&&T1", "12&&5G"], "object": [], "aspect": ["4&&giá", "5&&bán", "6&&trên", "7&&hiệu", "8&&năng"], "predicate": ["14&&lợi", "15&&thế", "16&&hoàn", "17&&toàn"], "label": "COM+"}
 
 Tuy nhiên, chọn mua một chiếc điện thoại đúng nhu cầu sử dụng ta cần biết thêm các điểm mạnh và điểm của chiếc máy đó với đối thủ của nó.	Tuy nhiên , chọn mua một chiếc điện thoại đúng nhu cầu sử dụng ta cần biết thêm các điểm mạnh và điểm của chiếc máy đó với đối thủ của nó .
 
 Qua bài so sánh trên đây, nhận thấy:Nếu bạn cần một chiếc máy hiệu năng cao giá thành phải chăng, không quan trọng về dạng màn hình đục lỗ hay notch, có đủ phụ kiện và công nghệ sạc nhanh siêu tốc 66W thì Vivo T1 5G là lựa chọn tốt nhất trong khoảng giá dưới 8 triệu Chính hãng.	Qua bài so sánh trên đây , nhận thấy : Nếu bạn cần một chiếc máy hiệu năng cao giá thành phải chăng , không quan trọng về dạng màn hình đục lỗ hay notch , có đủ phụ kiện và công nghệ sạc nhanh siêu tốc 66W thì Vivo T1 5G là lựa chọn tốt nhất trong khoảng giá dưới 8 triệu Chính hãng .
+{"subject": ["50&&Vivo", "51&&T1", "52&&5G"], "object": [], "aspect": [], "predicate": [], "label": "SUP+"}
 
 Nếu bạn cần chiếc máy có thương hiệu tốt, có kháng nước IP67 yên tâm sử dụng hơn, dung lượng pin trâu, và các tính năng khác đồng đều hơn thì thêm tiền sắm Galaxy A73 5G.	Nếu bạn cần chiếc máy có thương hiệu tốt , có kháng nước IP67 yên tâm sử dụng hơn , dung lượng pin trâu , và các tính năng khác đồng đều hơn thì thêm tiền sắm Galaxy A73 5G .
-{"subject": [], "object": ["38&&Galaxy", "39&&A73", "40&&5G"], "aspect": ["27&&các", "28&&tính", "29&&năng", "30&&khác", "31&&đồng"], "predicate": ["32&&đều", "33&&hơn"], "label": "COM+"}
+{"subject": [], "object": ["38&&Galaxy", "39&&A73", "40&&5G"], "aspect": ["12&&kháng", "13&&nước", "14&&IP67", "15&&yên", "16&&tâm", "27&&các", "28&&tính", "29&&năng", "30&&khác", "31&&đồng"], "predicate": ["17&&sử", "18&&dụng", "19&&hơn", "32&&đều", "33&&hơn"], "label": "COM+"}
 
 Samsung Galaxy A73 5G	Samsung Galaxy A73 5G
 
 Nếu bạn không thích thương hiệu Samsung nhưng lại muốn tìm chiếc máy toàn diện hơn Vivo T1 5G thì hãy tham khảo thêm điện thoại Vivo Chính hãng có cấu hình ngon đang được bán tại MobileCity với giá tốt và ưu đãi hấp dẫn.	Nếu bạn không thích thương hiệu Samsung nhưng lại muốn tìm chiếc máy toàn diện hơn Vivo T1 5G thì hãy tham khảo thêm điện thoại Vivo Chính hãng có cấu hình ngon đang được bán tại MobileCity với giá tốt và ưu đãi hấp dẫn .
-{"subject": ["27&&Vivo", "28&&Chính", "29&&hãng"], "object": ["17&&Vivo", "18&&T1", "19&&5G"], "aspect": [], "predicate": [], "label": "COM+"}
 

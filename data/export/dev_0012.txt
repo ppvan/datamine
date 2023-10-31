@@ -19,6 +19,7 @@ Tuy nhiên, màn hình iPhone vẫn hoạt động tốt.	Tuy nhiên , màn hìn
 Camera trước vẫn còn sử dụng được, một số tính năng như nghe, gọi vẫn không bị ảnh hưởng.	Camera trước vẫn còn sử dụng được , một số tính năng như nghe , gọi vẫn không bị ảnh hưởng .
 
 Tỷ lệ thiệt hại này nhẹ hơn Youtuber đã dự kiến.	Tỷ lệ thiệt hại này nhẹ hơn Youtuber đã dự kiến .
+{"subject": [], "object": [], "aspect": ["1&&Tỷ", "2&&lệ", "3&&thiệt", "4&&hại", "5&&này"], "predicate": ["6&&nhẹ", "7&&hơn", "8&&Youtuber", "9&&đã", "10&&dự", "11&&kiến"], "label": "COM+"}
 
 Bài test khác dành cho màn hình Ceramic Shield trên iPhone 12 Pro	Bài test khác dành cho màn hình Ceramic Shield trên iPhone 12 Pro
 

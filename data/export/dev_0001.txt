@@ -9,8 +9,7 @@ Cùng xem bài viết để xem đâu là  điện thoại  được đánh giá
 Thiết kế	Thiết kế
 
 Nhìn thiết kế bên ngoài ta có thể thấy được sự khác biệt rõ rệt giữa hai chiếc điện thoại.	Nhìn thiết kế bên ngoài ta có thể thấy được sự khác biệt rõ rệt giữa hai chiếc điện thoại .
-{"subject": [], "object": ["17&&hai", "18&&chiếc", "19&&điện", "20&&thoại"], "aspect": ["2&&thiết", "3&&kế"], "predicate": [], "label": "DIF"}
-{"subject": [], "object": ["17&&hai", "18&&chiếc", "19&&điện", "20&&thoại"], "aspect": ["2&&thiết", "3&&kế"], "predicate": [], "label": "EQL"}
+{"subject": [], "object": ["17&&hai", "18&&chiếc", "19&&điện", "20&&thoại"], "aspect": ["2&&thiết", "3&&kế", "4&&bên", "5&&ngoài"], "predicate": [], "label": "DIF"}
 
 Ngựa chiến của  iPhone  nổi bật với ngoại hình cổ điển, cụm camera ấn tượng nhưng vẫn rất sang trọng, thanh lịch.	Ngựa chiến của iPhone nổi bật với ngoại hình cổ điển , cụm camera ấn tượng nhưng vẫn rất sang trọng , thanh lịch .
 
@@ -31,10 +30,11 @@ des: Ngoại hình bên ngoài của hai điện thoại	des : Ngoại hình bê
 Samsung Galaxy Z Fold3 được làm từ  khung nhôm  còn iPhone 13 Pro Max được làm từ  khung thép không gỉ .	Samsung Galaxy Z Fold3 được làm từ khung nhôm còn iPhone 13 Pro Max được làm từ khung thép không gỉ .
 
 Dù thép không gỉ có khối lượng nặng hơn nhưng về độ bền thì chúng ta phải công nhận rằng chúng có mức độ chóng ăn mòn, chống gỉ và cứng hơn, đảm bảo bảo vệ điện thoại trước những va đập tốt hơn.	Dù thép không gỉ có khối lượng nặng hơn nhưng về độ bền thì chúng ta phải công nhận rằng chúng có mức độ chóng ăn mòn , chống gỉ và cứng hơn , đảm bảo bảo vệ điện thoại trước những va đập tốt hơn .
-{"subject": [], "object": [], "aspect": ["35&&đảm", "36&&bảo", "37&&bảo", "38&&vệ", "39&&điện", "40&&thoại", "41&&trước", "42&&những", "43&&va", "44&&đập"], "predicate": ["45&&tốt", "46&&hơn"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["37&&bảo", "38&&vệ", "39&&điện", "40&&thoại", "41&&trước", "42&&những", "43&&va", "44&&đập"], "predicate": ["45&&tốt", "46&&hơn"], "label": "COM+"}
 
 Bên cạnh đó thì chất liệu nhôm dẫn nhiệt tốt hơn nên cũng sẽ dễ nóng hơn khi sử dụng.	Bên cạnh đó thì chất liệu nhôm dẫn nhiệt tốt hơn nên cũng sẽ dễ nóng hơn khi sử dụng .
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
+{"subject": ["5&&chất", "6&&liệu", "7&&nhôm"], "object": [], "aspect": [], "predicate": ["15&&dễ", "16&&nóng", "17&&hơn"], "label": "COM+"}
+{"subject": ["5&&chất", "6&&liệu", "7&&nhôm"], "object": [], "aspect": [], "predicate": ["15&&dễ", "16&&nóng", "17&&hơn"], "label": "COM-"}
 
 alt: So sánh hai điện thoại	alt : So sánh hai điện thoại
 
@@ -51,7 +51,7 @@ Màn hình	Màn hình
 Màn hình iPhone có  6.7 inch  trong khi đó Samsung có kích thước màn hình chính  7.6 inch  và phụ  6.2 inch .	Màn hình iPhone có 6.7 inch trong khi đó Samsung có kích thước màn hình chính 7.6 inch và phụ 6.2 inch .
 
 Với kích thước này, tầm nhìn của người xem sẽ được thoải mái hơn khi sử dụng Samsung để xem phim, chơi game trong một thời gian dài.	Với kích thước này , tầm nhìn của người xem sẽ được thoải mái hơn khi sử dụng Samsung để xem phim , chơi game trong một thời gian dài .
-{"subject": ["19&&Samsung"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
+{"subject": ["19&&Samsung"], "object": [], "aspect": ["6&&tầm", "7&&nhìn"], "predicate": ["13&&thoải", "14&&mái", "15&&hơn"], "label": "COM+"}
 
 alt: Dùng hai điện thoại đọc báo, tin tức	alt : Dùng hai điện thoại đọc báo , tin tức
 
@@ -73,7 +73,8 @@ alt: Dùng S Pen ghi chú	alt : Dùng S Pen ghi chú
 des: Dùng S Pen ghi chú	des : Dùng S Pen ghi chú
 
 Về phần này iPhone có lẽ phải "chào thua" trước đối thủ khi cả màn hình chính và phụ của Samsung đề được trang bị công nghệ cao cấp hơn.	Về phần này iPhone có lẽ phải " chào thua " trước đối thủ khi cả màn hình chính và phụ của Samsung đề được trang bị công nghệ cao cấp hơn .
-{"subject": [], "object": ["12&&trước", "13&&đối", "14&&thủ"], "aspect": ["28&&công", "29&&nghệ"], "predicate": ["9&&chào", "10&&thua", "30&&cao", "31&&cấp", "32&&hơn"], "label": "COM+"}
+{"subject": ["23&&Samsung"], "object": [], "aspect": [], "predicate": ["28&&công", "29&&nghệ", "30&&cao", "31&&cấp", "32&&hơn"], "label": "COM+"}
+{"subject": ["23&&Samsung"], "object": [], "aspect": [], "predicate": ["28&&công", "29&&nghệ", "30&&cao", "31&&cấp", "32&&hơn"], "label": "COM-"}
 
 3.	3 .
 
@@ -82,7 +83,8 @@ Thông số kỹ thuật và phần mềm	Thông số kỹ thuật và phần m�
 Về chip sử dụng, Apple trang bị cho iPhone 13 Pro Max  chip A15 Bionic   mạnh mẽ có xung nhịp tối đa lên tới 3.2 Ghz còn Samsung là  chip Snapdragon 888  8 nhân .	Về chip sử dụng , Apple trang bị cho iPhone 13 Pro Max chip A15 Bionic mạnh mẽ có xung nhịp tối đa lên tới 3.2 Ghz còn Samsung là chip Snapdragon 888 8 nhân .
 
 Dù là chip "xịn xò" nhất so với các  điện thoại Android  nhưng khi so sánh với iPhone iPhone 13 Pro Max có phần chiếm ưu thế hơn.	Dù là chip " xịn xò " nhất so với các điện thoại Android nhưng khi so sánh với iPhone iPhone 13 Pro Max có phần chiếm ưu thế hơn .
-{"subject": ["20&&iPhone", "21&&iPhone", "22&&13", "23&&Pro", "24&&Max"], "object": [], "aspect": [], "predicate": ["8&&nhất", "27&&chiếm", "28&&ưu", "29&&thế", "30&&hơn"], "label": "COM+"}
+{"subject": [], "object": ["20&&iPhone", "21&&iPhone", "22&&13", "23&&Pro", "24&&Max"], "aspect": ["3&&chip"], "predicate": ["8&&nhất", "25&&có", "26&&phần", "27&&chiếm", "28&&ưu", "29&&thế", "30&&hơn"], "label": "SUP+"}
+{"subject": [], "object": ["20&&iPhone", "21&&iPhone", "22&&13", "23&&Pro", "24&&Max"], "aspect": ["3&&chip"], "predicate": ["8&&nhất", "25&&có", "26&&phần", "27&&chiếm", "28&&ưu", "29&&thế", "30&&hơn"], "label": "COM+"}
 
 alt: Chip Snapdragon 888 trên Samsung	alt : Chip Snapdragon 888 trên Samsung
 
@@ -91,7 +93,8 @@ des: Chip Snapdragon 888 trên Samsung	des : Chip Snapdragon 888 trên Samsung
 Hệ điều hành của iPhone 13 Pro Max là  iOS 15   và Samsung Galaxy Z Fold3 là  Android 11 .	Hệ điều hành của iPhone 13 Pro Max là iOS 15 và Samsung Galaxy Z Fold3 là Android 11 .
 
 Cả hai phiên bản hệ điều hành đều là mới nhất đối với mỗi dòng.	Cả hai phiên bản hệ điều hành đều là mới nhất đối với mỗi dòng .
-{"subject": [], "object": ["1&&Cả", "2&&hai", "3&&phiên", "4&&bản", "5&&hệ", "6&&điều", "7&&hành"], "aspect": [], "predicate": ["8&&đều", "9&&là", "10&&mới", "11&&nhất", "12&&đối"], "label": "EQL"}
+{"subject": ["1&&Cả", "2&&hai", "3&&phiên", "4&&bản", "5&&hệ", "6&&điều", "7&&hành"], "object": [], "aspect": [], "predicate": ["10&&mới", "11&&nhất", "12&&đối", "13&&với", "14&&mỗi", "15&&dòng"], "label": "EQL"}
+{"subject": ["1&&Cả", "2&&hai", "3&&phiên", "4&&bản", "5&&hệ", "6&&điều", "7&&hành"], "object": [], "aspect": [], "predicate": ["10&&mới", "11&&nhất", "12&&đối", "13&&với", "14&&mỗi", "15&&dòng"], "label": "SUP+"}
 
 alt: Chip A15 trên iPhone	alt : Chip A15 trên iPhone
 
@@ -108,8 +111,7 @@ Camera	Camera
 Camera của iPhone luôn là một trong những điểm mạnh của hãng, với iPhone 13 Pro Max cũng thế.	Camera của iPhone luôn là một trong những điểm mạnh của hãng , với iPhone 13 Pro Max cũng thế .
 
 Các tín đồ công nghệ đánh giá camera của iPhone 13 Pro Max cao hơn hẳn khi có cả 3 camera sau và 1 camera trước đều đạt  12MP  trong khi camera trước của Samsung chỉ có  10 MP & 4 MP .	Các tín đồ công nghệ đánh giá camera của iPhone 13 Pro Max cao hơn hẳn khi có cả 3 camera sau và 1 camera trước đều đạt 12MP trong khi camera trước của Samsung chỉ có 10 MP & 4 MP .
-{"subject": ["8&&camera", "9&&của", "10&&iPhone", "11&&13", "12&&Pro", "13&&Max"], "object": [], "aspect": [], "predicate": ["14&&cao", "15&&hơn", "16&&hẳn"], "label": "EQL"}
-{"subject": ["8&&camera", "9&&của", "10&&iPhone", "11&&13", "12&&Pro", "13&&Max"], "object": [], "aspect": [], "predicate": ["14&&cao", "15&&hơn", "16&&hẳn"], "label": "COM+"}
+{"subject": ["10&&iPhone", "11&&13", "12&&Pro", "13&&Max"], "object": [], "aspect": [], "predicate": ["14&&cao", "15&&hơn", "16&&hẳn"], "label": "COM+"}
 
 alt: Chụp ảnh trên iPhone 13 Pro Max	alt : Chụp ảnh trên iPhone 13 Pro Max
 
@@ -128,7 +130,8 @@ Thời lượng pin	Thời lượng pin
 Dung lượng pin của iPhone 13 Pro Max và Samsung Galaxy Z Fold3 lần lượt là  4352 mAh  và  4400 mAh .	Dung lượng pin của iPhone 13 Pro Max và Samsung Galaxy Z Fold3 lần lượt là 4352 mAh và 4400 mAh .
 
 Dù mức pin xấp xỉ nhau nhưng chúng ta phải công nhận rằng Samsung có pin ổn hơn rất nhiều lần so với iPhone bởi hệ điều hành của chúng tiêu thụ pin ít hơn.	Dù mức pin xấp xỉ nhau nhưng chúng ta phải công nhận rằng Samsung có pin ổn hơn rất nhiều lần so với iPhone bởi hệ điều hành của chúng tiêu thụ pin ít hơn .
-{"subject": ["14&&Samsung"], "object": [], "aspect": ["16&&pin", "31&&tiêu", "32&&thụ", "33&&pin"], "predicate": ["17&&ổn", "18&&hơn", "19&&rất", "20&&nhiều", "21&&lần", "34&&ít", "35&&hơn"], "label": "COM+"}
+{"subject": ["14&&Samsung"], "object": ["24&&iPhone"], "aspect": ["16&&pin", "26&&hệ", "27&&điều", "28&&hành"], "predicate": ["17&&ổn", "18&&hơn", "19&&rất", "20&&nhiều", "21&&lần", "31&&tiêu", "32&&thụ", "33&&pin", "34&&ít", "35&&hơn"], "label": "COM+"}
+{"subject": ["14&&Samsung"], "object": ["24&&iPhone"], "aspect": ["16&&pin", "26&&hệ", "27&&điều", "28&&hành"], "predicate": ["17&&ổn", "18&&hơn", "19&&rất", "20&&nhiều", "21&&lần", "31&&tiêu", "32&&thụ", "33&&pin", "34&&ít", "35&&hơn"], "label": "COM-"}
 
 alt: Điện thoại iPhone 13 Pro Max	alt : Điện thoại iPhone 13 Pro Max
 
@@ -142,7 +145,7 @@ Công nghệ sạc nhanh 25W của Samsung cũng giúp chiếc smartphone này c
 Kết nối	Kết nối
 
 Cả hai chiếc điện thoại đều sở hữu công nghệ  kết nối 5G  tương lai thời thượng.	Cả hai chiếc điện thoại đều sở hữu công nghệ kết nối 5G tương lai thời thượng .
-{"subject": [], "object": ["1&&Cả", "2&&hai", "3&&chiếc", "4&&điện", "5&&thoại"], "aspect": ["9&&công", "10&&nghệ"], "predicate": ["6&&đều", "7&&sở", "8&&hữu"], "label": "EQL"}
+{"subject": [], "object": ["1&&Cả", "2&&hai", "3&&chiếc", "4&&điện", "5&&thoại"], "aspect": ["9&&công", "10&&nghệ", "11&&kết", "12&&nối", "13&&5G", "14&&tương", "15&&lai", "16&&thời", "17&&thượng"], "predicate": ["6&&đều", "7&&sở", "8&&hữu"], "label": "EQL"}
 
 Dù cả hai điện thoại để sử dụng được 2  SIM  nhưng iPhone 13 Pro Max có 1 Nano SIM và 1  eSIM  có thể làm khó khăn với người dùng bởi ở Việt Nam thì lượng người biết đến eSIM vẫn chưa nhiều.	Dù cả hai điện thoại để sử dụng được 2 SIM nhưng iPhone 13 Pro Max có 1 Nano SIM và 1 eSIM có thể làm khó khăn với người dùng bởi ở Việt Nam thì lượng người biết đến eSIM vẫn chưa nhiều .
 
@@ -173,6 +176,7 @@ des: Trên tai hai đối thủ nặng ký hiện tại	des : Trên tai hai đ�
 Nên mua iPhone 13 Pro Max và Samsung Galaxy Z Fold3?	Nên mua iPhone 13 Pro Max và Samsung Galaxy Z Fold3 ?
 
 Mỗi điện thoại đều có những tính năng đặc biệt riêng.	Mỗi điện thoại đều có những tính năng đặc biệt riêng .
+{"subject": [], "object": ["1&&Mỗi", "2&&điện", "3&&thoại"], "aspect": ["6&&những", "7&&tính", "8&&năng", "9&&đặc", "10&&biệt", "11&&riêng"], "predicate": ["4&&đều", "5&&có"], "label": "EQL"}
 
 Dựa trên những phân tích chi tiết trên, so sánh với nhu cầu, sở thích, tài chính của bản thân thì mình tin bạn sẽ chọn ra được cho mình chiếc "dế cưng" phù hợp.	Dựa trên những phân tích chi tiết trên , so sánh với nhu cầu , sở thích , tài chính của bản thân thì mình tin bạn sẽ chọn ra được cho mình chiếc " dế cưng " phù hợp .
 

@@ -15,7 +15,7 @@ Thông số kỹ thuật	Thông số kỹ thuật
 Thiết kế	Thiết kế
 
 Phong cách thiết kế của chiếc Galaxy M31s này chẳng có gì khác biệt so với các mẫu điện thoại tầm trung mới ra trong năm 2020 của Samsung cả.	Phong cách thiết kế của chiếc Galaxy M31s này chẳng có gì khác biệt so với các mẫu điện thoại tầm trung mới ra trong năm 2020 của Samsung cả .
-{"subject": [], "object": ["7&&Galaxy", "8&&M31s", "9&&này"], "aspect": [], "predicate": ["10&&chẳng", "11&&có", "12&&gì", "13&&khác", "14&&biệt"], "label": "EQL"}
+{"subject": ["6&&chiếc", "7&&Galaxy", "8&&M31s"], "object": ["17&&các", "18&&mẫu", "19&&điện", "20&&thoại", "21&&tầm", "22&&trung", "23&&mới", "24&&ra", "25&&trong", "26&&năm", "27&&2020", "28&&của", "29&&Samsung", "30&&cả"], "aspect": ["1&&Phong", "2&&cách", "3&&thiết", "4&&kế"], "predicate": ["10&&chẳng", "11&&có", "12&&gì", "13&&khác", "14&&biệt"], "label": "DIF"}
 
 Có lẽ điều phân biệt đáng chú ý là phần đục lỗ ở trung tâm màn hình và màu sắc đặc biệt của máy mà thôi.	Có lẽ điều phân biệt đáng chú ý là phần đục lỗ ở trung tâm màn hình và màu sắc đặc biệt của máy mà thôi .
 
@@ -32,8 +32,10 @@ Nó vẫn có sức hút đáng kể cho chiếc điện thoại Samsung này.	N
 Samsung Galaxy M31s mặc dù được hoàn thiện bằng nhựa nhưng nó vẫn nặng tới 203g.	Samsung Galaxy M31s mặc dù được hoàn thiện bằng nhựa nhưng nó vẫn nặng tới 203g .
 
 Một nguyên nhân quan trọng là nó trang bị viên pin lên tới 6000 mAh nổi bật nhất ở tầm giá này.	Một nguyên nhân quan trọng là nó trang bị viên pin lên tới 6000 mAh nổi bật nhất ở tầm giá này .
+{"subject": [], "object": [], "aspect": [], "predicate": ["16&&nổi", "17&&bật", "18&&nhất", "19&&ở", "20&&tầm", "21&&giá", "22&&này"], "label": "SUP+"}
 
 Nó chỉ thua kèm đôi chút với pin 7000mAh của  Galaxy M51  mà thôi.	Nó chỉ thua kèm đôi chút với pin 7000mAh của Galaxy M51 mà thôi .
+{"subject": ["11&&Galaxy", "12&&M51"], "object": [], "aspect": [], "predicate": ["3&&thua", "4&&kèm", "5&&đôi", "6&&chút"], "label": "COM-"}
 
 Cảm giác cầm nắm vẫn rất tốt với các góc cạnh bo tròn và mềm mại.	Cảm giác cầm nắm vẫn rất tốt với các góc cạnh bo tròn và mềm mại .
 
@@ -58,6 +60,7 @@ Nó là màn hình phẳng và không có độ cong nào để hạn chế các
 Nhưng mình nghĩ trải nghiệm như thế này là quá đủ cho một điện thoại tầm trung.	Nhưng mình nghĩ trải nghiệm như thế này là quá đủ cho một điện thoại tầm trung .
 
 Hơn nữa phần cằm máy không quá dày như những điện thoại khác.	Hơn nữa phần cằm máy không quá dày như những điện thoại khác .
+{"subject": ["5&&máy"], "object": ["10&&những", "11&&điện", "12&&thoại", "13&&khác"], "aspect": ["3&&phần", "4&&cằm"], "predicate": ["6&&không", "7&&quá", "8&&dày", "9&&như"], "label": "COM"}
 
 Mặt sau	Mặt sau
 
@@ -136,6 +139,7 @@ Cạnh dưới khá tối màu cho cả màu đen và màu xanh nên mình phả
 Loa ngoài có âm lượng khá lớn nhưng không phải âm thanh nổi.	Loa ngoài có âm lượng khá lớn nhưng không phải âm thanh nổi .
 
 Tích hợp cổng sạc type C cho tốc độ sạc nhanh hơn và khả năng truyền tải dữ liệu cũng nhanh chóng và hiệu quả hơn.	Tích hợp cổng sạc type C cho tốc độ sạc nhanh hơn và khả năng truyền tải dữ liệu cũng nhanh chóng và hiệu quả hơn .
+{"subject": ["3&&cổng", "4&&sạc", "5&&type", "6&&C"], "object": [], "aspect": ["14&&khả", "15&&năng", "16&&truyền", "17&&tải", "18&&dữ", "19&&liệu"], "predicate": ["21&&nhanh", "22&&chóng", "23&&và", "24&&hiệu", "25&&quả", "26&&hơn"], "label": "COM+"}
 
 Màn hình	Màn hình
 
@@ -162,7 +166,6 @@ Màn hình này có độ sáng cao, như vậy bạn sẽ dễ dàng sử dụn
 Nó có độ tương phản cao, màu đen sâu nên hiển thị rất sắc nét.	Nó có độ tương phản cao , màu đen sâu nên hiển thị rất sắc nét .
 
 Tái tạo màu sắc rất tự nhiên nhưng mình nghĩ bạn nên để nó ở chế độ sống động để có màu sắc bão hòa hơn.	Tái tạo màu sắc rất tự nhiên nhưng mình nghĩ bạn nên để nó ở chế độ sống động để có màu sắc bão hòa hơn .
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Nó chỉ có tốc độ làm mới tiêu chuẩn 60Hz, điều này không phải là vấn đề lớn ở mức giá này.	Nó chỉ có tốc độ làm mới tiêu chuẩn 60Hz , điều này không phải là vấn đề lớn ở mức giá này .
 
@@ -213,7 +216,7 @@ Bộ xử lý không được để ý nhiều, bằng chứng là Exynos 9611 k
 CPU chưa đủ đáp ứng lại thêm màn hình 60Hz khiến bạn đôi khi chỉ mở các ứng dụng thôi cũng có sự giật lag chứ chưa nói tới dùng ứng dụng nặng.	CPU chưa đủ đáp ứng lại thêm màn hình 60Hz khiến bạn đôi khi chỉ mở các ứng dụng thôi cũng có sự giật lag chứ chưa nói tới dùng ứng dụng nặng .
 
 Thêm vào đó là GPU quá lỗi thời cho năm nay, trong khi các đối thủ đã có cho mình GPU tốt hơn nhiều với cùng mức giá.	Thêm vào đó là GPU quá lỗi thời cho năm nay , trong khi các đối thủ đã có cho mình GPU tốt hơn nhiều với cùng mức giá .
-{"subject": [], "object": [], "aspect": ["28&&mức", "29&&giá"], "predicate": [], "label": "COM+"}
+{"subject": ["15&&các", "16&&đối", "17&&thủ"], "object": [], "aspect": ["28&&mức", "29&&giá"], "predicate": [], "label": "COM+"}
 
 Xử lý đồ họa kém cũng đồng nghĩa với việc chơi game là một điều xa vời.	Xử lý đồ họa kém cũng đồng nghĩa với việc chơi game là một điều xa vời .
 
@@ -222,6 +225,7 @@ Hiệu năng CPU	Hiệu năng CPU
 Để đánh giá CPU chính xác hơn chúng ta sử dụng phần mềm đánh giá GeekBench cho đa lõi và lõi đơn.	Để đánh giá CPU chính xác hơn chúng ta sử dụng phần mềm đánh giá GeekBench cho đa lõi và lõi đơn .
 
 Nhìn vào kết quả thực sự khiến mình thất vọng khi Galaxy M31s luôn đứng ở hạng chót trong những đối thủ cùng phân khúc.	Nhìn vào kết quả thực sự khiến mình thất vọng khi Galaxy M31s luôn đứng ở hạng chót trong những đối thủ cùng phân khúc .
+{"subject": ["12&&Galaxy", "13&&M31s"], "object": [], "aspect": [], "predicate": ["15&&đứng", "16&&ở", "17&&hạng", "18&&chót", "19&&trong", "20&&những", "21&&đối", "22&&thủ", "23&&cùng", "24&&phân", "25&&khúc"], "label": "SUP+"}
 
 GeekBench 5.1 (đa lõi)	GeekBench 5.1 ( đa lõi )
 
@@ -238,12 +242,14 @@ des: Đánh giá Samsung Galaxy M31s	des : Đánh giá Samsung Galaxy M31s
 Trong khi các đối thủ ở cùng mức giá vẫn trang bị cho điện thoại của họ bộ xử lý Snapdragon 720G mạnh mẽ cho tầm trung.	Trong khi các đối thủ ở cùng mức giá vẫn trang bị cho điện thoại của họ bộ xử lý Snapdragon 720G mạnh mẽ cho tầm trung .
 
 Chúng ta biết nói gì đây, chúng đã vượt xa quá nhiều so với chiếc M31s này.	Chúng ta biết nói gì đây , chúng đã vượt xa quá nhiều so với chiếc M31s này .
+{"subject": [], "object": [], "aspect": [], "predicate": ["10&&vượt", "11&&xa", "12&&quá", "13&&nhiều"], "label": "COM+"}
 
 Hoặc nói chính xác hơn là bộ xử lý của M31s quá lỗi thời.	Hoặc nói chính xác hơn là bộ xử lý của M31s quá lỗi thời .
 
 Hiệu năng GPU	Hiệu năng GPU
 
 GPU cũng chỉ đến thế khi nó vẫn đứng ở cuối bảng so sánh của chúng ta.	GPU cũng chỉ đến thế khi nó vẫn đứng ở cuối bảng so sánh của chúng ta .
+{"subject": ["7&&nó"], "object": [], "aspect": [], "predicate": ["9&&đứng", "10&&ở", "11&&cuối"], "label": "SUP-"}
 
 Biết nói sao bây giờ đây, vẫn là một khoảng cách quá dài để có thể san bằng.	Biết nói sao bây giờ đây , vẫn là một khoảng cách quá dài để có thể san bằng .
 
@@ -264,7 +270,7 @@ Hiệu năng tổng thể	Hiệu năng tổng thể
 Một khi CPU và GPU đứng ở cuối bảng thì hiệu năng tổng thể của điện thoại cũng chẳng khá hơn chút nào đúng không các bạn.	Một khi CPU và GPU đứng ở cuối bảng thì hiệu năng tổng thể của điện thoại cũng chẳng khá hơn chút nào đúng không các bạn .
 
 Và thực tế với điểm đánh giá AnTuTu V8, bạn có thể thấy rõ ràng điều này hơn.	Và thực tế với điểm đánh giá AnTuTu V8 , bạn có thể thấy rõ ràng điều này hơn .
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["8&&AnTuTu", "9&&V8"], "predicate": ["5&&điểm", "6&&đánh", "7&&giá"], "label": "COM+"}
 
 AnTuTu V8	AnTuTu V8
 
@@ -311,9 +317,12 @@ des: Review Samsung Galaxy M31s	des : Review Samsung Galaxy M31s
 Bạn cũng có thể chụp ảnh ở độ phân giải gốc 64MP với camera chính nhưng mình nghĩ không cần thiết.	Bạn cũng có thể chụp ảnh ở độ phân giải gốc 64MP với camera chính nhưng mình nghĩ không cần thiết .
 
 Bạn sẽ thu được thêm một ít chi tiết nhưng đổi lại bạn cần không gian lưu trữ lớn hơn mà chất lượng hình ảnh không chênh lệch nhiều so với ảnh 16MP.	Bạn sẽ thu được thêm một ít chi tiết nhưng đổi lại bạn cần không gian lưu trữ lớn hơn mà chất lượng hình ảnh không chênh lệch nhiều so với ảnh 16MP .
+{"subject": [], "object": ["32&&ảnh", "33&&16MP"], "aspect": ["22&&chất", "23&&lượng", "24&&hình", "25&&ảnh"], "predicate": ["26&&không", "27&&chênh", "28&&lệch", "29&&nhiều"], "label": "EQL"}
 {"subject": [], "object": ["32&&ảnh", "33&&16MP"], "aspect": ["22&&chất", "23&&lượng", "24&&hình", "25&&ảnh"], "predicate": ["26&&không", "27&&chênh", "28&&lệch", "29&&nhiều"], "label": "COM+"}
+{"subject": [], "object": ["32&&ảnh", "33&&16MP"], "aspect": ["22&&chất", "23&&lượng", "24&&hình", "25&&ảnh"], "predicate": ["26&&không", "27&&chênh", "28&&lệch", "29&&nhiều"], "label": "COM-"}
 
 Hơn nữa chụp ảnh 64MP không được xử lý AI nên đôi khi không đẹp bằng 16MP mặc định.	Hơn nữa chụp ảnh 64MP không được xử lý AI nên đôi khi không đẹp bằng 16MP mặc định .
+{"subject": ["3&&chụp", "4&&ảnh", "5&&64MP"], "object": ["17&&16MP", "18&&mặc", "19&&định"], "aspect": [], "predicate": ["14&&không", "15&&đẹp", "16&&bằng"], "label": "COM-"}
 
 alt: Review Samsung Galaxy M31s	alt : Review Samsung Galaxy M31s
 
@@ -324,7 +333,7 @@ des: Review Samsung Galaxy M31s	des : Review Samsung Galaxy M31s
 Trong điều kiện thiếu sáng, bạn vẫn có những tấm hình đẹp.	Trong điều kiện thiếu sáng , bạn vẫn có những tấm hình đẹp .
 
 Samsung tập trung kiểm soát độ nhiễu nhiều hơn để có những bức hình đẹp.	Samsung tập trung kiểm soát độ nhiễu nhiều hơn để có những bức hình đẹp .
-{"subject": [], "object": [], "aspect": [], "predicate": ["8&&nhiều", "9&&hơn"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Có chế độ ban đêm cho camera chính và nó làm tăng độ phơi sáng lên một chút nhưng mức độ chi tiết giảm đi.	Có chế độ ban đêm cho camera chính và nó làm tăng độ phơi sáng lên một chút nhưng mức độ chi tiết giảm đi .
 
@@ -381,7 +390,6 @@ Chụp ảnh selfie là một thế mạnh của M31s với camera selfie 32MP.	
 Trong điều kiện đủ sáng, bạn sẽ có tấm hình đẹp với đầy đủ chi tiết và màu sắc hài hòa tự nhiên.	Trong điều kiện đủ sáng , bạn sẽ có tấm hình đẹp với đầy đủ chi tiết và màu sắc hài hòa tự nhiên .
 
 Chế độ tự động làm đẹp khiến bạn trở nên lung linh hơn nhiều.	Chế độ tự động làm đẹp khiến bạn trở nên lung linh hơn nhiều .
-{"subject": [], "object": [], "aspect": [], "predicate": ["11&&lung", "12&&linh", "13&&hơn", "14&&nhiều"], "label": "COM+"}
 
 Bạn cũng có thể chụp ảnh chân dung với camera selfie với khả năng AI xóa phông khá tốt.	Bạn cũng có thể chụp ảnh chân dung với camera selfie với khả năng AI xóa phông khá tốt .
 
@@ -394,10 +402,10 @@ des: Review Samsung Galaxy M31s	des : Review Samsung Galaxy M31s
 Quay video	Quay video
 
 Nhìn chung chất lượng video khá tốt với chi tiết đầy đủ, độ tương phản cao, dải động rộng và tái tạo màu sắc tự nhiên.	Nhìn chung chất lượng video khá tốt với chi tiết đầy đủ , độ tương phản cao , dải động rộng và tái tạo màu sắc tự nhiên .
-{"subject": [], "object": [], "aspect": ["3&&chất", "4&&lượng", "5&&video"], "predicate": [], "label": "COM+"}
 
 Với sự ổn định kỹ thuật số thì giới hạn rung hạn chế hơn so với ổn định quang học.	Với sự ổn định kỹ thuật số thì giới hạn rung hạn chế hơn so với ổn định quang học .
-{"subject": [], "object": [], "aspect": ["17&&ổn", "18&&định", "19&&quang", "20&&học"], "predicate": [], "label": "COM+"}
+{"subject": ["9&&giới", "10&&hạn", "11&&rung"], "object": ["17&&ổn", "18&&định", "19&&quang", "20&&học"], "aspect": [], "predicate": ["12&&hạn", "13&&chế", "14&&hơn"], "label": "COM+"}
+{"subject": ["9&&giới", "10&&hạn", "11&&rung"], "object": ["17&&ổn", "18&&định", "19&&quang", "20&&học"], "aspect": [], "predicate": ["12&&hạn", "13&&chế", "14&&hơn"], "label": "COM-"}
 
 Tuổi thọ pin	Tuổi thọ pin
 
@@ -434,15 +442,19 @@ Khi mua sắm điện thoại, bạn sẽ cần so sánh với các đối thủ
 Tùy theo nhu cầu của mình để có được điện thoại thích hợp.	Tùy theo nhu cầu của mình để có được điện thoại thích hợp .
 
 Ngoài Galaxy M31s thì bạn còn có những lựa chọn khác ở cùng mức giá hoặc chênh lệch không nhiều.	Ngoài Galaxy M31s thì bạn còn có những lựa chọn khác ở cùng mức giá hoặc chênh lệch không nhiều .
+{"subject": ["2&&Galaxy", "3&&M31s"], "object": ["8&&những", "9&&lựa", "10&&chọn", "11&&khác"], "aspect": [], "predicate": ["17&&chênh", "18&&lệch", "19&&không", "20&&nhiều"], "label": "EQL"}
 
 Vivo S1 Pro	Vivo S1 Pro
 
 Đây là một lựa chọn tốt ở tầm trung với những điều vượt trội.	Đây là một lựa chọn tốt ở tầm trung với những điều vượt trội .
 
 Nó trang bị một màn hình tương tự như M31s nhưng bộ xử lý nó vượt trội hẳn so với M31s để có hiệu năng xử lý tốt hơn.	Nó trang bị một màn hình tương tự như M31s nhưng bộ xử lý nó vượt trội hẳn so với M31s để có hiệu năng xử lý tốt hơn .
-{"subject": [], "object": [], "aspect": ["24&&hiệu", "25&&năng", "26&&xử", "27&&lý"], "predicate": ["16&&vượt", "17&&trội", "18&&hẳn", "28&&tốt", "29&&hơn"], "label": "COM+"}
+{"subject": ["15&&nó"], "object": ["21&&M31s"], "aspect": ["24&&hiệu", "25&&năng", "26&&xử", "27&&lý"], "predicate": ["16&&vượt", "17&&trội", "18&&hẳn", "28&&tốt", "29&&hơn"], "label": "EQL"}
+{"subject": ["15&&nó"], "object": ["21&&M31s"], "aspect": ["24&&hiệu", "25&&năng", "26&&xử", "27&&lý"], "predicate": ["16&&vượt", "17&&trội", "18&&hẳn", "28&&tốt", "29&&hơn"], "label": "COM+"}
 
 Bộ tứ camera trang bị tương tự M31s nhưng sức mạnh camera chính hơi kém cạnh một chút.	Bộ tứ camera trang bị tương tự M31s nhưng sức mạnh camera chính hơi kém cạnh một chút .
+{"subject": [], "object": ["8&&M31s"], "aspect": ["1&&Bộ", "2&&tứ", "3&&camera"], "predicate": ["6&&tương", "7&&tự"], "label": "EQL"}
+{"subject": [], "object": ["8&&M31s"], "aspect": ["1&&Bộ", "2&&tứ", "3&&camera"], "predicate": ["6&&tương", "7&&tự"], "label": "COM-"}
 
 Pin sạc vẫn là điểm vô địch của M31s ở đây.	Pin sạc vẫn là điểm vô địch của M31s ở đây .
 
@@ -451,25 +463,27 @@ Redmi Note 9 Pro	Redmi Note 9 Pro
 Một lựa chọn khác đến từ Xiaomi đó là Redmi Note 9 Pro với hoàn thiện 2 mặt kính sang trọng.	Một lựa chọn khác đến từ Xiaomi đó là Redmi Note 9 Pro với hoàn thiện 2 mặt kính sang trọng .
 
 Nó thua thiệt hơn M31s khi có màn hình IPS LCD so với AMOLED hiển thị không được đẹp lắm.	Nó thua thiệt hơn M31s khi có màn hình IPS LCD so với AMOLED hiển thị không được đẹp lắm .
-{"subject": ["1&&Nó"], "object": [], "aspect": [], "predicate": ["2&&thua", "3&&thiệt", "4&&hơn"], "label": "COM+"}
-{"subject": ["1&&Nó"], "object": [], "aspect": [], "predicate": ["2&&thua", "3&&thiệt", "4&&hơn"], "label": "COM-"}
+{"subject": ["1&&Nó"], "object": ["5&&M31s"], "aspect": [], "predicate": ["2&&thua", "3&&thiệt", "4&&hơn"], "label": "COM+"}
+{"subject": ["1&&Nó"], "object": ["5&&M31s"], "aspect": [], "predicate": ["2&&thua", "3&&thiệt", "4&&hơn"], "label": "COM-"}
 
 Nhưng bù lại nó có bộ xử lý tốt hơn quá nhiều với Snapdragon 720G chuyên game.	Nhưng bù lại nó có bộ xử lý tốt hơn quá nhiều với Snapdragon 720G chuyên game .
-{"subject": ["4&&nó"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
-{"subject": ["4&&nó"], "object": [], "aspect": [], "predicate": [], "label": "COM-"}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM-"}
 
 Bộ tứ camera trang bị tương tự nhưng chất lượng hình ảnh tốt hơn khá nhiều.	Bộ tứ camera trang bị tương tự nhưng chất lượng hình ảnh tốt hơn khá nhiều .
-{"subject": [], "object": [], "aspect": ["9&&chất", "10&&lượng", "11&&hình", "12&&ảnh"], "predicate": ["13&&tốt", "14&&hơn", "15&&khá", "16&&nhiều"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["1&&Bộ", "2&&tứ", "3&&camera", "9&&chất", "10&&lượng", "11&&hình", "12&&ảnh"], "predicate": ["13&&tốt", "14&&hơn", "15&&khá", "16&&nhiều"], "label": "COM+"}
 
 Tuy rằng pin của nó không lớn tới 6000 mAh nhưng vẫn có pin 5020 mAh và sạc nhanh 30W mạnh hơn.	Tuy rằng pin của nó không lớn tới 6000 mAh nhưng vẫn có pin 5020 mAh và sạc nhanh 30W mạnh hơn .
-{"subject": [], "object": [], "aspect": ["3&&pin", "18&&sạc", "19&&nhanh", "20&&30W"], "predicate": ["21&&mạnh", "22&&hơn"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["18&&sạc", "19&&nhanh"], "predicate": ["21&&mạnh", "22&&hơn"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["18&&sạc", "19&&nhanh"], "predicate": ["21&&mạnh", "22&&hơn"], "label": "COM-"}
 
 Realme 6 Pro	Realme 6 Pro
 
 Realme 6 Pro là một lựa chọn khác cho bạn ở mức giá này và nó cung cấp những điều tuyệt vời.	Realme 6 Pro là một lựa chọn khác cho bạn ở mức giá này và nó cung cấp những điều tuyệt vời .
 
 Đầu tiên là một màn hình LCD tuy rằng hiển thị không đẹp như AMOLED nhưng nó có tốc độ làm mới 90Hz mượt mà hơn.	Đầu tiên là một màn hình LCD tuy rằng hiển thị không đẹp như AMOLED nhưng nó có tốc độ làm mới 90Hz mượt mà hơn .
-{"subject": ["5&&màn", "6&&hình", "7&&LCD", "17&&nó"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["19&&tốc", "20&&độ", "21&&làm", "22&&mới", "23&&90Hz"], "predicate": ["24&&mượt", "25&&mà", "26&&hơn"], "label": "EQL"}
+{"subject": [], "object": [], "aspect": ["19&&tốc", "20&&độ", "21&&làm", "22&&mới", "23&&90Hz"], "predicate": ["24&&mượt", "25&&mà", "26&&hơn"], "label": "COM+"}
 
 Tiếp tục là bộ xử lý Snapdragon 720G chuyên game cho tầm trung.	Tiếp tục là bộ xử lý Snapdragon 720G chuyên game cho tầm trung .
 
@@ -478,8 +492,8 @@ Sau đó bộ tứ camera trang bị thêm cả camera tele thay cho cảm biế
 Và nhất là nó có camera selfie kép tuyệt vời.	Và nhất là nó có camera selfie kép tuyệt vời .
 
 Pin không thể so sánh với M31s nhưng nó có sạc nhanh hơn một chút.	Pin không thể so sánh với M31s nhưng nó có sạc nhanh hơn một chút .
-{"subject": ["9&&nó"], "object": [], "aspect": ["11&&sạc"], "predicate": ["12&&nhanh", "13&&hơn", "14&&một", "15&&chút"], "label": "COM+"}
-{"subject": ["9&&nó"], "object": [], "aspect": ["11&&sạc"], "predicate": ["12&&nhanh", "13&&hơn", "14&&một", "15&&chút"], "label": "COM-"}
+{"subject": ["1&&Pin"], "object": ["7&&M31s"], "aspect": ["11&&sạc"], "predicate": ["2&&không", "3&&thể", "4&&so", "5&&sánh", "6&&với", "12&&nhanh", "13&&hơn", "14&&một", "15&&chút"], "label": "COM+"}
+{"subject": ["1&&Pin"], "object": ["7&&M31s"], "aspect": ["11&&sạc"], "predicate": ["2&&không", "3&&thể", "4&&so", "5&&sánh", "6&&với", "12&&nhanh", "13&&hơn", "14&&một", "15&&chút"], "label": "COM-"}
 
 Kết luận	Kết luận
 

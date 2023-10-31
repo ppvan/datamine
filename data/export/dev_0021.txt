@@ -1,7 +1,7 @@
 title: So sánh Samsung Galaxy S22 vs Galaxy S21: đâu là những thay đổi đáng mong đợi?	title : So sánh Samsung Galaxy S22 vs Galaxy S21 : đâu là những thay đổi đáng mong đợi ?
 
 Samsung Galaxy S22 sẽ không có quá nhiều sự khác biệt với phiên bản tiền nhiệm	Samsung Galaxy S22 sẽ không có quá nhiều sự khác biệt với phiên bản tiền nhiệm
-{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S22"], "object": ["14&&bản", "15&&tiền", "16&&nhiệm"], "aspect": [], "predicate": ["5&&không", "6&&có", "7&&quá", "8&&nhiều", "9&&sự", "10&&khác", "11&&biệt"], "label": "EQL"}
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&S22"], "object": ["13&&phiên", "14&&bản", "15&&tiền", "16&&nhiệm"], "aspect": [], "predicate": ["5&&không", "6&&có", "7&&quá", "8&&nhiều", "9&&sự", "10&&khác", "11&&biệt"], "label": "EQL"}
 
 Khi  bạn đọc bài viết này, thời điểm Samsung Galaxy S22 chính thức ra mắt chỉ còn khoảng vài tiếng đồng hồ nữa.	Khi bạn đọc bài viết này , thời điểm Samsung Galaxy S22 chính thức ra mắt chỉ còn khoảng vài tiếng đồng hồ nữa .
 
@@ -12,26 +12,31 @@ alt: Samsung Galaxy S22 có rất nhiều điều khác biệt so với thế h�
 des:	des :
 
 Kích thước nhỏ gọn và thuận tiện hơn	Kích thước nhỏ gọn và thuận tiện hơn
+{"subject": [], "object": [], "aspect": ["1&&Kích", "2&&thước"], "predicate": ["3&&nhỏ", "4&&gọn", "5&&và", "6&&thuận", "7&&tiện", "8&&hơn"], "label": "COM+"}
 
 Theo tiết lộ từ nhiều trang báo, Samsung Galaxy S22 sẽ không có sự thay đổi về mặt thiết kế so với phiên bản 2021, thay vào đó Samsung muốn tập trung nhiều hơn về kích thước để đem đến một trải nghiệm tối ưu dành cho người dùng.	Theo tiết lộ từ nhiều trang báo , Samsung Galaxy S22 sẽ không có sự thay đổi về mặt thiết kế so với phiên bản 2021 , thay vào đó Samsung muốn tập trung nhiều hơn về kích thước để đem đến một trải nghiệm tối ưu dành cho người dùng .
-{"subject": ["9&&Samsung", "10&&Galaxy", "11&&S22"], "object": [], "aspect": ["20&&thiết", "21&&kế"], "predicate": ["13&&không", "14&&có", "15&&sự", "16&&thay", "17&&đổi", "35&&nhiều", "36&&hơn"], "label": "COM+"}
+{"subject": ["9&&Samsung", "10&&Galaxy", "11&&S22"], "object": ["24&&phiên", "25&&bản", "26&&2021"], "aspect": ["20&&thiết", "21&&kế"], "predicate": ["13&&không", "14&&có", "15&&sự", "16&&thay", "17&&đổi"], "label": "EQL"}
+{"subject": ["9&&Samsung", "10&&Galaxy", "11&&S22"], "object": ["24&&phiên", "25&&bản", "26&&2021"], "aspect": ["20&&thiết", "21&&kế"], "predicate": ["13&&không", "14&&có", "15&&sự", "16&&thay", "17&&đổi"], "label": "COM+"}
 
 Theo đó kích thước của mẫu điện thoại này sẽ là  146 x 70.6 x 7.6 mm, nếu so với thông số của S21 (151.7 x 71.2 x 7.9 mm) thì có thể thấy ngay rằng phiên bản 2022 đã được thu nhỏ lại, ngắn và mỏng hơn đáng kể.	Theo đó kích thước của mẫu điện thoại này sẽ là 146 x 70.6 x 7.6 mm , nếu so với thông số của S21 ( 151.7 x 71.2 x 7.9 mm ) thì có thể thấy ngay rằng phiên bản 2022 đã được thu nhỏ lại , ngắn và mỏng hơn đáng kể .
-{"subject": ["6&&mẫu", "7&&điện", "8&&thoại", "9&&này"], "object": [], "aspect": [], "predicate": ["51&&mỏng", "52&&hơn", "53&&đáng", "54&&kể"], "label": "COM+"}
+{"subject": ["6&&mẫu", "7&&điện", "8&&thoại", "9&&này", "40&&phiên", "41&&bản", "42&&2022"], "object": ["25&&S21"], "aspect": [], "predicate": ["49&&ngắn", "50&&và", "51&&mỏng", "52&&hơn", "53&&đáng", "54&&kể"], "label": "COM+"}
+{"subject": ["6&&mẫu", "7&&điện", "8&&thoại", "9&&này", "40&&phiên", "41&&bản", "42&&2022"], "object": ["25&&S21"], "aspect": [], "predicate": ["49&&ngắn", "50&&và", "51&&mỏng", "52&&hơn", "53&&đáng", "54&&kể"], "label": "COM"}
 
 alt: Samsung Galaxy S22 có rất nhiều điều khác biệt so với thế hệ S21 như màn	alt : Samsung Galaxy S22 có rất nhiều điều khác biệt so với thế hệ S21 như màn
 
 des:	des :
 
 Điều này sẽ giúp cho cảm giác cầm nắm và sử dụng một tay của người dùng sẽ trở nên thuận tiện hơn rất nhiều.	Điều này sẽ giúp cho cảm giác cầm nắm và sử dụng một tay của người dùng sẽ trở nên thuận tiện hơn rất nhiều .
-{"subject": [], "object": [], "aspect": [], "predicate": ["21&&thuận", "22&&tiện", "23&&hơn", "24&&rất", "25&&nhiều"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["11&&sử", "12&&dụng", "13&&một", "14&&tay"], "predicate": ["21&&thuận", "22&&tiện", "23&&hơn", "24&&rất", "25&&nhiều"], "label": "COM+"}
 
 Đánh đổi lại cho sự rút gọn đó thì màn hình của S22 sẽ nhỏ hơn so với bản tiền nhiệm nhưng đây là điều hoàn toàn có thể chấp nhận được	Đánh đổi lại cho sự rút gọn đó thì màn hình của S22 sẽ nhỏ hơn so với bản tiền nhiệm nhưng đây là điều hoàn toàn có thể chấp nhận được
-{"subject": ["10&&màn", "11&&hình", "12&&của", "13&&S22"], "object": ["19&&bản", "20&&tiền", "21&&nhiệm"], "aspect": [], "predicate": ["15&&nhỏ", "16&&hơn"], "label": "COM+"}
+{"subject": ["13&&S22"], "object": ["19&&bản", "20&&tiền", "21&&nhiệm"], "aspect": ["10&&màn", "11&&hình"], "predicate": ["15&&nhỏ", "16&&hơn"], "label": "COM+"}
+{"subject": ["13&&S22"], "object": ["19&&bản", "20&&tiền", "21&&nhiệm"], "aspect": ["10&&màn", "11&&hình"], "predicate": ["15&&nhỏ", "16&&hơn"], "label": "COM-"}
 
 Máy ảnh có sự thay đổi	Máy ảnh có sự thay đổi
 
 Camera của Galaxy S22 được đánh giá là sẽ đem đến sự thay đổi lớn.	Camera của Galaxy S22 được đánh giá là sẽ đem đến sự thay đổi lớn .
+{"subject": ["3&&Galaxy", "4&&S22"], "object": [], "aspect": ["1&&Camera"], "predicate": ["13&&thay", "14&&đổi", "15&&lớn"], "label": "DIF"}
 
 Ống kính chính sẽ được tăng từ 12MP lên thành 50MP.	Ống kính chính sẽ được tăng từ 12MP lên thành 50MP .
 
@@ -42,15 +47,18 @@ alt: Samsung Galaxy S22 có rất nhiều điều khác biệt so với thế h�
 des:	des :
 
 Với cụm camera này, chúng ta sẽ khó có thể so sánh được chất lượng hình ảnh cho đến khi được trải nghiệm Galaxy S22 trên tay, nhưng ít nhất có thể đảm bảo một điều rằng về tính năng quay chụp vẫn sẽ được giữ nguyên khi chiếc flagship 2022 của Samsung vẫn có thể quay video chất lượng 8K.	Với cụm camera này , chúng ta sẽ khó có thể so sánh được chất lượng hình ảnh cho đến khi được trải nghiệm Galaxy S22 trên tay , nhưng ít nhất có thể đảm bảo một điều rằng về tính năng quay chụp vẫn sẽ được giữ nguyên khi chiếc flagship 2022 của Samsung vẫn có thể quay video chất lượng 8K .
+{"subject": ["51&&chiếc", "52&&flagship", "53&&2022", "54&&của", "55&&Samsung"], "object": [], "aspect": ["15&&chất", "16&&lượng", "17&&hình", "18&&ảnh"], "predicate": ["9&&khó", "10&&có", "11&&thể", "12&&so", "13&&sánh", "14&&được"], "label": "EQL"}
 
 Về ống kính trước, sẽ không có bất kỳ sự thay đổi nào về thông số khi chúng ta vẫn sẽ sở hữu camera selfie với độ phân giải 10MP khẩu độ f/2.2 cùng khả năng quay video ở chất lượng 4K@60fps.	Về ống kính trước , sẽ không có bất kỳ sự thay đổi nào về thông số khi chúng ta vẫn sẽ sở hữu camera selfie với độ phân giải 10MP khẩu độ f / 2.2 cùng khả năng quay video ở chất lượng 4K @ 60fps .
+{"subject": [], "object": [], "aspect": ["2&&ống", "3&&kính", "4&&trước"], "predicate": ["7&&không", "8&&có", "9&&bất", "10&&kỳ", "11&&sự", "12&&thay", "13&&đổi", "14&&nào", "15&&về", "16&&thông", "17&&số"], "label": "EQL"}
 
 Hiệu năng mạnh mẽ	Hiệu năng mạnh mẽ
 
 Một điều chắc chắn rằng Samsung Galaxy S22 sẽ được trang bị con chip mạnh mẽ nhất của Qualcomm ở thời điểm hiện tại: Snapdragon 8 Gen 1.	Một điều chắc chắn rằng Samsung Galaxy S22 sẽ được trang bị con chip mạnh mẽ nhất của Qualcomm ở thời điểm hiện tại : Snapdragon 8 Gen 1 .
+{"subject": ["6&&Samsung", "7&&Galaxy", "8&&S22", "26&&Snapdragon", "27&&8", "28&&Gen", "29&&1"], "object": [], "aspect": [], "predicate": ["15&&mạnh", "16&&mẽ", "17&&nhất", "18&&của", "19&&Qualcomm", "20&&ở", "21&&thời", "22&&điểm", "23&&hiện", "24&&tại"], "label": "SUP+"}
 
 Điều này cũng đồng nghĩa với việc xét về tốc độ xử lý tác vụ, S22 phải nhanh hơn ít nhất là 15% so với S21 vốn chỉ được cung cấp con chip Snapdragon 888.	Điều này cũng đồng nghĩa với việc xét về tốc độ xử lý tác vụ , S22 phải nhanh hơn ít nhất là 15% so với S21 vốn chỉ được cung cấp con chip Snapdragon 888 .
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
+{"subject": ["17&&S22"], "object": ["27&&S21"], "aspect": ["10&&tốc", "11&&độ", "12&&xử", "13&&lý", "14&&tác", "15&&vụ"], "predicate": ["19&&nhanh", "20&&hơn", "21&&ít", "22&&nhất", "23&&là", "24&&15%"], "label": "COM+"}
 
 alt: Samsung Galaxy S22 có rất nhiều điều khác biệt so với thế hệ S21 như cấu hình	alt : Samsung Galaxy S22 có rất nhiều điều khác biệt so với thế hệ S21 như cấu hình
 
@@ -63,6 +71,7 @@ Và chúng ta sẽ phải chờ xem liệu Samsung có thể đem lại sự ổ
 Pin bị cắt giảm	Pin bị cắt giảm
 
 Với một kích thước thu nhỏ thì chắc chắn Galaxy S22 sẽ không thể trang bị một viên pin có cùng dung lượng với bản tiền nhiệm.	Với một kích thước thu nhỏ thì chắc chắn Galaxy S22 sẽ không thể trang bị một viên pin có cùng dung lượng với bản tiền nhiệm .
+{"subject": ["10&&Galaxy", "11&&S22"], "object": ["25&&bản", "26&&tiền", "27&&nhiệm"], "aspect": [], "predicate": [], "label": "DIF"}
 
 Theo một số thông tin rò rỉ, viên pin của chiếc flagship đời mới này sẽ chỉ dừng ở con số 3700mAh và hỗ trợ sạc nhanh 25W mà thôi.	Theo một số thông tin rò rỉ , viên pin của chiếc flagship đời mới này sẽ chỉ dừng ở con số 3700mAh và hỗ trợ sạc nhanh 25W mà thôi .
 
@@ -71,7 +80,10 @@ alt: Samsung Galaxy S22 có rất nhiều điều khác biệt so với thế h�
 des:	des :
 
 Nhưng điều này không có nghĩa là thời gian sử dụng của S22 sẽ ít hơn vì mức tiêu thụ điện là không giống nhau.	Nhưng điều này không có nghĩa là thời gian sử dụng của S22 sẽ ít hơn vì mức tiêu thụ điện là không giống nhau .
+{"subject": ["13&&S22"], "object": [], "aspect": ["8&&thời", "9&&gian", "10&&sử", "11&&dụng", "18&&mức", "19&&tiêu", "20&&thụ", "21&&điện"], "predicate": ["23&&không", "24&&giống", "25&&nhau"], "label": "DIF"}
+{"subject": ["13&&S22"], "object": [], "aspect": ["8&&thời", "9&&gian", "10&&sử", "11&&dụng", "18&&mức", "19&&tiêu", "20&&thụ", "21&&điện"], "predicate": ["23&&không", "24&&giống", "25&&nhau"], "label": "EQL"}
 
 Ngoài ra vì được trang bị cùng một công nghệ hỗ trợ sạc nhưng viên pin lại có dung lượng thấp hơn nên chắc chắn thời gian sạc của Galaxy S22 sẽ nhanh hơn.	Ngoài ra vì được trang bị cùng một công nghệ hỗ trợ sạc nhưng viên pin lại có dung lượng thấp hơn nên chắc chắn thời gian sạc của Galaxy S22 sẽ nhanh hơn .
-{"subject": ["30&&Galaxy", "31&&S22"], "object": [], "aspect": ["15&&viên", "16&&pin", "19&&dung", "20&&lượng", "26&&thời", "27&&gian", "28&&sạc"], "predicate": ["21&&thấp", "22&&hơn", "33&&nhanh", "34&&hơn"], "label": "COM+"}
+{"subject": ["30&&Galaxy", "31&&S22"], "object": [], "aspect": ["26&&thời", "27&&gian", "28&&sạc"], "predicate": ["33&&nhanh", "34&&hơn"], "label": "COM+"}
+{"subject": ["30&&Galaxy", "31&&S22"], "object": [], "aspect": ["26&&thời", "27&&gian", "28&&sạc"], "predicate": ["33&&nhanh", "34&&hơn"], "label": "COM-"}
 
