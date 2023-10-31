@@ -11,8 +11,12 @@ Thiết kế ngoại hình	Thiết kế ngoại hình
 - Thiết kế và kích thước	- Thiết kế và kích thước
 
 Về chiều dài và chiều rộng thì 2 dòng điện thoại đến từ 2 nhà  Samsung  và  Vivo  không có quá nhiều sự khác biệt.	Về chiều dài và chiều rộng thì 2 dòng điện thoại đến từ 2 nhà Samsung và Vivo không có quá nhiều sự khác biệt .
+{"subject": ["8&&2", "9&&dòng", "10&&điện", "11&&thoại", "12&&đến", "13&&từ", "14&&2", "15&&nhà", "16&&Samsung", "17&&và", "18&&Vivo"], "object": ["8&&2", "9&&dòng", "10&&điện", "11&&thoại", "12&&đến", "13&&từ", "14&&2", "15&&nhà", "16&&Samsung", "17&&và", "18&&Vivo"], "aspect": ["2&&chiều", "3&&dài"], "predicate": ["19&&không", "20&&có", "21&&quá", "22&&nhiều", "23&&sự", "24&&khác", "25&&biệt"], "label": "EQL"}
+{"subject": ["8&&2", "9&&dòng", "10&&điện", "11&&thoại", "12&&đến", "13&&từ", "14&&2", "15&&nhà", "16&&Samsung", "17&&và", "18&&Vivo"], "object": ["8&&2", "9&&dòng", "10&&điện", "11&&thoại", "12&&đến", "13&&từ", "14&&2", "15&&nhà", "16&&Samsung", "17&&và", "18&&Vivo"], "aspect": ["5&&chiều", "6&&rộng"], "predicate": ["19&&không", "20&&có", "21&&quá", "22&&nhiều", "23&&sự", "24&&khác", "25&&biệt"], "label": "EQL"}
 
 Tuy nhiên thì  Galaxy A03s nếu so với Vivo Y21 thì dày hơn  kha khá, chính vì thế  trọng lượng cũng nặng hơn .	Tuy nhiên thì Galaxy A03s nếu so với Vivo Y21 thì dày hơn kha khá , chính vì thế trọng lượng cũng nặng hơn .
+{"subject": ["4&&Galaxy", "5&&A03s"], "object": ["9&&Vivo", "10&&Y21"], "aspect": [], "predicate": ["12&&dày", "13&&hơn"], "label": "COM"}
+{"subject": ["4&&Galaxy", "5&&A03s"], "object": ["9&&Vivo", "10&&Y21"], "aspect": ["20&&trọng", "21&&lượng"], "predicate": ["23&&nặng", "24&&hơn"], "label": "COM"}
 
 Nếu bạn là người thích một chiếc  smartphone  gọn nhẹ thì có lẽ sẽ cảm thấy thích thiết kế của Vivo Y21 hơn.	Nếu bạn là người thích một chiếc smartphone gọn nhẹ thì có lẽ sẽ cảm thấy thích thiết kế của Vivo Y21 hơn .
 
@@ -23,16 +27,19 @@ des: Thiết kế của Galaxy A03s va Vivo Y21	des : Thiết kế của Galaxy 
 - Màu sắc	- Màu sắc
 
 Trong khi Vivo Y21 chỉ có 2 màu là  đen  và  xanh tím  vì Samsung cho khách hàng nhiều sự lựa chọn hơn với 3 màu  đen ,  xanh dương  và  trắng .	Trong khi Vivo Y21 chỉ có 2 màu là đen và xanh tím vì Samsung cho khách hàng nhiều sự lựa chọn hơn với 3 màu đen , xanh dương và trắng .
+{"subject": ["15&&Samsung"], "object": ["3&&Vivo", "4&&Y21"], "aspect": ["20&&sự", "21&&lựa", "22&&chọn"], "predicate": ["19&&nhiều", "20&&sự", "21&&lựa", "22&&chọn", "23&&hơn"], "label": "COM+"}
 
 Đây đều là những màu sắc phổ biến, hợp với thị hiếu của nhiều đối tượng khách hàng.	Đây đều là những màu sắc phổ biến , hợp với thị hiếu của nhiều đối tượng khách hàng .
 
 alt: Samsung Galaxy A03s có nhiều lựa chọn màu hơn	alt : Samsung Galaxy A03s có nhiều lựa chọn màu hơn
 
 des: Samsung Galaxy A03s có nhiều lựa chọn màu hơn	des : Samsung Galaxy A03s có nhiều lựa chọn màu hơn
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&A03s"], "object": [], "aspect": ["8&&lựa", "9&&chọn", "10&&màu"], "predicate": ["7&&nhiều", "8&&lựa", "9&&chọn", "10&&màu", "11&&hơn"], "label": "COM+"}
 
 - Chất liệu	- Chất liệu
 
 Samsung Galaxy A03s và Vivo Y21 đều có thiết kế  nguyên khối , với   khung và mặt lưng làm bằng bằng  nhựa .	Samsung Galaxy A03s và Vivo Y21 đều có thiết kế nguyên khối , với khung và mặt lưng làm bằng bằng nhựa .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A03s"], "object": ["5&&Vivo", "6&&Y21"], "aspect": ["9&&thiết", "10&&kế", "11&&nguyên", "12&&khối"], "predicate": ["7&&đều", "8&&có"], "label": "EQL"}
 
 Vì là phân khúc giá rẻ nên chất liệu nhựa được lựa chọn để sản xuất smartphone, tuy nhiên thì nhựa được sử dụng là loại nhựa Polycarbonate, có tính bền cao, hạn chế tối đa sự hư hỏng khi xảy ra va đập trong quá trình sử dụng.	Vì là phân khúc giá rẻ nên chất liệu nhựa được lựa chọn để sản xuất smartphone , tuy nhiên thì nhựa được sử dụng là loại nhựa Polycarbonate , có tính bền cao , hạn chế tối đa sự hư hỏng khi xảy ra va đập trong quá trình sử dụng .
 
@@ -47,6 +54,8 @@ Màn hình	Màn hình
 - Độ phân giải	- Độ phân giải
 
 Về thông số cơ bản thì màn hình của 2 dòng điện thoại này đều giống nhau.	Về thông số cơ bản thì màn hình của 2 dòng điện thoại này đều giống nhau .
+{"subject": ["7&&màn", "8&&hình", "9&&của", "10&&2", "11&&dòng", "12&&điện", "13&&thoại", "14&&này"], "object": ["7&&màn", "8&&hình", "9&&của", "10&&2", "11&&dòng", "12&&điện", "13&&thoại", "14&&này"], "aspect": ["2&&thông", "3&&số", "4&&cơ", "5&&bản"], "predicate": ["15&&đều", "16&&giống", "17&&nhau"], "label": "EQL"}
+{"subject": ["10&&2", "11&&dòng", "12&&điện", "13&&thoại", "14&&này"], "object": ["10&&2", "11&&dòng", "12&&điện", "13&&thoại", "14&&này"], "aspect": ["7&&màn", "8&&hình"], "predicate": ["15&&đều", "16&&giống", "17&&nhau"], "label": "EQL"}
 
 Màn hình của Galaxy A03s và Vivo Y21 có tần số quét  60 Hz  và độ phân giải  HD+ .	Màn hình của Galaxy A03s và Vivo Y21 có tần số quét 60 Hz và độ phân giải HD + .
 
@@ -61,6 +70,7 @@ des: Độ phân giải HD+ cho chất lượng hình ảnh sắc nét	des : Đ�
 Galaxy A03s được trang bị công nghệ màn hình  PLS LCD , trong khi đó Vivo Y21 được trang bị công nghệ màn hình   IPS LCD .	Galaxy A03s được trang bị công nghệ màn hình PLS LCD , trong khi đó Vivo Y21 được trang bị công nghệ màn hình IPS LCD .
 
 Tuy nhiên, trải nghiệm màn hình sẽ tương tự nhau, đều cho chi tiết rõ ràng, màu sắc ổn định.	Tuy nhiên , trải nghiệm màn hình sẽ tương tự nhau , đều cho chi tiết rõ ràng , màu sắc ổn định .
+{"subject": [], "object": [], "aspect": ["4&&trải", "5&&nghiệm", "6&&màn", "7&&hình"], "predicate": ["9&&tương", "10&&tự", "11&&nhau"], "label": "EQL"}
 
 Màn hình lớn phù hợp để giải trí từ lướt  Facebook , xem phim hay chơi game.	Màn hình lớn phù hợp để giải trí từ lướt Facebook , xem phim hay chơi game .
 
@@ -73,6 +83,9 @@ des: Công nghệ màn hình cho chất lượng hiển thị tốt	des : Công 
 Camera	Camera
 
 Xét về camera thì Vivo Y21 lại chiếm ưu thế hơn, với camera trước có độ phân giải cao hơn so với Galaxy A03s.	Xét về camera thì Vivo Y21 lại chiếm ưu thế hơn , với camera trước có độ phân giải cao hơn so với Galaxy A03s .
+{"subject": ["5&&Vivo", "6&&Y21"], "object": ["24&&Galaxy", "25&&A03s"], "aspect": ["3&&camera"], "predicate": ["8&&chiếm", "9&&ưu", "10&&thế", "11&&hơn"], "label": "COM+"}
+{"subject": ["5&&Vivo", "6&&Y21"], "object": ["24&&Galaxy", "25&&A03s"], "aspect": ["14&&camera", "15&&trước"], "predicate": ["17&&độ", "18&&phân", "19&&giải", "20&&cao", "21&&hơn"], "label": "COM+"}
+{"subject": ["14&&camera", "15&&trước"], "object": ["24&&Galaxy", "25&&A03s"], "aspect": ["17&&độ", "18&&phân", "19&&giải"], "predicate": ["20&&cao", "21&&hơn"], "label": "COM+"}
 
 Nếu ưu tiên về chất lượng ảnh khi chụp thì bạn nên chọn Vivo Y21.	Nếu ưu tiên về chất lượng ảnh khi chụp thì bạn nên chọn Vivo Y21 .
 
@@ -89,8 +102,11 @@ des: Ảnh chụp từ Samsung Galaxy A03s	des : Ảnh chụp từ Samsung Galax
 Thông số kỹ thuật và hiệu năng	Thông số kỹ thuật và hiệu năng
 
 Dung lượng bộ nhớ của Galaxy A03s và Vivo Y21 là tương tự nhau, vừa đủ để bạn có thể tải ứng dụng, lưu trữ file, hình ảnh, video thoải mái.	Dung lượng bộ nhớ của Galaxy A03s và Vivo Y21 là tương tự nhau , vừa đủ để bạn có thể tải ứng dụng , lưu trữ file , hình ảnh , video thoải mái .
+{"subject": ["6&&Galaxy", "7&&A03s"], "object": ["9&&Vivo", "10&&Y21"], "aspect": ["1&&Dung", "2&&lượng", "3&&bộ", "4&&nhớ"], "predicate": ["12&&tương", "13&&tự", "14&&nhau"], "label": "EQL"}
 
 2 chipset được dùng cho 2 dòng máy này đều đến từ  MediaTek  và đều có  8 lõi CPU .	2 chipset được dùng cho 2 dòng máy này đều đến từ MediaTek và đều có 8 lõi CPU .
+{"subject": ["1&&2", "2&&chipset", "3&&được", "4&&dùng", "5&&cho", "6&&2", "7&&dòng", "8&&máy", "9&&này"], "object": ["1&&2", "2&&chipset", "3&&được", "4&&dùng", "5&&cho", "6&&2", "7&&dòng", "8&&máy", "9&&này"], "aspect": [], "predicate": ["10&&đều", "11&&đến", "12&&từ", "13&&MediaTek"], "label": "EQL"}
+{"subject": ["1&&2", "2&&chipset", "3&&được", "4&&dùng", "5&&cho", "6&&2", "7&&dòng", "8&&máy", "9&&này"], "object": ["1&&2", "2&&chipset", "3&&được", "4&&dùng", "5&&cho", "6&&2", "7&&dòng", "8&&máy", "9&&này"], "aspect": ["17&&8", "18&&lõi", "19&&CPU"], "predicate": ["15&&đều", "16&&có"], "label": "EQL"}
 
 Đây được đánh giá là một mức hiệu năng ổn, có thể chạy các tác vụ một cách mượt mà, ngoài ra thì cũng phù hợp nếu bạn muốn dùng máy để chơi các  game  không quá nặng.	Đây được đánh giá là một mức hiệu năng ổn , có thể chạy các tác vụ một cách mượt mà , ngoài ra thì cũng phù hợp nếu bạn muốn dùng máy để chơi các game không quá nặng .
 
@@ -103,8 +119,10 @@ des: Hình ảnh của chip MediaTek	des : Hình ảnh của chip MediaTek
 Dung lượng pin và sạc	Dung lượng pin và sạc
 
 Cả 2 dòng máy đều có dung lượng pin rất ấn tượng, lên đến 5000 mAh, Với viên pin này thì nếu chỉ sử dụng các tác vụ bình thường thì có thể vi vu dùng từ 1 đến 2 ngày.	Cả 2 dòng máy đều có dung lượng pin rất ấn tượng , lên đến 5000 mAh , Với viên pin này thì nếu chỉ sử dụng các tác vụ bình thường thì có thể vi vu dùng từ 1 đến 2 ngày .
+{"subject": ["1&&Cả", "2&&2", "3&&dòng", "4&&máy"], "object": ["1&&Cả", "2&&2", "3&&dòng", "4&&máy"], "aspect": ["7&&dung", "8&&lượng", "9&&pin", "10&&rất", "11&&ấn", "12&&tượng"], "predicate": ["5&&đều", "6&&có"], "label": "EQL"}
 
 Công suất sạc của Galaxy A03s thì chỉ  tối đa 7.75 W , trong khi Vivo Y21 tận  18 W , điều này làm cho quá trình sạc pin của máy Samsung sẽ mất thời gian hơn.	Công suất sạc của Galaxy A03s thì chỉ tối đa 7.75 W , trong khi Vivo Y21 tận 18 W , điều này làm cho quá trình sạc pin của máy Samsung sẽ mất thời gian hơn .
+{"subject": ["31&&máy", "32&&Samsung"], "object": ["16&&Vivo"], "aspect": ["28&&sạc", "29&&pin"], "predicate": ["34&&mất", "35&&thời", "36&&gian", "37&&hơn"], "label": "COM-"}
 
 Tuy vậy thì  chế độ tiết kiệm pin  trên thiết bị này có thể giữ được mức pin không bị hao hụt quá nhiều, nên vẫn sẽ không quá bất tiện nếu bạn không cần sạc pin gấp hoặc có sử dụng kèm  sạc dự phòng .	Tuy vậy thì chế độ tiết kiệm pin trên thiết bị này có thể giữ được mức pin không bị hao hụt quá nhiều , nên vẫn sẽ không quá bất tiện nếu bạn không cần sạc pin gấp hoặc có sử dụng kèm sạc dự phòng .
 
@@ -131,8 +149,11 @@ Bạn có thể tham khảo về giá của 2 sản phẩm tại Thế Giới Di
 - Nên sở hữu Samsung Galaxy A03s hay Vivo Y21?	- Nên sở hữu Samsung Galaxy A03s hay Vivo Y21 ?
 
 Nhìn chung thì  Vivo Y21 có phần nhỉnh hơn so với Samsung Galaxy A03s , cũng dễ hiểu vì sản phẩm được định giá cao hơn trên thị trường.	Nhìn chung thì Vivo Y21 có phần nhỉnh hơn so với Samsung Galaxy A03s , cũng dễ hiểu vì sản phẩm được định giá cao hơn trên thị trường .
+{"subject": ["4&&Vivo", "5&&Y21"], "object": ["12&&Samsung", "13&&Galaxy", "14&&A03s"], "aspect": [], "predicate": ["8&&nhỉnh", "9&&hơn"], "label": "COM+"}
+{"subject": ["20&&sản", "21&&phẩm"], "object": ["12&&Samsung", "13&&Galaxy", "14&&A03s"], "aspect": ["24&&giá"], "predicate": ["25&&cao", "26&&hơn"], "label": "COM-"}
 
 Tuy nhiên thì dòng máy đến từ Samsung lại được tích hợp nhiều tính năng hơn, một số trong đó là những công nghệ rất tiên tiến, vốn chỉ xuất hiện trên các thiết bị tầm trung hoặc cao cấp.	Tuy nhiên thì dòng máy đến từ Samsung lại được tích hợp nhiều tính năng hơn , một số trong đó là những công nghệ rất tiên tiến , vốn chỉ xuất hiện trên các thiết bị tầm trung hoặc cao cấp .
+{"subject": ["4&&dòng", "5&&máy", "6&&đến", "7&&từ", "8&&Samsung"], "object": [], "aspect": ["14&&tính", "15&&năng"], "predicate": ["11&&tích", "12&&hợp", "13&&nhiều", "14&&tính", "15&&năng", "16&&hơn"], "label": "COM+"}
 
 Nên sẽ tùy thuộc vào vào sở thích và nhu cầu sử dụng mà bạn có thể lựa chọn sản phẩm phù hợp với mình.	Nên sẽ tùy thuộc vào vào sở thích và nhu cầu sử dụng mà bạn có thể lựa chọn sản phẩm phù hợp với mình .
 

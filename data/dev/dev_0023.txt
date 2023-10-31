@@ -1,12 +1,16 @@
 Title: Review nhanh iPhone 12 mini: Chiếc điện thoại “tí hon” thần kì của Apple	Title : Review nhanh iPhone 12 mini : Chiếc điện thoại “ tí hon ” thần kì của Apple
 
 iPhone 12 mini có lẽ là chiếc điện thoại mang nhiều “ẩn số” nhất trong lần ra mắt sản phẩm mới này của Apple.	iPhone 12 mini có lẽ là chiếc điện thoại mang nhiều “ ẩn số ” nhất trong lần ra mắt sản phẩm mới này của Apple .
+{"subject": ["1&&iPhone", "2&&12", "3&&mini"], "object": [], "aspect": ["13&&ẩn", "14&&số"], "predicate": ["11&&nhiều", "12&&“", "13&&ẩn", "14&&số", "15&&”", "16&&nhất", "17&&trong", "18&&lần", "19&&ra", "20&&mắt", "21&&sản", "22&&phẩm", "23&&mới", "24&&này", "25&&của", "26&&Apple"], "label": "SUP"}
 
 Hãy cùng Hoàng Hà Mobile tìm hiểu về chiếc iPhone tí hon này nhé!	Hãy cùng Hoàng Hà Mobile tìm hiểu về chiếc iPhone tí hon này nhé !
 
 Viên pin nhỏ hơn	Viên pin nhỏ hơn
+{"subject": [], "object": [], "aspect": ["1&&Viên", "2&&pin"], "predicate": ["3&&nhỏ", "4&&hơn"], "label": "COM-"}
 
 Để iPhone nhỏ hơn, mọi thứ phải nhỏ hơn, bao gồm cả pin.	Để iPhone nhỏ hơn , mọi thứ phải nhỏ hơn , bao gồm cả pin .
+{"subject": ["2&&iPhone"], "object": [], "aspect": [], "predicate": ["3&&nhỏ", "4&&hơn"], "label": "COM-"}
+{"subject": ["2&&iPhone"], "object": [], "aspect": ["6&&mọi", "7&&thứ"], "predicate": ["9&&nhỏ", "10&&hơn"], "label": "COM-"}
 
 iPhone 12 mini có dung lượng là 2.227mAh. Apple thống kê pin của iPhone 12 mini lên đến 15 giờ phát lại video (cục bộ), 10 giờ video phát trực tuyến và lên đến 50 giờ để phát lại âm thanh.	iPhone 12 mini có dung lượng là 2.227mAh . Apple thống kê pin của iPhone 12 mini lên đến 15 giờ phát lại video ( cục bộ ) , 10 giờ video phát trực tuyến và lên đến 50 giờ để phát lại âm thanh .
 
@@ -51,6 +55,7 @@ Tạm kết	Tạm kết
 Theo một người dùng từ trang 9to5mac, anh ấy không hề thấy hối hận vì đã mua iPhone 12 mini.	Theo một người dùng từ trang 9to5mac , anh ấy không hề thấy hối hận vì đã mua iPhone 12 mini .
 
 Bởi lẽ, chiếc điện thoại mang toàn bộ công nghệ mới nhất mà lại rất nhỏ và gọn.	Bởi lẽ , chiếc điện thoại mang toàn bộ công nghệ mới nhất mà lại rất nhỏ và gọn .
+{"subject": ["4&&chiếc", "5&&điện", "6&&thoại"], "object": [], "aspect": ["10&&công", "11&&nghệ"], "predicate": ["12&&mới", "13&&nhất"], "label": "SUP+"}
 
 Bạn nghĩ sao về review iPhone 12 mini?	Bạn nghĩ sao về review iPhone 12 mini ?
 

@@ -57,10 +57,12 @@ So sánh điện thoại Samsung Galaxy A13 4GB và Galaxy A03s	So sánh điện
 Thiết kế	Thiết kế
 
 Cả hai chiếc smartphone đều sở hữu  thiết kế nguyên khối , thiết kế đặc trưng của dòng Galaxy A Series với chất liệu  khung và mặt lưng làm bằng nhựa .	Cả hai chiếc smartphone đều sở hữu thiết kế nguyên khối , thiết kế đặc trưng của dòng Galaxy A Series với chất liệu khung và mặt lưng làm bằng nhựa .
+{"subject": ["1&&Cả", "2&&hai", "3&&chiếc", "4&&smartphone"], "object": ["1&&Cả", "2&&hai", "3&&chiếc", "4&&smartphone"], "aspect": ["8&&thiết", "9&&kế", "10&&nguyên", "11&&khối"], "predicate": ["5&&đều", "6&&sở", "7&&hữu"], "label": "EQL"}
 
 Đây là những chiếc điện thoại phù hợp với những ai ưa thích phong cách tối giản nhưng mang lại sự tinh tế và thanh lịch.	Đây là những chiếc điện thoại phù hợp với những ai ưa thích phong cách tối giản nhưng mang lại sự tinh tế và thanh lịch .
 
 Tuy nhiên, thiết kế của Samsung Galaxy A13 4GB mang nhiều  điểm phá cách riêng  hơn so với các dòng sản phẩm trước.	Tuy nhiên , thiết kế của Samsung Galaxy A13 4GB mang nhiều điểm phá cách riêng hơn so với các dòng sản phẩm trước .
+{"subject": ["7&&Samsung", "8&&Galaxy", "9&&A13", "10&&4GB"], "object": ["20&&các", "21&&dòng", "22&&sản", "23&&phẩm", "24&&trước"], "aspect": ["4&&thiết", "5&&kế"], "predicate": ["12&&nhiều", "13&&điểm", "14&&phá", "15&&cách", "16&&riêng", "17&&hơn"], "label": "COM+"}
 
 Máy được thiết kế hoàn thiện bởi các chi tiết nhỏ như cổng sạc, jack cắm tai nghe, cảm biến loa thoại đều được gia công chỉn chu, tỉ mỉ và gần như không xuất hiện chi tiết thừa.	Máy được thiết kế hoàn thiện bởi các chi tiết nhỏ như cổng sạc , jack cắm tai nghe , cảm biến loa thoại đều được gia công chỉn chu , tỉ mỉ và gần như không xuất hiện chi tiết thừa .
 
@@ -71,6 +73,9 @@ des: Thiết kế mỏng nhẹ và tinh tế của Galaxy A13	des : Thiết kế
 Thiết kế mỏng nhẹ và tinh tế của Galaxy A13.	Thiết kế mỏng nhẹ và tinh tế của Galaxy A13 .
 
 Còn với Samsung Galaxy A03s không có nhiều điểm thay đổi về thiết kế nhưng vẫn giữ được vẻ đẹp tinh tế và hiện đại, không thua kém các sản phẩm cạnh tranh khác.	Còn với Samsung Galaxy A03s không có nhiều điểm thay đổi về thiết kế nhưng vẫn giữ được vẻ đẹp tinh tế và hiện đại , không thua kém các sản phẩm cạnh tranh khác .
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&A03s"], "object": ["30&&các", "31&&sản", "32&&phẩm", "33&&cạnh", "34&&tranh", "35&&khác"], "aspect": ["13&&thiết", "14&&kế"], "predicate": ["27&&không", "28&&thua", "29&&kém"], "label": "EQL"}
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&A03s"], "object": [], "aspect": ["13&&thiết", "14&&kế"], "predicate": ["6&&không", "7&&có", "8&&nhiều", "9&&điểm", "10&&thay", "11&&đổi"], "label": "EQL"}
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&A03s"], "object": [], "aspect": ["19&&vẻ", "20&&đẹp", "21&&tinh", "22&&tế", "23&&và", "24&&hiện", "25&&đại"], "predicate": ["16&&vẫn", "17&&giữ", "18&&được"], "label": "EQL"}
 
 Thiết kế viền màn hình khá mỏng và mặt lưng được bo cong mềm mại, dễ dàng cầm nắm và thao tác dù chỉ bằng một tay.	Thiết kế viền màn hình khá mỏng và mặt lưng được bo cong mềm mại , dễ dàng cầm nắm và thao tác dù chỉ bằng một tay .
 
@@ -83,6 +88,7 @@ Thiết kế đơn giản nhưng trông rất tinh tế với đường viền m
 Màn hình	Màn hình
 
 Bộ đôi được trang bị màn hình lớn cho trải nghiệm cực đỉnh, giữa hai sản phẩm này có những điểm khác nhau về thông số kỹ thuật.	Bộ đôi được trang bị màn hình lớn cho trải nghiệm cực đỉnh , giữa hai sản phẩm này có những điểm khác nhau về thông số kỹ thuật .
+{"subject": ["16&&hai", "17&&sản", "18&&phẩm", "19&&này"], "object": ["16&&hai", "17&&sản", "18&&phẩm", "19&&này"], "aspect": ["26&&thông", "27&&số", "28&&kỹ", "29&&thuật"], "predicate": ["20&&có", "21&&những", "22&&điểm", "23&&khác", "24&&nhau"], "label": "DIF"}
 
 Samsung Galaxy A13 4GB có màn hình rộng  6.6 inch  với  công nghệ màn hình  PLS TFT LCD  đi kèm độ phân giải  Full HD+ (1080 x 2408 Pixels)  và độ sáng tối đa  600 nits  cho phép người dùng trải nghiệm cảm giác sống động như thật khi xem phim, chơi game,...	Samsung Galaxy A13 4GB có màn hình rộng 6.6 inch với công nghệ màn hình PLS TFT LCD đi kèm độ phân giải Full HD + ( 1080 x 2408 Pixels ) và độ sáng tối đa 600 nits cho phép người dùng trải nghiệm cảm giác sống động như thật khi xem phim , chơi game , . . .
 
@@ -113,8 +119,11 @@ des: Camera xịn sò cho ra những hình ảnh sắc nét	des : Camera xịn s
 Camera xịn sò cho ra những hình ảnh sắc nét.	Camera xịn sò cho ra những hình ảnh sắc nét .
 
 Về camera sau , Samsung Galaxy A13 4GB chiếm ưu thế hơn Samsung Galaxy A03s khi sở hữu  bộ 4 camera  có độ phân giải  50 MP ,  5 MP ,  2 MP ,  2 MP  mang lại trải nghiệm quay chụp có độ sắc nét cao, bắt trọn từng chi tiết nhỏ.	Về camera sau , Samsung Galaxy A13 4GB chiếm ưu thế hơn Samsung Galaxy A03s khi sở hữu bộ 4 camera có độ phân giải 50 MP , 5 MP , 2 MP , 2 MP mang lại trải nghiệm quay chụp có độ sắc nét cao , bắt trọn từng chi tiết nhỏ .
+{"subject": ["5&&Samsung", "6&&Galaxy", "7&&A13", "8&&4GB"], "object": ["13&&Samsung", "14&&Galaxy", "15&&A03s"], "aspect": ["2&&camera", "3&&sau"], "predicate": ["9&&chiếm", "10&&ưu", "11&&thế", "12&&hơn"], "label": "COM+"}
 
 Camera sau của Galaxy A03s có độ phân giải thấp hơn với  bộ 3 camera  đa chức năng có độ phân giải  13 MP ,  2 MP ,  2 MP  nhưng vẫn cho ra những bức ảnh chất lượng cao, màu sắc chân thực và sống động.	Camera sau của Galaxy A03s có độ phân giải thấp hơn với bộ 3 camera đa chức năng có độ phân giải 13 MP , 2 MP , 2 MP nhưng vẫn cho ra những bức ảnh chất lượng cao , màu sắc chân thực và sống động .
+{"subject": ["4&&Galaxy", "5&&A03s"], "object": [], "aspect": ["1&&Camera", "2&&sau"], "predicate": ["7&&độ", "8&&phân", "9&&giải", "10&&thấp", "11&&hơn"], "label": "COM-"}
+{"subject": ["1&&Camera", "2&&sau", "3&&của", "4&&Galaxy", "5&&A03s"], "object": [], "aspect": ["7&&độ", "8&&phân", "9&&giải"], "predicate": ["10&&thấp", "11&&hơn"], "label": "COM-"}
 
 alt: Bộ 4 camera bắt trọn từng khoảnh khắc	alt : Bộ 4 camera bắt trọn từng khoảnh khắc
 
@@ -147,6 +156,8 @@ Với chip xử lý trên, các tác vụ này sẽ được  hoạt động mư
 Bộ nhớ	Bộ nhớ
 
 Samsung Galaxy A13 4GB và Samsung Galaxy A03s đều có  RAM 4 GB , tuy nhiên ROM của Galaxy A13 4GB lớn  gấp đôi  ROM của Galaxy A03s.	Samsung Galaxy A13 4GB và Samsung Galaxy A03s đều có RAM 4 GB , tuy nhiên ROM của Galaxy A13 4GB lớn gấp đôi ROM của Galaxy A03s .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A13", "4&&4GB"], "object": ["6&&Samsung", "7&&Galaxy", "8&&A03s"], "aspect": ["11&&RAM", "12&&4", "13&&GB"], "predicate": ["9&&đều", "10&&có"], "label": "EQL"}
+{"subject": ["19&&Galaxy", "20&&A13", "21&&4GB"], "object": ["27&&Galaxy", "28&&A03s"], "aspect": ["17&&ROM"], "predicate": ["22&&lớn", "23&&gấp", "24&&đôi"], "label": "COM+"}
 
 alt: Bộ nhớ trong 128GB của cả hai thiết bị có khả năng lưu trữ dữ liệu lớn	alt : Bộ nhớ trong 128GB của cả hai thiết bị có khả năng lưu trữ dữ liệu lớn
 
@@ -167,6 +178,7 @@ Dung lượng bộ nhớ của cả hai đáp ứng nhu cầu sử dụng cơ b�
 Pin và sạc	Pin và sạc
 
 Cả hai chiếc điện thoại đều có thời lượng pin lớn lên tới  5000 mAh  cho phép người dùng vô tư sử dụng điện thoại mà không lo hết hết pin giữa chừng.	Cả hai chiếc điện thoại đều có thời lượng pin lớn lên tới 5000 mAh cho phép người dùng vô tư sử dụng điện thoại mà không lo hết hết pin giữa chừng .
+{"subject": ["1&&Cả", "2&&hai", "3&&chiếc", "4&&điện", "5&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&chiếc", "4&&điện", "5&&thoại"], "aspect": ["8&&thời", "9&&lượng", "10&&pin", "11&&lớn", "12&&lên", "13&&tới", "14&&5000", "15&&mAh"], "predicate": ["6&&đều", "7&&có"], "label": "EQL"}
 
 Ở Samsung Galaxy A13 4GB được  hỗ trợ sạc tối đa 15 W  cùng với chế độ  sạc pin nhanh  đáp ứng nhu cầu sử dụng liên tục hàng giờ trên máy nhưng vẫn tiết kiệm thời gian sạc.	Ở Samsung Galaxy A13 4GB được hỗ trợ sạc tối đa 15 W cùng với chế độ sạc pin nhanh đáp ứng nhu cầu sử dụng liên tục hàng giờ trên máy nhưng vẫn tiết kiệm thời gian sạc .
 
@@ -177,6 +189,7 @@ des: Galaxy A13 với dung lượng pin lớn và công nghệ sạc pin nhanh t
 Galaxy A13 với dung lượng pin lớn và công nghệ sạc pin nhanh tiện lợi.	Galaxy A13 với dung lượng pin lớn và công nghệ sạc pin nhanh tiện lợi .
 
 Samsung Galaxy A03s được  hỗ trợ sạc tối đa  với công suất thấp hơn  7.75 W  cùng với chế độ  tiết kiệm pin  giúp người dùng thoải mái sử dụng mà không lo pin tụt nhanh chóng.	Samsung Galaxy A03s được hỗ trợ sạc tối đa với công suất thấp hơn 7.75 W cùng với chế độ tiết kiệm pin giúp người dùng thoải mái sử dụng mà không lo pin tụt nhanh chóng .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A03s"], "object": [], "aspect": ["11&&công", "12&&suất"], "predicate": ["13&&thấp", "14&&hơn"], "label": "COM-"}
 
 alt: Galaxy A03s với viên pin lớn 5000 mAh	alt : Galaxy A03s với viên pin lớn 5000 mAh
 
@@ -193,6 +206,7 @@ Bảng so sánh giữa Samsung Galaxy A13 4GB và Galaxy A03s	Bảng so sánh gi
 Nên mua điện thoại Samsung Galaxy A13 4GB hay Galaxy A03s	Nên mua điện thoại Samsung Galaxy A13 4GB hay Galaxy A03s
 
 Với tầm giá này, cả hai chiếc smartphone đến từ thương hiệu Samsung đều có những nét nổi bật trong thiết kế, tính năng cũng như chất lượng sản phẩm.	Với tầm giá này , cả hai chiếc smartphone đến từ thương hiệu Samsung đều có những nét nổi bật trong thiết kế , tính năng cũng như chất lượng sản phẩm .
+{"subject": ["7&&hai", "8&&chiếc", "9&&smartphone", "10&&đến", "11&&từ", "12&&thương", "13&&hiệu", "14&&Samsung"], "object": ["7&&hai", "8&&chiếc", "9&&smartphone", "10&&đến", "11&&từ", "12&&thương", "13&&hiệu", "14&&Samsung"], "aspect": ["17&&những", "18&&nét", "19&&nổi", "20&&bật", "21&&trong", "22&&thiết", "23&&kế", "24&&,", "25&&tính", "26&&năng", "27&&cũng", "28&&như", "29&&chất", "30&&lượng", "31&&sản", "32&&phẩm"], "predicate": ["15&&đều", "16&&có"], "label": "EQL"}
 
 Đồng thời, cũng tồn tại một số mặt cần được cải thiện.	Đồng thời , cũng tồn tại một số mặt cần được cải thiện .
 

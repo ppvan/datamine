@@ -9,6 +9,7 @@ Cùng tìm hiểu xem thiết kế, màu sắc  Samsung Galaxy A24  có gì mớ
 Tổng quan về điện thoại Samsung Galaxy A24	Tổng quan về điện thoại Samsung Galaxy A24
 
 Samsung Galaxy A24 thuộc dòng  Galaxy A  đình đám, là mẫu điện thoại giá rẻ mới nhất đến từ ông lớn Hàn Quốc.	Samsung Galaxy A24 thuộc dòng Galaxy A đình đám , là mẫu điện thoại giá rẻ mới nhất đến từ ông lớn Hàn Quốc .
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A24"], "object": [], "aspect": [], "predicate": ["12&&mẫu", "13&&điện", "14&&thoại", "15&&giá", "16&&rẻ", "17&&mới", "18&&nhất"], "label": "SUP"}
 
 Sản phẩm này đã xuất hiện rất nhiều trong các thông tin rò rỉ trước đây, và mới được tung ra thị trường vào tháng 4 năm nay.	Sản phẩm này đã xuất hiện rất nhiều trong các thông tin rò rỉ trước đây , và mới được tung ra thị trường vào tháng 4 năm nay .
 
@@ -31,6 +32,7 @@ Thiết kế	Thiết kế
 Ngoại hình vô cùng hiện đại của máy cùng mặt lưng tráng gương sang trọng.	Ngoại hình vô cùng hiện đại của máy cùng mặt lưng tráng gương sang trọng .
 
 Thiết kế mặt lưng hoàn thiện phẳng và đổi sắc, đi kèm dải ba camera xếp theo chiều dọc giống tương tự dải sản phẩm mới ra mắt vào năm 2023 của hãng hẳn sẽ chiều lòng được đa dạng đối tượng người dùng.	Thiết kế mặt lưng hoàn thiện phẳng và đổi sắc , đi kèm dải ba camera xếp theo chiều dọc giống tương tự dải sản phẩm mới ra mắt vào năm 2023 của hãng hẳn sẽ chiều lòng được đa dạng đối tượng người dùng .
+{"subject": [], "object": ["24&&dải", "25&&sản", "26&&phẩm", "27&&mới", "28&&ra", "29&&mắt", "30&&vào", "31&&năm", "32&&2023", "33&&của", "34&&hãng"], "aspect": ["14&&dải", "15&&ba", "16&&camera", "17&&xếp", "18&&theo", "19&&chiều", "20&&dọc"], "predicate": ["21&&giống"], "label": "EQL"}
 
 Máy trở nên góc cạnh hơn khi các viền xung quanh bộ khung đều được gia công vát một cách tinh tế.	Máy trở nên góc cạnh hơn khi các viền xung quanh bộ khung đều được gia công vát một cách tinh tế .
 
@@ -53,6 +55,7 @@ des: Hãng trang bị các tính năng đặc biệt cho camera máy	des : Hãng
 Màu sắc	Màu sắc
 
 Bảng sắc màu của Samsung Galaxy A24 có sự khác biệt so với phiên bản tiền nhiệm  Samsung Galaxy A14 , cụ thể là phiên bản Xanh Lime độc đáo đậm chất Galaxy.	Bảng sắc màu của Samsung Galaxy A24 có sự khác biệt so với phiên bản tiền nhiệm Samsung Galaxy A14 , cụ thể là phiên bản Xanh Lime độc đáo đậm chất Galaxy .
+{"subject": ["5&&Samsung", "6&&Galaxy", "7&&A24"], "object": ["18&&Samsung", "19&&Galaxy", "20&&A14"], "aspect": ["1&&Bảng", "2&&sắc", "3&&màu"], "predicate": ["10&&khác", "11&&biệt", "12&&so", "13&&với"], "label": "DIF"}
 
 Với bốn phiên bản màu sắc của thiết bị, người dùng có thể lựa chọn tùy theo sở thích cũng như mục đích sử dụng của mình.	Với bốn phiên bản màu sắc của thiết bị , người dùng có thể lựa chọn tùy theo sở thích cũng như mục đích sử dụng của mình .
 
@@ -91,12 +94,17 @@ Samsung Galaxy A24 cũng theo xu hướng chung với màn hình lớn được 
 Trong lần trở lại này, Samsung trang bị cho những tân binh của mình tấm nền Super AMOLED đảm bảo mọi thứ hiển thị tại đây đều sắc nét và sống động.	Trong lần trở lại này , Samsung trang bị cho những tân binh của mình tấm nền Super AMOLED đảm bảo mọi thứ hiển thị tại đây đều sắc nét và sống động .
 
 Nhờ đó mà trải nghiệm xem phim, chơi game trên chiếc điện thoại này được nâng cấp và cải thiện đáng kể so với phiên bản tiền nhiệm.	Nhờ đó mà trải nghiệm xem phim , chơi game trên chiếc điện thoại này được nâng cấp và cải thiện đáng kể so với phiên bản tiền nhiệm .
+{"subject": ["12&&chiếc", "13&&điện", "14&&thoại", "15&&này"], "object": ["26&&phiên", "27&&bản", "28&&tiền", "29&&nhiệm"], "aspect": ["4&&trải", "5&&nghiệm", "6&&xem", "7&&phim"], "predicate": ["17&&nâng", "18&&cấp", "19&&và", "20&&cải", "21&&thiện", "22&&đáng", "23&&kể"], "label": "COM+"}
+{"subject": ["12&&chiếc", "13&&điện", "14&&thoại", "15&&này"], "object": ["26&&phiên", "27&&bản", "28&&tiền", "29&&nhiệm"], "aspect": ["9&&chơi", "10&&game"], "predicate": ["17&&nâng", "18&&cấp", "19&&và", "20&&cải", "21&&thiện", "22&&đáng", "23&&kể"], "label": "COM+"}
 
 alt: Màn hình rộng mang lại trải nghiệm sử dụng tốt nhất	alt : Màn hình rộng mang lại trải nghiệm sử dụng tốt nhất
+{"subject": ["3&&Màn", "4&&hình", "5&&rộng"], "object": [], "aspect": ["8&&trải", "9&&nghiệm", "10&&sử", "11&&dụng"], "predicate": ["12&&tốt", "13&&nhất"], "label": "SUP+"}
 
 des: Màn hình rộng mang lại trải nghiệm sử dụng tốt nhất	des : Màn hình rộng mang lại trải nghiệm sử dụng tốt nhất
+{"subject": ["3&&Màn", "4&&hình", "5&&rộng"], "object": [], "aspect": ["8&&trải", "9&&nghiệm", "10&&sử", "11&&dụng"], "predicate": ["12&&tốt", "13&&nhất"], "label": "SUP+"}
 
 Camera chụp ảnh sắc nét hơn	Camera chụp ảnh sắc nét hơn
+{"subject": [], "object": [], "aspect": ["1&&Camera", "2&&chụp", "3&&ảnh"], "predicate": ["4&&sắc", "5&&nét", "6&&hơn"], "label": "COM+"}
 
 Nếu là một tín đồ sống ảo thì bạn hoàn toàn nên lựa chọn Samsung Galaxy A24 để nâng tầm nghệ thuật cho những tấm hình của mình.	Nếu là một tín đồ sống ảo thì bạn hoàn toàn nên lựa chọn Samsung Galaxy A24 để nâng tầm nghệ thuật cho những tấm hình của mình .
 
@@ -119,6 +127,7 @@ des: Thế hệ mới cùng sự cải tiến camera với những thông số �
 Cấu hình mạnh mẽ	Cấu hình mạnh mẽ
 
 Dù chỉ là mẫu điện thoại có giá thành bình dân, nhưng thiết bị này được trang bị cấu hình mạnh mẽ ẩn sâu trong ngoại hình tinh tế của mình, đánh dấu trở thành một trong những chiếc smartphone được quan tâm nhất thời điểm hiện tại.	Dù chỉ là mẫu điện thoại có giá thành bình dân , nhưng thiết bị này được trang bị cấu hình mạnh mẽ ẩn sâu trong ngoại hình tinh tế của mình , đánh dấu trở thành một trong những chiếc smartphone được quan tâm nhất thời điểm hiện tại .
+{"subject": ["13&&nhưng", "14&&thiết", "15&&bị", "16&&này"], "object": [], "aspect": ["43&&được", "44&&quan", "45&&tâm"], "predicate": ["46&&nhất", "47&&thời", "48&&điểm", "49&&hiện", "50&&tại"], "label": "SUP"}
 
 CPU  MediaTek Helio G99 có thể xử lý thần tốc mọi tác vụ một cách mượt mà.	CPU MediaTek Helio G99 có thể xử lý thần tốc mọi tác vụ một cách mượt mà .
 

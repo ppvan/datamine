@@ -5,6 +5,8 @@ Galaxy S22 Ultra hay OnePlus 10 Pro là lựa chọn tốt nhất dành cho
 Galaxy S22 Ultra nổi bật với bút S-Pen, thiết kế lấy cảm hứng từ dòng Galaxy Note 10+...trong khi đó, OnePlus 10 Pro mang đến tốc độ sạc ấn tượng cùng chất lượng máy ảnh xuất sắc.	Galaxy S22 Ultra nổi bật với bút S-Pen , thiết kế lấy cảm hứng từ dòng Galaxy Note 10 + . . . trong khi đó , OnePlus 10 Pro mang đến tốc độ sạc ấn tượng cùng chất lượng máy ảnh xuất sắc .
 
 Cả hai điện thoại đều trang bị hàng loạt tính năng mới và được đánh giá là một trong những điện thoại Android tốt nhất hiện nay.	Cả hai điện thoại đều trang bị hàng loạt tính năng mới và được đánh giá là một trong những điện thoại Android tốt nhất hiện nay .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": ["8&&hàng", "9&&loạt", "10&&tính", "11&&năng", "12&&mới"], "predicate": ["5&&đều", "6&&trang", "7&&bị"], "label": "EQL"}
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": [], "aspect": [], "predicate": ["21&&điện", "22&&thoại", "23&&Android", "24&&tốt", "25&&nhất"], "label": "SUP+"}
 
 So sánh Galaxy S22 Ultra và OnePlus 10 Pro sẽ cho chúng ta thấy được những khác biệt về hai model này.	So sánh Galaxy S22 Ultra và OnePlus 10 Pro sẽ cho chúng ta thấy được những khác biệt về hai model này .
 
@@ -13,8 +15,11 @@ Từ đó giúp người dùng cân nhắc, đưa ra những lựa chọ
 Thiết kế trên hai điện thoại	Thiết kế trên hai điện thoại
 
 Về thiết kế trên Galaxy S22 Ultra và OnePlus 10 Pro rất dễ nhận biết và phân biệt so với các đối thủ khác.	Về thiết kế trên Galaxy S22 Ultra và OnePlus 10 Pro rất dễ nhận biết và phân biệt so với các đối thủ khác .
+{"subject": ["5&&Galaxy", "6&&S22", "7&&Ultra"], "object": ["21&&các", "22&&đối", "23&&thủ", "24&&khác"], "aspect": ["2&&thiết", "3&&kế"], "predicate": ["13&&dễ", "14&&nhận", "15&&biết", "16&&và", "17&&phân", "18&&biệt"], "label": "DIF"}
+{"subject": ["9&&OnePlus", "10&&10", "11&&Pro"], "object": ["21&&các", "22&&đối", "23&&thủ", "24&&khác"], "aspect": [], "predicate": ["13&&dễ", "14&&nhận", "15&&biết", "16&&và", "17&&phân", "18&&biệt"], "label": "DIF"}
 
 Flagship nhà Samsung năm nay nhận được ngôn ngữ thiết kế giống với dòng Galaxy Note.	Flagship nhà Samsung năm nay nhận được ngôn ngữ thiết kế giống với dòng Galaxy Note .
+{"subject": ["1&&Flagship", "2&&nhà", "3&&Samsung", "4&&năm", "5&&nay"], "object": ["14&&dòng", "15&&Galaxy", "16&&Note"], "aspect": ["8&&ngôn", "9&&ngữ", "10&&thiết", "11&&kế"], "predicate": ["12&&giống", "13&&với"], "label": "EQL"}
 
 Các góc cạnh sắc nét, vuông vức cùng hệ thống camera được tách rời theo kiểu giọt nước khá mới lạ, thu hút khá nhiều người dùng.	Các góc cạnh sắc nét , vuông vức cùng hệ thống camera được tách rời theo kiểu giọt nước khá mới lạ , thu hút khá nhiều người dùng .
 
@@ -25,26 +30,35 @@ des:	des :
 Trog khi đó, OnePlus 10 Pro tích hợp mô-đun camera hình chữ nhật tràn xuống cạnh viền, tổng thể không quá lớn giúp người dùng dễ dàng thao tác bằng một tay.	Trog khi đó , OnePlus 10 Pro tích hợp mô-đun camera hình chữ nhật tràn xuống cạnh viền , tổng thể không quá lớn giúp người dùng dễ dàng thao tác bằng một tay .
 
 Cả hai điện thoại đều mang đến sự tinh tế, hoàn hảo nhất.	Cả hai điện thoại đều mang đến sự tinh tế , hoàn hảo nhất .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": [], "predicate": ["5&&đều", "6&&mang", "7&&đến", "8&&sự", "9&&tinh", "10&&tế", "11&&,", "12&&hoàn", "13&&hảo", "14&&nhất"], "label": "EQL"}
 
 Điện thoại OnePlus 10 Pro và Samsung S22 Ultra đều được trang bị công nghệ chống nước, bụi đạt chuẩn IP68.	Điện thoại OnePlus 10 Pro và Samsung S22 Ultra đều được trang bị công nghệ chống nước , bụi đạt chuẩn IP68 .
+{"subject": ["3&&OnePlus", "4&&10", "5&&Pro"], "object": ["7&&Samsung", "8&&S22", "9&&Ultra"], "aspect": ["14&&công", "15&&nghệ", "16&&chống", "17&&nước", "18&&,", "19&&bụi", "20&&đạt", "21&&chuẩn", "22&&IP68"], "predicate": ["10&&đều", "11&&được", "12&&trang", "13&&bị"], "label": "EQL"}
 
 Giống như hầu hết các flagship hiện đại, cả hai đều không cung cấp giắc cắm tai nghe hoặc khe cắm thẻ nhớ microSD.	Giống như hầu hết các flagship hiện đại , cả hai đều không cung cấp giắc cắm tai nghe hoặc khe cắm thẻ nhớ microSD .
+{"subject": ["10&&cả", "11&&hai"], "object": ["10&&cả", "11&&hai"], "aspect": ["16&&giắc", "17&&cắm", "18&&tai", "19&&nghe"], "predicate": ["12&&đều", "13&&không", "14&&cung", "15&&cấp"], "label": "EQL"}
+{"subject": ["10&&cả", "11&&hai"], "object": ["10&&cả", "11&&hai"], "aspect": ["21&&khe", "22&&cắm", "23&&thẻ", "24&&nhớ", "25&&microSD"], "predicate": ["12&&đều", "13&&không", "14&&cung", "15&&cấp"], "label": "EQL"}
 
 Một yếu tố làm nên sự khác biệt của OnePlus là được tích hợp công tắc tắt tiếng đặc trưng, ​​hoặc "thanh trượt cảnh báo", một phím ba chiều cho phép bạn dễ dàng chuyển điện thoại của mình sang các chế độ chuông, rung và im lặng.	Một yếu tố làm nên sự khác biệt của OnePlus là được tích hợp công tắc tắt tiếng đặc trưng , ​​ hoặc " thanh trượt cảnh báo " , một phím ba chiều cho phép bạn dễ dàng chuyển điện thoại của mình sang các chế độ chuông , rung và im lặng .
 
 Chất lượng hiển thị Galaxy S22 Ultra và OnePlus 10 Pro	Chất lượng hiển thị Galaxy S22 Ultra và OnePlus 10 Pro
 
 Màn hình hai máy đều sử dụng tấm nền OLED cao cấp với kích thước 6,7 inch.	Màn hình hai máy đều sử dụng tấm nền OLED cao cấp với kích thước 6,7 inch .
+{"subject": ["1&&Màn", "2&&hình", "3&&hai", "4&&máy"], "object": ["1&&Màn", "2&&hình", "3&&hai", "4&&máy"], "aspect": ["8&&tấm", "9&&nền", "10&&OLED"], "predicate": ["5&&đều", "6&&sử", "7&&dụng"], "label": "EQL"}
 
 Tuy nhiên tỷ lệ khung hình trên Samsung Galaxy S22 Ultra có phần rộng hơn và diện tích hiển thị lớn hơn.	Tuy nhiên tỷ lệ khung hình trên Samsung Galaxy S22 Ultra có phần rộng hơn và diện tích hiển thị lớn hơn .
+{"subject": ["8&&Samsung", "9&&Galaxy", "10&&S22", "11&&Ultra"], "object": [], "aspect": ["3&&tỷ", "4&&lệ", "5&&khung", "6&&hình"], "predicate": ["12&&có", "13&&phần", "14&&rộng", "15&&hơn"], "label": "COM+"}
+{"subject": ["8&&Samsung", "9&&Galaxy", "10&&S22", "11&&Ultra"], "object": [], "aspect": ["17&&diện", "18&&tích", "19&&hiển", "20&&thị"], "predicate": ["21&&lớn", "22&&hơn"], "label": "COM+"}
 
 Cả hai đều hỗ trợ phát lại video HDR và ​​phá vỡ các bản ghi độ chính xác của màu sắc và độ sáng cao.	Cả hai đều hỗ trợ phát lại video HDR và ​​ phá vỡ các bản ghi độ chính xác của màu sắc và độ sáng cao .
+{"subject": ["1&&Cả", "2&&hai"], "object": ["1&&Cả", "2&&hai"], "aspect": ["6&&phát", "7&&lại", "8&&video", "9&&HDR"], "predicate": ["3&&đều", "4&&hỗ", "5&&trợ"], "label": "EQL"}
 
 alt: Chất lượng hiển thị Galaxy S22 Ultra và OnePlus 10 Pro vượt trội	alt : Chất lượng hiển thị Galaxy S22 Ultra và OnePlus 10 Pro vượt trội
 
 des:	des :
 
 Bên cạnh đó, hai mẫu flagship Android mới đều sử dụng công nghệ LTPO cho tốc độ làm mới thích ứng lên đến 120Hz để cuộn mượt mà hoặc giảm tỷ lệ để tiết kiệm năng lượng tùy vào nội dung hiển thị.	Bên cạnh đó , hai mẫu flagship Android mới đều sử dụng công nghệ LTPO cho tốc độ làm mới thích ứng lên đến 120Hz để cuộn mượt mà hoặc giảm tỷ lệ để tiết kiệm năng lượng tùy vào nội dung hiển thị .
+{"subject": ["5&&hai", "6&&mẫu", "7&&flagship", "8&&Android", "9&&mới"], "object": ["5&&hai", "6&&mẫu", "7&&flagship", "8&&Android", "9&&mới"], "aspect": ["13&&công", "14&&nghệ", "15&&LTPO"], "predicate": ["10&&đều", "11&&sử", "12&&dụng"], "label": "EQL"}
 
 Việc sử dụng thiết kế màn hình đục lỗ với các viền bezel siêu mỏng giúp màn hình hiển thị mang đến trải nghiệm khi xem phim, chơi game tốt hơn.	Việc sử dụng thiết kế màn hình đục lỗ với các viền bezel siêu mỏng giúp màn hình hiển thị mang đến trải nghiệm khi xem phim , chơi game tốt hơn .
 
@@ -53,6 +67,8 @@ Một lợi thế dành cho điện thoại Samsung chính là có đô�
 So sánh camera OnePlus 10 Pro và Galaxy S22 Ultra	So sánh camera OnePlus 10 Pro và Galaxy S22 Ultra
 
 Mặc dù trên lý thuyết, không có nhiều thay đổi về máy ảnh trên Galaxy S22 Ultra và OnePlus 10 Pro so với các mẫu máy tiền nhiệm của chúng.	Mặc dù trên lý thuyết , không có nhiều thay đổi về máy ảnh trên Galaxy S22 Ultra và OnePlus 10 Pro so với các mẫu máy tiền nhiệm của chúng .
+{"subject": ["16&&Galaxy", "17&&S22", "18&&Ultra"], "object": ["25&&các", "26&&mẫu", "27&&máy", "28&&tiền", "29&&nhiệm", "30&&của", "31&&chúng"], "aspect": ["13&&máy", "14&&ảnh"], "predicate": ["7&&không", "8&&có", "9&&nhiều", "10&&thay", "11&&đổi"], "label": "EQL"}
+{"subject": ["20&&OnePlus", "21&&10", "22&&Pro"], "object": ["25&&các", "26&&mẫu", "27&&máy", "28&&tiền", "29&&nhiệm", "30&&của", "31&&chúng"], "aspect": ["13&&máy", "14&&ảnh"], "predicate": ["7&&không", "8&&có", "9&&nhiều", "10&&thay", "11&&đổi"], "label": "EQL"}
 
 Nhưng chúng ta vẫn nhận được những cải tiến với các chỉnh sửa phần mềm cho cả ảnh và video.	Nhưng chúng ta vẫn nhận được những cải tiến với các chỉnh sửa phần mềm cho cả ảnh và video .
 
@@ -63,14 +79,18 @@ alt: So sánh camera OnePlus 10 Pro và Galaxy S22 Ultra	alt : So sánh camer
 des:	des :
 
 Galaxy nổi bật với cảm biến camera chính lớn đó, trong khi OnePlus có cảm biến lớn hơn cho camera siêu rộng.	Galaxy nổi bật với cảm biến camera chính lớn đó , trong khi OnePlus có cảm biến lớn hơn cho camera siêu rộng .
+{"subject": ["14&&OnePlus"], "object": ["1&&Galaxy"], "aspect": ["21&&camera", "22&&siêu", "23&&rộng"], "predicate": ["16&&cảm", "17&&biến", "18&&lớn", "19&&hơn"], "label": "COM+"}
 
 Tất nhiên, bạn cũng nhận được ống kính zoom 10X tốt hơn trên Galaxy S22 Ultra.	Tất nhiên , bạn cũng nhận được ống kính zoom 10X tốt hơn trên Galaxy S22 Ultra .
+{"subject": ["15&&Galaxy", "16&&S22", "17&&Ultra"], "object": [], "aspect": ["8&&ống", "9&&kính", "10&&zoom"], "predicate": ["12&&tốt", "13&&hơn"], "label": "COM+"}
 
 Do đó, Samsung S22 Ultra vẫn được đánh giá sở hữu máy ảnh linh hoạt hơn trong số với đối thủ.	Do đó , Samsung S22 Ultra vẫn được đánh giá sở hữu máy ảnh linh hoạt hơn trong số với đối thủ .
+{"subject": ["4&&Samsung", "5&&S22", "6&&Ultra"], "object": ["21&&đối", "22&&thủ"], "aspect": ["13&&máy", "14&&ảnh"], "predicate": ["15&&linh", "16&&hoạt", "17&&hơn"], "label": "COM+"}
 
 So sánh thông số kỹ thuật	So sánh thông số kỹ thuật
 
 Cấu hình Galaxy S22 Ultra hay OnePlus 10 Pro đều được cung cấp sức mạnh từ chip xử lý Snapdragon 8 Gen 1, chipset hàng đầu hiện nay của Qualcomm.	Cấu hình Galaxy S22 Ultra hay OnePlus 10 Pro đều được cung cấp sức mạnh từ chip xử lý Snapdragon 8 Gen 1 , chipset hàng đầu hiện nay của Qualcomm .
+{"subject": ["3&&Galaxy", "4&&S22", "5&&Ultra"], "object": ["7&&OnePlus", "8&&10", "9&&Pro"], "aspect": ["17&&chip", "18&&xử", "19&&lý", "20&&Snapdragon", "21&&8", "22&&Gen", "23&&1"], "predicate": ["10&&đều", "11&&được", "12&&cung", "13&&cấp"], "label": "EQL"}
 
 Các phiên bản tiêu chuẩn của điện thoại Galaxy đi kèm với RAM 8GB và người dùng sẽ bỏ thêm một số tiền để trải nghiệm cấu hình tốt hơn RAM 12GB -  Dung lượng tiêu chuẩn trên điện thoại OnePlus 10 Pro.	Các phiên bản tiêu chuẩn của điện thoại Galaxy đi kèm với RAM 8GB và người dùng sẽ bỏ thêm một số tiền để trải nghiệm cấu hình tốt hơn RAM 12GB - Dung lượng tiêu chuẩn trên điện thoại OnePlus 10 Pro .
 
@@ -81,30 +101,41 @@ des:	des :
 Tùy vào từng khu vực mà người dùng sẽ được sử dụng Galaxy S22 chạy chip Snapdragon 8 Gen 1 hay Exynos 2200.	Tùy vào từng khu vực mà người dùng sẽ được sử dụng Galaxy S22 chạy chip Snapdragon 8 Gen 1 hay Exynos 2200 .
 
 Đối với phần mềm, One UI của Samsung mang đến nhiều tính năng hơn OnePlus.	Đối với phần mềm , One UI của Samsung mang đến nhiều tính năng hơn OnePlus .
+{"subject": ["9&&Samsung"], "object": ["16&&OnePlus"], "aspect": ["3&&phần", "4&&mềm"], "predicate": ["12&&nhiều", "13&&tính", "14&&năng", "15&&hơn"], "label": "COM+"}
 
 Nhưng nó cũng có cảm giác phản ứng chậm hơn một chút và hơi chập chờn hơn một chút so với các hình ảnh động mượt mà trên OnePlus.	Nhưng nó cũng có cảm giác phản ứng chậm hơn một chút và hơi chập chờn hơn một chút so với các hình ảnh động mượt mà trên OnePlus .
+{"subject": ["2&&nó"], "object": ["29&&OnePlus"], "aspect": ["7&&phản", "8&&ứng"], "predicate": ["9&&chậm", "10&&hơn", "11&&một", "12&&chút"], "label": "COM-"}
+{"subject": ["2&&nó"], "object": ["29&&OnePlus"], "aspect": ["23&&hình", "24&&ảnh", "25&&động"], "predicate": ["14&&hơi", "15&&chập", "16&&chờn", "17&&hơn", "18&&một", "19&&chút"], "label": "COM-"}
 
 Một điều tương tự cũng diễn ra với hiệu suất GPU, trong bài kiểm tra  3D Mark Wildlife Extreme kéo dài 20 phút, Galaxy bắt đầu thấp hơn và sau đó điều chỉnh về các giá trị thấp hơn, và OnePlus chạy bằng Snapdragon có lợi thế hơn khi chơi game.	Một điều tương tự cũng diễn ra với hiệu suất GPU , trong bài kiểm tra 3D Mark Wildlife Extreme kéo dài 20 phút , Galaxy bắt đầu thấp hơn và sau đó điều chỉnh về các giá trị thấp hơn , và OnePlus chạy bằng Snapdragon có lợi thế hơn khi chơi game .
+{"subject": ["26&&Galaxy"], "object": ["44&&OnePlus"], "aspect": ["14&&bài", "15&&kiểm", "16&&tra", "17&&3D", "18&&Mark", "19&&Wildlife", "20&&Extreme", "21&&kéo", "22&&dài", "23&&20", "24&&phút"], "predicate": ["29&&thấp", "30&&hơn"], "label": "COM-"}
+{"subject": ["44&&OnePlus"], "object": ["26&&Galaxy"], "aspect": ["53&&chơi", "54&&game"], "predicate": ["49&&lợi", "50&&thế", "51&&hơn"], "label": "COM+"}
 
 Về mặt mạng, bạn có kết nối 5G trên cả hai điện thoại.	Về mặt mạng , bạn có kết nối 5G trên cả hai điện thoại .
+{"subject": ["11&&cả", "12&&hai", "13&&điện", "14&&thoại"], "object": ["11&&cả", "12&&hai", "13&&điện", "14&&thoại"], "aspect": ["7&&kết", "8&&nối", "9&&5G"], "predicate": ["6&&có", "7&&kết", "8&&nối", "9&&5G", "10&&trên", "11&&cả", "12&&hai", "13&&điện", "14&&thoại"], "label": "EQL"}
 
 Dung lượng pin và tốc độ sạc	Dung lượng pin và tốc độ sạc
 
 Trên Galaxy S22 Ultra và OnePlus 10 Pro đều được trang bị viên pin có dung lượng 5.000mAh.	Trên Galaxy S22 Ultra và OnePlus 10 Pro đều được trang bị viên pin có dung lượng 5.000mAh .
+{"subject": ["2&&Galaxy", "3&&S22", "4&&Ultra"], "object": ["6&&OnePlus", "7&&10", "8&&Pro"], "aspect": ["13&&viên", "14&&pin", "15&&có", "16&&dung", "17&&lượng", "18&&5.000mAh"], "predicate": ["9&&đều", "10&&được", "11&&trang", "12&&bị"], "label": "EQL"}
 
 Trong các bài kiểm tra pin độc lập của hai điện thoại cho thấy model của Samsung có thời lượng pin như sau: duyệt web ở tốc độ 120Hz là 13 giờ 17 phút, phát trực tuyến trên youtube 7 giờ 27 phút và chơi game là 10 giờ 13 phút.	Trong các bài kiểm tra pin độc lập của hai điện thoại cho thấy model của Samsung có thời lượng pin như sau : duyệt web ở tốc độ 120Hz là 13 giờ 17 phút , phát trực tuyến trên youtube 7 giờ 27 phút và chơi game là 10 giờ 13 phút .
 
 Với các thử nghiệm tương tự, OnePlus 10 Pro mang đến thời lượng lần lượt là 12 giờ 32 phút; 10 giờ 47 phút và 10 giờ 14 phút.	Với các thử nghiệm tương tự , OnePlus 10 Pro mang đến thời lượng lần lượt là 12 giờ 32 phút ; 10 giờ 47 phút và 10 giờ 14 phút .
 
 Điều thú vị là OnePlus và Galaxy kéo dài gần như cùng một khoảng thời gian trong bài kiểm tra duyệt web nhẹ nhất, cũng như để chơi game 3D.	Điều thú vị là OnePlus và Galaxy kéo dài gần như cùng một khoảng thời gian trong bài kiểm tra duyệt web nhẹ nhất , cũng như để chơi game 3D .
+{"subject": ["5&&OnePlus"], "object": ["7&&Galaxy"], "aspect": ["18&&bài", "19&&kiểm", "20&&tra", "21&&duyệt", "22&&web", "23&&nhẹ", "24&&nhất"], "predicate": ["8&&kéo", "9&&dài", "10&&gần", "11&&như", "12&&cùng", "13&&một", "14&&khoảng", "15&&thời", "16&&gian"], "label": "EQL"}
+{"subject": [], "object": [], "aspect": ["29&&chơi", "30&&game", "31&&3D"], "predicate": ["8&&kéo", "9&&dài", "10&&gần", "11&&như", "12&&cùng", "13&&một", "14&&khoảng", "15&&thời", "16&&gian"], "label": "EQL"}
 
 Nhưng OnePlus có lợi thế lớn khi phát lại video YouTube.	Nhưng OnePlus có lợi thế lớn khi phát lại video YouTube .
+{"subject": [], "object": ["2&&OnePlus"], "aspect": ["8&&phát", "9&&lại", "10&&video", "11&&YouTube"], "predicate": ["4&&lợi", "5&&thế", "6&&lớn"], "label": "COM+"}
 
 alt:  OnePlus 10 Pro mang đến thời lượng ấn tượng hơn	alt : OnePlus 10 Pro mang đến thời lượng ấn tượng hơn
 
 des:	des :
 
 Trải nghiệm thực tế cho thấy cả hai đều đáp ứng tốt nhu cầu của người dùng ở mức cơ bản chỉ với một lần sạc.	Trải nghiệm thực tế cho thấy cả hai đều đáp ứng tốt nhu cầu của người dùng ở mức cơ bản chỉ với một lần sạc .
+{"subject": ["7&&cả", "8&&hai"], "object": ["7&&cả", "8&&hai"], "aspect": [], "predicate": ["9&&đều", "10&&đáp", "11&&ứng", "12&&tốt", "13&&nhu", "14&&cầu", "15&&của", "16&&người", "17&&dùng", "18&&ở", "19&&mức", "20&&cơ", "21&&bản", "22&&chỉ", "23&&với", "24&&một", "25&&lần", "26&&sạc"], "label": "EQL"}
 
 Samsung S22 Ultra được hỗ trợ sạc nhanh với công suất 45W cho thời gian nạp đầy năng lượng khoảng 1 giờ.	Samsung S22 Ultra được hỗ trợ sạc nhanh với công suất 45W cho thời gian nạp đầy năng lượng khoảng 1 giờ .
 
@@ -115,12 +146,16 @@ OnePlus cũng đang vượt qua ranh giới với sạc không dây.	OnePlus cũ
 Galaxy đạt tối đa ở tốc độ sạc không dây 15W, trong khi OnePlus 10 Pro có thể đạt 50W với bộ sạc OnePlus tương thích.	Galaxy đạt tối đa ở tốc độ sạc không dây 15W , trong khi OnePlus 10 Pro có thể đạt 50W với bộ sạc OnePlus tương thích .
 
 Đối vỡi lĩnh vực này, phần thắng đã thuộc về điện thoại OnePlus.	Đối vỡi lĩnh vực này , phần thắng đã thuộc về điện thoại OnePlus .
+{"subject": ["12&&điện", "13&&thoại", "14&&OnePlus"], "object": [], "aspect": [], "predicate": ["7&&phần", "8&&thắng", "9&&đã", "10&&thuộc", "11&&về"], "label": "COM+"}
 
 Tổng kết	Tổng kết
 
 Sau khi đặt lên bàn cân so sánh Galaxy S22 Ultra và OnePlus 10 Pro cho thấy cả hai flagship mới đều mang đến ngoại hình thu hút.	Sau khi đặt lên bàn cân so sánh Galaxy S22 Ultra và OnePlus 10 Pro cho thấy cả hai flagship mới đều mang đến ngoại hình thu hút .
+{"subject": ["18&&cả", "19&&hai", "20&&flagship", "21&&mới"], "object": ["18&&cả", "19&&hai", "20&&flagship", "21&&mới"], "aspect": ["25&&ngoại", "26&&hình", "27&&thu", "28&&hút"], "predicate": ["22&&đều", "23&&mang", "24&&đến"], "label": "EQL"}
 
 Tuy nhiên, nếu bạn thích trải nghiệm nhiều tiện ích hơn với bút S-Pen, màn hình sáng ấn tượng...thì Samsung S22 Ultra là lựa chọn phù hợp.	Tuy nhiên , nếu bạn thích trải nghiệm nhiều tiện ích hơn với bút S-Pen , màn hình sáng ấn tượng . . . thì Samsung S22 Ultra là lựa chọn phù hợp .
 
 Riêng OnePlus 10 Pro chiếm ưu thế đối với tốc độ sạc nhanh và thời lượng pin.	Riêng OnePlus 10 Pro chiếm ưu thế đối với tốc độ sạc nhanh và thời lượng pin .
+{"subject": ["2&&OnePlus", "3&&10", "4&&Pro"], "object": [], "aspect": ["10&&tốc", "11&&độ", "12&&sạc", "13&&nhanh"], "predicate": ["5&&chiếm", "6&&ưu", "7&&thế"], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["15&&thời", "16&&lượng", "17&&pin"], "predicate": ["5&&chiếm", "6&&ưu", "7&&thế"], "label": "COM+"}
 

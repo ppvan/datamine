@@ -15,8 +15,11 @@ Tổng quan về điện thoại Samsung Galaxy A33 5G	Tổng quan về điện 
 Samsung Galaxy A33 5G  chính thức ra mắt thị trường vào thời điểm tháng 04/2022 dưới sự mong đợi của nhiều Samfans dành cho đại diện dòng Galaxy A.	Samsung Galaxy A33 5G chính thức ra mắt thị trường vào thời điểm tháng 04 / 2022 dưới sự mong đợi của nhiều Samfans dành cho đại diện dòng Galaxy A .
 
 Mặc dù thuộc phân khúc tầm trung nhưng điện thoại sở hữu những thông số vượt trội và được đánh giá cao so với những đối thủ ở cùng tầm giá.	Mặc dù thuộc phân khúc tầm trung nhưng điện thoại sở hữu những thông số vượt trội và được đánh giá cao so với những đối thủ ở cùng tầm giá .
+{"subject": ["9&&điện", "10&&thoại"], "object": ["25&&những", "26&&đối", "27&&thủ", "28&&ở", "29&&cùng", "30&&tầm", "31&&giá"], "aspect": ["14&&thông", "15&&số"], "predicate": ["16&&vượt", "17&&trội"], "label": "COM+"}
+{"subject": ["9&&điện", "10&&thoại"], "object": ["25&&những", "26&&đối", "27&&thủ", "28&&ở", "29&&cùng", "30&&tầm", "31&&giá"], "aspect": [], "predicate": ["19&&được", "20&&đánh", "21&&giá", "22&&cao", "23&&so", "24&&với"], "label": "COM+"}
 
 Thiết kế điện thoại có phần cứng cáp hơn, các góc cạnh khá vuông vức và phần viền có phần hơi dày.	Thiết kế điện thoại có phần cứng cáp hơn , các góc cạnh khá vuông vức và phần viền có phần hơi dày .
+{"subject": ["3&&điện", "4&&thoại"], "object": [], "aspect": ["1&&Thiết", "2&&kế"], "predicate": ["5&&có", "6&&phần", "7&&cứng", "8&&cáp", "9&&hơn"], "label": "COM+"}
 
 Galaxy A33 sở hữu 4 phiên bản màu sắc đa dạng để bạn có thể lựa chọn, bao gồm: Trắng, đen, xanh và cam.	Galaxy A33 sở hữu 4 phiên bản màu sắc đa dạng để bạn có thể lựa chọn , bao gồm : Trắng , đen , xanh và cam .
 
@@ -55,6 +58,7 @@ Các cạnh viền được bo tròn nhưng vẫn xen chút vuông vức mang l�
 Ngoài hai màu sắc khá quen thuộc để người dùng lựa chọn là trắng và đen, Galaxy A32 nổi bật với tông màu tím, xám nhẹ nhàng và dễ chịu vô cùng.	Ngoài hai màu sắc khá quen thuộc để người dùng lựa chọn là trắng và đen , Galaxy A32 nổi bật với tông màu tím , xám nhẹ nhàng và dễ chịu vô cùng .
 
 Màu tím có vẻ là phiên bản được ưa chuộng nhiều nhất bởi sự mới lạ, trẻ trung nhưng không kém phần hiện đại.	Màu tím có vẻ là phiên bản được ưa chuộng nhiều nhất bởi sự mới lạ , trẻ trung nhưng không kém phần hiện đại .
+{"subject": ["1&&Màu", "2&&tím"], "object": [], "aspect": [], "predicate": ["9&&ưa", "10&&chuộng", "11&&nhiều", "12&&nhất"], "label": "SUP+"}
 
 alt: Thiết kế màu tím được ưa chuộng nhiều	alt : Thiết kế màu tím được ưa chuộng nhiều
 
@@ -87,14 +91,18 @@ Các cạnh bo cong mềm mại mang đến cảm giác cầm nắm khá thoải
 Mặt lưng cả hai máy được hoàn thiện nhám đem lại sự sang trọng và giúp hạn chế tình trạng bám vân tay.	Mặt lưng cả hai máy được hoàn thiện nhám đem lại sự sang trọng và giúp hạn chế tình trạng bám vân tay .
 
 Galaxy A33 có phần nặng hơn đôi chút so với Galaxy A32 184g khi sở hữu mức trọng lượng 186g.	Galaxy A33 có phần nặng hơn đôi chút so với Galaxy A32 184g khi sở hữu mức trọng lượng 186g .
+{"subject": ["1&&Galaxy", "2&&A33"], "object": ["11&&Galaxy", "12&&A32", "13&&184g"], "aspect": [], "predicate": ["3&&có", "4&&phần", "5&&nặng", "6&&hơn", "7&&đôi", "8&&chút"], "label": "COM+"}
 
 Tuy nhiên, cả hai máy đều không gây mỏi khi phải thực hiện các thao tác trên máy trong thời gian dài sử dụng.	Tuy nhiên , cả hai máy đều không gây mỏi khi phải thực hiện các thao tác trên máy trong thời gian dài sử dụng .
+{"subject": ["4&&cả", "5&&hai", "6&&máy"], "object": ["4&&cả", "5&&hai", "6&&máy"], "aspect": ["13&&thực", "14&&hiện", "15&&các", "16&&thao", "17&&tác", "18&&trên", "19&&máy", "20&&trong", "21&&thời", "22&&gian", "23&&dài", "24&&sử", "25&&dụng"], "predicate": ["7&&đều", "8&&không", "9&&gây", "10&&mỏi"], "label": "EQL"}
 
 alt: Cả hai điện thoại đều sở hữu khung và mặt lưng bằng nhựa cao cấp	alt : Cả hai điện thoại đều sở hữu khung và mặt lưng bằng nhựa cao cấp
 
 des: Cả hai điện thoại đều sở hữu khung và mặt lưng bằng nhựa cao cấp	des : Cả hai điện thoại đều sở hữu khung và mặt lưng bằng nhựa cao cấp
+{"subject": ["3&&Cả", "4&&hai", "5&&điện", "6&&thoại"], "object": ["3&&Cả", "4&&hai", "5&&điện", "6&&thoại"], "aspect": ["10&&khung", "11&&và", "12&&mặt", "13&&lưng", "14&&bằng", "15&&nhựa", "16&&cao", "17&&cấp"], "predicate": ["7&&đều", "8&&sở", "9&&hữu"], "label": "EQL"}
 
 Cả hai điện thoại đều sở hữu khung và mặt lưng bằng nhựa cao cấp.	Cả hai điện thoại đều sở hữu khung và mặt lưng bằng nhựa cao cấp .
+{"subject": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": ["8&&khung", "9&&và", "10&&mặt", "11&&lưng", "12&&bằng", "13&&nhựa", "14&&cao", "15&&cấp"], "predicate": ["5&&đều", "6&&sở", "7&&hữu"], "label": "EQL"}
 
 Màn hình	Màn hình
 
@@ -117,6 +125,7 @@ Camera	Camera
 Cách bố trí cụm camera sau là đặc điểm nhận diện bộ đôi này.	Cách bố trí cụm camera sau là đặc điểm nhận diện bộ đôi này .
 
 Galaxy A33 có cụm camera được bố trí trong một module riêng tạo nên sự liền mạch và góp phần làm cho tổng thể được hài hòa hơn thay vì đính thẳng lên mặt lưng bằng phẳng như Galaxy A32.	Galaxy A33 có cụm camera được bố trí trong một module riêng tạo nên sự liền mạch và góp phần làm cho tổng thể được hài hòa hơn thay vì đính thẳng lên mặt lưng bằng phẳng như Galaxy A32 .
+{"subject": ["1&&Galaxy", "2&&A33"], "object": ["39&&Galaxy", "40&&A32"], "aspect": ["23&&tổng", "24&&thể"], "predicate": ["26&&hài", "27&&hòa", "28&&hơn"], "label": "COM+"}
 
 alt: Sự khác biệt giữa hai máy ở cách bố trí cụm camera sau	alt : Sự khác biệt giữa hai máy ở cách bố trí cụm camera sau
 
@@ -127,12 +136,17 @@ Sự khác biệt giữa hai máy ở cách bố trí cụm camera sau.	Sự kh�
 Galaxy A33 5G được trang bị hệ thống 4 camera sau chất lượng với ống kính chính có độ phân giải lên đến 48 MP, ống kính góc siêu rộng 8MP, ống kính macro 5MP và cảm biến chiều sâu 2MP.	Galaxy A33 5G được trang bị hệ thống 4 camera sau chất lượng với ống kính chính có độ phân giải lên đến 48 MP , ống kính góc siêu rộng 8MP , ống kính macro 5MP và cảm biến chiều sâu 2MP .
 
 Galaxy A32 cũng không hề kém cạnh khi sở hữu ống kính có độ phân giải lớn hơn 64 MP và camera phụ lần lượt là 8MP, 5MP và 5MP.	Galaxy A32 cũng không hề kém cạnh khi sở hữu ống kính có độ phân giải lớn hơn 64 MP và camera phụ lần lượt là 8MP , 5MP và 5MP .
+{"subject": ["1&&Galaxy", "2&&A32"], "object": [], "aspect": ["11&&ống", "12&&kính"], "predicate": ["4&&không", "5&&hề", "6&&kém", "7&&cạnh"], "label": "EQL"}
 
 Cả hai đều cho ra những bức ảnh chân thực, rõ nét trong điều kiện ánh sáng tốt và không bị lệch khi gặp phải tình trạng ánh sáng yếu.	Cả hai đều cho ra những bức ảnh chân thực , rõ nét trong điều kiện ánh sáng tốt và không bị lệch khi gặp phải tình trạng ánh sáng yếu .
+{"subject": ["1&&Cả", "2&&hai"], "object": ["1&&Cả", "2&&hai"], "aspect": ["6&&những", "7&&bức", "8&&ảnh", "9&&chân", "10&&thực", "11&&,", "12&&rõ", "13&&nét", "14&&trong", "15&&điều", "16&&kiện", "17&&ánh", "18&&sáng", "19&&tốt"], "predicate": ["3&&đều", "4&&cho", "5&&ra"], "label": "EQL"}
 
 Nếu Galaxy A33 có camera selfie 13 MP thì Galaxy A32 có phần nhỉnh hơn khi camera trước ở độ phân giải cao hơn 20 MP.	Nếu Galaxy A33 có camera selfie 13 MP thì Galaxy A32 có phần nhỉnh hơn khi camera trước ở độ phân giải cao hơn 20 MP .
+{"subject": ["10&&Galaxy", "11&&A32"], "object": ["2&&Galaxy", "3&&A33"], "aspect": ["17&&camera", "18&&trước"], "predicate": ["12&&có", "13&&phần", "14&&nhỉnh", "15&&hơn"], "label": "COM+"}
+{"subject": ["10&&Galaxy", "11&&A32"], "object": [], "aspect": ["20&&độ", "21&&phân", "22&&giải"], "predicate": ["23&&cao", "24&&hơn"], "label": "COM+"}
 
 Cả hai đều hỗ trợ tính năng  tự động lấy nét  và  nhận điện khuôn mặt thông minh  giúp người dùng có được những tấm ảnh đẹp và hoàn hảo nhất.	Cả hai đều hỗ trợ tính năng tự động lấy nét và nhận điện khuôn mặt thông minh giúp người dùng có được những tấm ảnh đẹp và hoàn hảo nhất .
+{"subject": ["1&&Cả", "2&&hai"], "object": ["1&&Cả", "2&&hai"], "aspect": ["6&&tính", "7&&năng", "8&&tự", "9&&động", "10&&lấy", "11&&nét"], "predicate": ["3&&đều", "4&&hỗ", "5&&trợ"], "label": "EQL"}
 
 alt: Camera selfie với nhiều tính năng chụp	alt : Camera selfie với nhiều tính năng chụp
 
@@ -185,10 +199,12 @@ Do đó, thời lượng pin của bộ đôi có thể đáp ứng năng lượ
 Nếu Galaxy A33 sử dụng lõi pin Li-Po nhẹ, bền và chịu được va đập tốt thì Galaxy A22 với loại pin Li-Ion có khả năng dự trữ năng lượng lớn, sở hữu chu kỳ sạc có thể lên đến hơn 400 lần.	Nếu Galaxy A33 sử dụng lõi pin Li-Po nhẹ , bền và chịu được va đập tốt thì Galaxy A22 với loại pin Li-Ion có khả năng dự trữ năng lượng lớn , sở hữu chu kỳ sạc có thể lên đến hơn 400 lần .
 
 Galaxy A33 hỗ trợ công nghệ sạc nhanh có công suất lớn hơn Galaxy A32 15 W nhưng cả hai đều đảm bảo người dùng có thể trải nghiệm liên tục mà không bị gián đoạn và tiết kiệm thời gian chờ sạc đầy.	Galaxy A33 hỗ trợ công nghệ sạc nhanh có công suất lớn hơn Galaxy A32 15 W nhưng cả hai đều đảm bảo người dùng có thể trải nghiệm liên tục mà không bị gián đoạn và tiết kiệm thời gian chờ sạc đầy .
+{"subject": ["19&&cả", "20&&hai"], "object": ["19&&cả", "20&&hai"], "aspect": ["24&&người", "25&&dùng", "26&&có", "27&&thể", "28&&trải", "29&&nghiệm", "30&&liên", "31&&tục", "32&&mà", "33&&không", "34&&bị", "35&&gián", "36&&đoạn"], "predicate": ["21&&đều", "22&&đảm", "23&&bảo"], "label": "EQL"}
 
 alt: Cả hai điện thoại đều được hỗ trợ sạc nhanh	alt : Cả hai điện thoại đều được hỗ trợ sạc nhanh
 
 des: Cả hai điện thoại đều được hỗ trợ sạc nhanh	des : Cả hai điện thoại đều được hỗ trợ sạc nhanh
+{"subject": ["3&&Cả", "4&&hai", "5&&điện", "6&&thoại"], "object": ["3&&Cả", "4&&hai", "5&&điện", "6&&thoại"], "aspect": ["11&&sạc", "12&&nhanh"], "predicate": ["7&&đều", "8&&được", "9&&hỗ", "10&&trợ"], "label": "EQL"}
 
 Cả hai điện thoại đều được hỗ trợ sạc nhanh.	Cả hai điện thoại đều được hỗ trợ sạc nhanh .
 
