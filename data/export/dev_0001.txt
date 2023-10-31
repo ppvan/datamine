@@ -1,9 +1,10 @@
 title: So sánh iPhone 13 Pro Max và Samsung Galaxy Z Fold3 - Nên mua máy nào?	title : So sánh iPhone 13 Pro Max và Samsung Galaxy Z Fold3 - Nên mua máy nào ?
 
 iPhone 13 Pro Max và Samsung Galaxy Z Fold3 là hai "chiến mã" của hai ông lớn  Apple  và  Samsung  thường được cộng đồng công nghệ đưa ra so sánh.	iPhone 13 Pro Max và Samsung Galaxy Z Fold3 là hai " chiến mã " của hai ông lớn Apple và Samsung thường được cộng đồng công nghệ đưa ra so sánh .
-{"label": "COM+", "subject": ["1&&iPhone", "2&&13", "3&&Pro", "4&&Max", "6&&Samsung", "7&&Galaxy", "8&&Z", "9&&Fold3"], "object": [], "aspect": [], "predicate": ["13&&chi\u1ebfn", "14&&m\u00e3"]}
+{"subject": ["1&&iPhone", "2&&13", "3&&Pro", "4&&Max", "6&&Samsung", "7&&Galaxy", "8&&Z", "9&&Fold3"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Cùng xem bài viết để xem đâu là  điện thoại  được đánh giá cao hơn nhé!	Cùng xem bài viết để xem đâu là điện thoại được đánh giá cao hơn nhé !
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 1.	1 .
 
@@ -24,7 +25,7 @@ Về kích thước, Samsung có kích thước cụ thể là dài 158.2 mm - n
 Nếu bạn là người ưa dịch chuyển thì iPhone 13 Pro Max đích thực là một ứng cử viên sáng giá.	Nếu bạn là người ưa dịch chuyển thì iPhone 13 Pro Max đích thực là một ứng cử viên sáng giá .
 
 alt: Ngoại hình bên ngoài của hai điện thoại	alt : Ngoại hình bên ngoài của hai điện thoại
-{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 des: Ngoại hình bên ngoài của hai điện thoại	des : Ngoại hình bên ngoài của hai điện thoại
 
@@ -33,13 +34,14 @@ Samsung Galaxy Z Fold3 được làm từ  khung nhôm  còn iPhone 13 Pro Max �
 Dù thép không gỉ có khối lượng nặng hơn nhưng về độ bền thì chúng ta phải công nhận rằng chúng có mức độ chóng ăn mòn, chống gỉ và cứng hơn, đảm bảo bảo vệ điện thoại trước những va đập tốt hơn.	Dù thép không gỉ có khối lượng nặng hơn nhưng về độ bền thì chúng ta phải công nhận rằng chúng có mức độ chóng ăn mòn , chống gỉ và cứng hơn , đảm bảo bảo vệ điện thoại trước những va đập tốt hơn .
 
 Bên cạnh đó thì chất liệu nhôm dẫn nhiệt tốt hơn nên cũng sẽ dễ nóng hơn khi sử dụng.	Bên cạnh đó thì chất liệu nhôm dẫn nhiệt tốt hơn nên cũng sẽ dễ nóng hơn khi sử dụng .
-{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 alt: So sánh hai điện thoại	alt : So sánh hai điện thoại
 
 des: So sánh hai điện thoại	des : So sánh hai điện thoại
 
 Về màu sắc, iPhone 13 Pro Max có bốn màu cực trendy là  xanh dương, xám, vàng đồng, bạc .	Về màu sắc , iPhone 13 Pro Max có bốn màu cực trendy là xanh dương , xám , vàng đồng , bạc .
+{"subject": ["5&&iPhone", "6&&13", "7&&Pro", "8&&Max"], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Trong khi đó, Samsung Galaxy Z Fold3 có 3 màu là  đen, bạc, xanh rêu .	Trong khi đó , Samsung Galaxy Z Fold3 có 3 màu là đen , bạc , xanh rêu .
 
@@ -54,16 +56,15 @@ Với kích thước này, tầm nhìn của người xem sẽ được thoải 
 alt: Dùng hai điện thoại đọc báo, tin tức	alt : Dùng hai điện thoại đọc báo , tin tức
 
 des: Dùng hai điện thoại đọc báo, tin tức	des : Dùng hai điện thoại đọc báo , tin tức
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Lần này iPhone 13 Pro Max được trang bị  màn hình OLED  1284 x 2778 Pixels, Samsung Galaxy Z Fold3 cũng không kém cạnh khi trang bị công nghệ  màn hình Dynamic AMOLED 2X  Full HD+ (1768 x 2208 Pixels).	Lần này iPhone 13 Pro Max được trang bị màn hình OLED 1284 x 2778 Pixels , Samsung Galaxy Z Fold3 cũng không kém cạnh khi trang bị công nghệ màn hình Dynamic AMOLED 2X Full HD + ( 1768 x 2208 Pixels ) .
-{"label": "SUP+", "subject": ["3&&iPhone", "4&&13", "5&&Pro", "6&&Max", "18&&Samsung", "19&&Galaxy", "20&&Z", "21&&Fold3"], "object": [], "aspect": [], "predicate": []}
 
 alt: Samsung Galaxy Z Fold3 được trang bị S Pen	alt : Samsung Galaxy Z Fold3 được trang bị S Pen
-{"label": "COM+", "subject": ["3&&Samsung", "4&&Galaxy", "5&&Z", "6&&Fold3"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&Z", "6&&Fold3"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 des: Samsung Galaxy Z Fold3 được trang bị S Pen	des : Samsung Galaxy Z Fold3 được trang bị S Pen
-{"label": "COM+", "subject": ["3&&Samsung", "4&&Galaxy", "5&&Z", "6&&Fold3"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&Z", "6&&Fold3"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Bút S Pen  cũng là một điểm cộng của Samsung.	Bút S Pen cũng là một điểm cộng của Samsung .
 
@@ -76,28 +77,28 @@ des: Dùng S Pen ghi chú	des : Dùng S Pen ghi chú
 Về phần này iPhone có lẽ phải "chào thua" trước đối thủ khi cả màn hình chính và phụ của Samsung đề được trang bị công nghệ cao cấp hơn.	Về phần này iPhone có lẽ phải " chào thua " trước đối thủ khi cả màn hình chính và phụ của Samsung đề được trang bị công nghệ cao cấp hơn .
 
 3.	3 .
-{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": []}
-{"label": "COM", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM"}
 
 Thông số kỹ thuật và phần mềm	Thông số kỹ thuật và phần mềm
-{"label": "DIF", "subject": [], "object": [], "aspect": ["6&&ph\u1ea7n", "7&&m\u1ec1m"], "predicate": []}
-{"label": "EQL", "subject": [], "object": [], "aspect": ["6&&ph\u1ea7n", "7&&m\u1ec1m"], "predicate": []}
+{"subject": [], "object": [], "aspect": ["6&&phần", "7&&mềm"], "predicate": [], "label": "EQL"}
 
 Về chip sử dụng, Apple trang bị cho iPhone 13 Pro Max  chip A15 Bionic   mạnh mẽ có xung nhịp tối đa lên tới 3.2 Ghz còn Samsung là  chip Snapdragon 888  8 nhân .	Về chip sử dụng , Apple trang bị cho iPhone 13 Pro Max chip A15 Bionic mạnh mẽ có xung nhịp tối đa lên tới 3.2 Ghz còn Samsung là chip Snapdragon 888 8 nhân .
 
 Dù là chip "xịn xò" nhất so với các  điện thoại Android  nhưng khi so sánh với iPhone iPhone 13 Pro Max có phần chiếm ưu thế hơn.	Dù là chip " xịn xò " nhất so với các điện thoại Android nhưng khi so sánh với iPhone iPhone 13 Pro Max có phần chiếm ưu thế hơn .
 
 alt: Chip Snapdragon 888 trên Samsung	alt : Chip Snapdragon 888 trên Samsung
-{"label": "COM-", "subject": ["3&&Chip", "4&&Snapdragon", "5&&888", "6&&tr\u00ean", "7&&Samsung"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["3&&Chip", "4&&Snapdragon", "5&&888", "6&&trên", "7&&Samsung"], "object": [], "aspect": [], "predicate": [], "label": "COM-"}
 
 des: Chip Snapdragon 888 trên Samsung	des : Chip Snapdragon 888 trên Samsung
+{"subject": ["3&&Chip", "4&&Snapdragon", "5&&888", "6&&trên", "7&&Samsung"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Hệ điều hành của iPhone 13 Pro Max là  iOS 15   và Samsung Galaxy Z Fold3 là  Android 11 .	Hệ điều hành của iPhone 13 Pro Max là iOS 15 và Samsung Galaxy Z Fold3 là Android 11 .
 
 Cả hai phiên bản hệ điều hành đều là mới nhất đối với mỗi dòng.	Cả hai phiên bản hệ điều hành đều là mới nhất đối với mỗi dòng .
 
 alt: Chip A15 trên iPhone	alt : Chip A15 trên iPhone
-{"label": "COM+", "subject": ["3&&Chip", "4&&A15", "5&&tr\u00ean"], "object": ["6&&iPhone"], "aspect": [], "predicate": []}
+{"subject": ["3&&Chip", "4&&A15", "5&&trên"], "object": ["6&&iPhone"], "aspect": [], "predicate": [], "label": "COM+"}
 
 des: Chip A15 trên iPhone	des : Chip A15 trên iPhone
 
@@ -132,7 +133,7 @@ Dung lượng pin của iPhone 13 Pro Max và Samsung Galaxy Z Fold3 lần lư�
 Dù mức pin xấp xỉ nhau nhưng chúng ta phải công nhận rằng Samsung có pin ổn hơn rất nhiều lần so với iPhone bởi hệ điều hành của chúng tiêu thụ pin ít hơn.	Dù mức pin xấp xỉ nhau nhưng chúng ta phải công nhận rằng Samsung có pin ổn hơn rất nhiều lần so với iPhone bởi hệ điều hành của chúng tiêu thụ pin ít hơn .
 
 alt: Điện thoại iPhone 13 Pro Max	alt : Điện thoại iPhone 13 Pro Max
-{"label": "EQL", "subject": ["3&&\u0110i\u1ec7n", "4&&tho\u1ea1i", "5&&iPhone", "6&&13", "7&&Pro", "8&&Max"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["3&&Điện", "4&&thoại", "5&&iPhone", "6&&13", "7&&Pro", "8&&Max"], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 des: Điện thoại iPhone 13 Pro Max	des : Điện thoại iPhone 13 Pro Max
 
@@ -149,6 +150,7 @@ Dù cả hai điện thoại để sử dụng được 2  SIM  nhưng iPhone 13
 alt: Dùng 5G trên Samsung Galaxy Z Fold3	alt : Dùng 5G trên Samsung Galaxy Z Fold3
 
 des: Dùng 5G trên Samsung Galaxy Z Fold3	des : Dùng 5G trên Samsung Galaxy Z Fold3
+{"subject": ["3&&Dùng", "4&&5G", "5&&trên", "6&&Samsung", "7&&Galaxy", "8&&Z", "9&&Fold3"], "object": [], "aspect": [], "predicate": [], "label": "COM-"}
 
 7.	7 .
 
@@ -199,10 +201,9 @@ Khi mua hàng bạn sẽ nhận được các chính sách bảo hành:	Khi mua 
 - Bảo hành chính hãng điện thoại 1 năm.	- Bảo hành chính hãng điện thoại 1 năm .
 
 - Luôn nhận được sự chăm sóc khách tận tình từ các nhân viên của Thế Giới Di Động.	- Luôn nhận được sự chăm sóc khách tận tình từ các nhân viên của Thế Giới Di Động .
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 alt: Bảo hành khi hàng tại Thế Giới Di Động	alt : Bảo hành khi hàng tại Thế Giới Di Động
-{"label": "SUP-", "subject": [], "object": [], "aspect": [], "predicate": []}
 
 des: Bảo hành khi hàng tại Thế Giới Di Động	des : Bảo hành khi hàng tại Thế Giới Di Động
 

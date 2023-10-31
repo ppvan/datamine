@@ -1,4 +1,5 @@
 title: So sánh Samsung Galaxy A33 5G và Galaxy A32 - Lựa chọn nào phù hợp?	title : So sánh Samsung Galaxy A33 5G và Galaxy A32 - Lựa chọn nào phù hợp ?
+{"subject": ["5&&Samsung", "6&&Galaxy", "7&&A33", "8&&5G"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Nhiều Samfans đang thắc mắc liệu rằng các  điện thoại Samsung  ở phân khúc tầm trung có thực sự tốt như kỳ vọng của họ hay không?	Nhiều Samfans đang thắc mắc liệu rằng các điện thoại Samsung ở phân khúc tầm trung có thực sự tốt như kỳ vọng của họ hay không ?
 
@@ -23,23 +24,22 @@ Galaxy A33 sở hữu 4 phiên bản màu sắc đa dạng để bạn có thể
 Đây là những gam màu dễ kết hợp với mọi trang phục cũng như hợp với xu hướng thịnh hành năm nay.	Đây là những gam màu dễ kết hợp với mọi trang phục cũng như hợp với xu hướng thịnh hành năm nay .
 
 Đặc biệt, màu cam đào hiếm có thể thấy ở bất kỳ dòng smartphone nào được dự đoán sẽ "bùng nổ" trong thời gian tới.	Đặc biệt , màu cam đào hiếm có thể thấy ở bất kỳ dòng smartphone nào được dự đoán sẽ " bùng nổ " trong thời gian tới .
-{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": ["22&&b\u00f9ng", "23&&n\u1ed5"]}
-{"label": "SUP+", "subject": [], "object": [], "aspect": [], "predicate": ["22&&b\u00f9ng", "23&&n\u1ed5"]}
+{"subject": [], "object": [], "aspect": [], "predicate": ["22&&bùng", "23&&nổ"], "label": "EQL"}
+{"subject": [], "object": [], "aspect": [], "predicate": ["22&&bùng", "23&&nổ"], "label": "SUP+"}
 
 alt: Thiết kế Samsung Galaxy A33 5G	alt : Thiết kế Samsung Galaxy A33 5G
 
 des: Thiết kế Samsung Galaxy A33 5G	des : Thiết kế Samsung Galaxy A33 5G
-{"label": "SUP+", "subject": ["3&&Thi\u1ebft", "4&&k\u1ebf", "5&&Samsung", "6&&Galaxy", "7&&A33", "8&&5G"], "object": [], "aspect": [], "predicate": []}
 
 Thiết kế Samsung Galaxy A33 5G.	Thiết kế Samsung Galaxy A33 5G .
 
 Ngoài diện mạo trẻ trung, năng động, Galaxy A33 5G sở hữu màn hình Infinity-U với  tấm nền Super AMOLED  hiện đại.	Ngoài diện mạo trẻ trung , năng động , Galaxy A33 5G sở hữu màn hình Infinity-U với tấm nền Super AMOLED hiện đại .
-{"label": "COM+", "subject": ["10&&Galaxy", "11&&A33", "12&&5G"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["10&&Galaxy", "11&&A33", "12&&5G"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Camera chụp ảnh sắc nét đi kèm con chip Exynos ổn áp và dung lượng pin trâu.	Camera chụp ảnh sắc nét đi kèm con chip Exynos ổn áp và dung lượng pin trâu .
 
 Chắc chắn Galaxy A33 sẽ không làm bạn thất vọng ngay từ cái nhìn đầu tiên.	Chắc chắn Galaxy A33 sẽ không làm bạn thất vọng ngay từ cái nhìn đầu tiên .
-{"label": "EQL", "subject": [], "object": ["3&&Galaxy", "4&&A33"], "aspect": [], "predicate": ["6&&kh\u00f4ng", "7&&l\u00e0m", "8&&b\u1ea1n"]}
+{"subject": [], "object": ["3&&Galaxy", "4&&A33"], "aspect": [], "predicate": ["6&&không", "7&&làm"], "label": "EQL"}
 
 alt: Galaxy A33 mang đến diện mạo trẻ trung và hiện đại	alt : Galaxy A33 mang đến diện mạo trẻ trung và hiện đại
 
@@ -62,7 +62,7 @@ Ngoài hai màu sắc khá quen thuộc để người dùng lựa chọn là tr
 Màu tím có vẻ là phiên bản được ưa chuộng nhiều nhất bởi sự mới lạ, trẻ trung nhưng không kém phần hiện đại.	Màu tím có vẻ là phiên bản được ưa chuộng nhiều nhất bởi sự mới lạ , trẻ trung nhưng không kém phần hiện đại .
 
 alt: Thiết kế màu tím được ưa chuộng nhiều	alt : Thiết kế màu tím được ưa chuộng nhiều
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": ["3&&Thiết", "4&&kế"], "predicate": ["5&&màu", "6&&tím", "7&&được", "8&&ưa", "9&&chuộng", "10&&nhiều"], "label": "COM+"}
 
 des: Thiết kế màu tím được ưa chuộng nhiều	des : Thiết kế màu tím được ưa chuộng nhiều
 
@@ -71,21 +71,21 @@ Thiết kế màu tím được ưa chuộng nhiều .	Thiết kế màu tím đ
 Màn hình giải trí sắc nét, đa chức năng với tấm nền Super AMOLED cao cấp đi kèm bộ 4 camera sau ấn tượng.	Màn hình giải trí sắc nét , đa chức năng với tấm nền Super AMOLED cao cấp đi kèm bộ 4 camera sau ấn tượng .
 
 Hiệu năng mạnh mẽ chiến mọi tựa game khi được trang bị con chip ổn định đến từ nhà Qualcomm.	Hiệu năng mạnh mẽ chiến mọi tựa game khi được trang bị con chip ổn định đến từ nhà Qualcomm .
-{"label": "SUP+", "subject": [], "object": [], "aspect": ["13&&con", "14&&chip"], "predicate": ["15&&\u1ed5n", "16&&\u0111\u1ecbnh", "17&&\u0111\u1ebfn", "18&&t\u1eeb", "19&&nh\u00e0", "20&&Qualcomm"]}
+{"subject": [], "object": [], "aspect": ["13&&con", "14&&chip"], "predicate": ["15&&ổn", "16&&định", "17&&đến", "18&&từ", "19&&nhà", "20&&Qualcomm"], "label": "SUP+"}
 
 Dung lượng pin đủ đáp ứng năng lượng cho một ngày dài trải nghiệm trên máy.	Dung lượng pin đủ đáp ứng năng lượng cho một ngày dài trải nghiệm trên máy .
 
 alt: Samsung Galaxy A32 thuộc phân khúc điện thoại tầm trung	alt : Samsung Galaxy A32 thuộc phân khúc điện thoại tầm trung
 
 des: Samsung Galaxy A32 thuộc phân khúc điện thoại tầm trung	des : Samsung Galaxy A32 thuộc phân khúc điện thoại tầm trung
-{"label": "SUP+", "subject": ["3&&Samsung", "4&&Galaxy", "5&&A32"], "object": [], "aspect": [], "predicate": ["6&&thu\u1ed9c", "7&&ph\u00e2n", "8&&kh\u00fac", "9&&\u0111i\u1ec7n", "10&&tho\u1ea1i", "11&&t\u1ea7m", "12&&trung"]}
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&A32"], "object": [], "aspect": [], "predicate": ["6&&thuộc", "7&&phân", "8&&khúc", "9&&điện", "10&&thoại", "11&&tầm", "12&&trung"], "label": "SUP+"}
 
 Samsung Galaxy A32 thuộc phân khúc điện thoại tầm trung.	Samsung Galaxy A32 thuộc phân khúc điện thoại tầm trung .
-{"label": "SUP+", "subject": [], "object": ["2&&Galaxy", "3&&A32", "4&&thu\u1ed9c", "5&&ph\u00e2n", "6&&kh\u00fac", "7&&\u0111i\u1ec7n", "8&&tho\u1ea1i", "9&&t\u1ea7m", "10&&trung"], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "SUP+"}
 
 3.	3 .
-{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": []}
-{"label": "COM", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM"}
 
 So sánh điện thoại Samsung Galaxy A33 5G và Galaxy A32	So sánh điện thoại Samsung Galaxy A33 5G và Galaxy A32
 
@@ -100,7 +100,7 @@ Mặt lưng cả hai máy được hoàn thiện nhám đem lại sự sang tr�
 Galaxy A33 có phần nặng hơn đôi chút so với Galaxy A32 184g khi sở hữu mức trọng lượng 186g.	Galaxy A33 có phần nặng hơn đôi chút so với Galaxy A32 184g khi sở hữu mức trọng lượng 186g .
 
 Tuy nhiên, cả hai máy đều không gây mỏi khi phải thực hiện các thao tác trên máy trong thời gian dài sử dụng.	Tuy nhiên , cả hai máy đều không gây mỏi khi phải thực hiện các thao tác trên máy trong thời gian dài sử dụng .
-{"label": "SUP+", "subject": [], "object": ["4&&c\u1ea3", "5&&hai", "6&&m\u00e1y", "7&&\u0111\u1ec1u"], "aspect": [], "predicate": ["8&&kh\u00f4ng", "9&&g\u00e2y", "10&&m\u1ecfi"]}
+{"subject": [], "object": ["4&&cả", "5&&hai", "6&&máy", "7&&đều"], "aspect": ["15&&các", "16&&thao", "17&&tác"], "predicate": ["8&&không", "9&&gây", "10&&mỏi"], "label": "SUP+"}
 
 alt: Cả hai điện thoại đều sở hữu khung và mặt lưng bằng nhựa cao cấp	alt : Cả hai điện thoại đều sở hữu khung và mặt lưng bằng nhựa cao cấp
 
@@ -119,22 +119,22 @@ Công nghệ màn hình SUPER AMOLED đi kèm độ phân giải Full HD+ ở ha
 Tần số quét 90 Hz cho trải nghiệm vuốt chạm trở nên mượt mà, trơn tru mà không gặp tình trạng giật lag khi thực hiện cùng lúc nhiều tác vụ từ cơ bản đến nâng cao trên cả hai máy.	Tần số quét 90 Hz cho trải nghiệm vuốt chạm trở nên mượt mà , trơn tru mà không gặp tình trạng giật lag khi thực hiện cùng lúc nhiều tác vụ từ cơ bản đến nâng cao trên cả hai máy .
 
 alt: Hai máy sở hữu màn hình SUPER AMOLED	alt : Hai máy sở hữu màn hình SUPER AMOLED
-{"label": "COM+", "subject": ["3&&Hai", "4&&m\u00e1y"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["3&&Hai", "4&&máy"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 des: Hai máy sở hữu màn hình SUPER AMOLED	des : Hai máy sở hữu màn hình SUPER AMOLED
 
 Hai máy sở hữu màn hình SUPER AMOLED .	Hai máy sở hữu màn hình SUPER AMOLED .
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Camera	Camera
 
 Cách bố trí cụm camera sau là đặc điểm nhận diện bộ đôi này.	Cách bố trí cụm camera sau là đặc điểm nhận diện bộ đôi này .
 
 Galaxy A33 có cụm camera được bố trí trong một module riêng tạo nên sự liền mạch và góp phần làm cho tổng thể được hài hòa hơn thay vì đính thẳng lên mặt lưng bằng phẳng như Galaxy A32.	Galaxy A33 có cụm camera được bố trí trong một module riêng tạo nên sự liền mạch và góp phần làm cho tổng thể được hài hòa hơn thay vì đính thẳng lên mặt lưng bằng phẳng như Galaxy A32 .
-{"label": "DIF", "subject": [], "object": ["1&&Galaxy", "2&&A33", "39&&Galaxy", "40&&A32"], "aspect": [], "predicate": []}
+{"subject": [], "object": ["1&&Galaxy", "2&&A33", "39&&Galaxy", "40&&A32"], "aspect": [], "predicate": [], "label": "DIF"}
 
 alt: Sự khác biệt giữa hai máy ở cách bố trí cụm camera sau	alt : Sự khác biệt giữa hai máy ở cách bố trí cụm camera sau
-{"label": "EQL", "subject": [], "object": [], "aspect": ["13&&c\u1ee5m", "14&&camera", "15&&sau"], "predicate": ["3&&S\u1ef1", "4&&kh\u00e1c", "5&&bi\u1ec7t"]}
+{"subject": [], "object": [], "aspect": ["14&&camera", "15&&sau"], "predicate": ["3&&Sự", "4&&khác", "5&&biệt"], "label": "EQL"}
 
 des: Sự khác biệt giữa hai máy ở cách bố trí cụm camera sau	des : Sự khác biệt giữa hai máy ở cách bố trí cụm camera sau
 
@@ -145,28 +145,28 @@ Galaxy A33 5G được trang bị hệ thống 4 camera sau chất lượng vớ
 Galaxy A32 cũng không hề kém cạnh khi sở hữu ống kính có độ phân giải lớn hơn 64 MP và camera phụ lần lượt là 8MP, 5MP và 5MP.	Galaxy A32 cũng không hề kém cạnh khi sở hữu ống kính có độ phân giải lớn hơn 64 MP và camera phụ lần lượt là 8MP , 5MP và 5MP .
 
 Cả hai đều cho ra những bức ảnh chân thực, rõ nét trong điều kiện ánh sáng tốt và không bị lệch khi gặp phải tình trạng ánh sáng yếu.	Cả hai đều cho ra những bức ảnh chân thực , rõ nét trong điều kiện ánh sáng tốt và không bị lệch khi gặp phải tình trạng ánh sáng yếu .
-{"label": "EQL", "subject": [], "object": ["1&&C\u1ea3", "2&&hai"], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Nếu Galaxy A33 có camera selfie 13 MP thì Galaxy A32 có phần nhỉnh hơn khi camera trước ở độ phân giải cao hơn 20 MP.	Nếu Galaxy A33 có camera selfie 13 MP thì Galaxy A32 có phần nhỉnh hơn khi camera trước ở độ phân giải cao hơn 20 MP .
 
 Cả hai đều hỗ trợ tính năng  tự động lấy nét  và  nhận điện khuôn mặt thông minh  giúp người dùng có được những tấm ảnh đẹp và hoàn hảo nhất.	Cả hai đều hỗ trợ tính năng tự động lấy nét và nhận điện khuôn mặt thông minh giúp người dùng có được những tấm ảnh đẹp và hoàn hảo nhất .
 
 alt: Camera selfie với nhiều tính năng chụp	alt : Camera selfie với nhiều tính năng chụp
-{"label": "COM+", "subject": [], "object": [], "aspect": ["3&&Camera", "4&&selfie", "6&&nhi\u1ec1u", "7&&t\u00ednh", "8&&n\u0103ng", "9&&ch\u1ee5p"], "predicate": []}
+{"subject": [], "object": [], "aspect": ["3&&Camera", "4&&selfie"], "predicate": [], "label": "COM+"}
 
 des: Camera selfie với nhiều tính năng chụp	des : Camera selfie với nhiều tính năng chụp
 
 Camera selfie với nhiều tính năng chụp .	Camera selfie với nhiều tính năng chụp .
-{"label": "COM+", "subject": [], "object": [], "aspect": ["1&&Camera", "2&&selfie"], "predicate": []}
+{"subject": [], "object": [], "aspect": ["1&&Camera", "2&&selfie"], "predicate": [], "label": "COM+"}
 
 CPU	CPU
-{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Hiệu năng ổn định đến từ con chip Exynos 1280 8 nhân ở Galaxy A33 khi thực hiện các thao tác như: Nghe gọi, xem phim, lướt web,...	Hiệu năng ổn định đến từ con chip Exynos 1280 8 nhân ở Galaxy A33 khi thực hiện các thao tác như : Nghe gọi , xem phim , lướt web , . . .
-{"label": "COM+", "subject": [], "object": ["14&&Galaxy", "15&&A33"], "aspect": ["1&&Hi\u1ec7u", "2&&n\u0103ng", "3&&\u1ed5n", "4&&\u0111\u1ecbnh"], "predicate": []}
+{"subject": [], "object": ["14&&Galaxy", "15&&A33"], "aspect": ["1&&Hiệu", "2&&năng", "3&&ổn", "4&&định", "17&&thực", "18&&hiện", "19&&các", "20&&thao", "21&&tác"], "predicate": [], "label": "COM+"}
 
 Đây là vi xử lý được đánh giá cao bởi có thể xử lý tốt các tác vụ từ cơ bản đến phức tạp khi kết hợp cùng  GPU Mali-G68  giúp hiệu suất đồ họa được cải thiện đáng kể.	Đây là vi xử lý được đánh giá cao bởi có thể xử lý tốt các tác vụ từ cơ bản đến phức tạp khi kết hợp cùng GPU Mali-G68 giúp hiệu suất đồ họa được cải thiện đáng kể .
-{"label": "COM+", "subject": [], "object": [], "aspect": ["32&&hi\u1ec7u", "33&&su\u1ea5t", "34&&\u0111\u1ed3", "35&&h\u1ecda", "36&&\u0111\u01b0\u1ee3c"], "predicate": ["37&&c\u1ea3i", "38&&thi\u1ec7n", "39&&\u0111\u00e1ng", "40&&k\u1ec3"]}
+{"subject": [], "object": [], "aspect": ["32&&hiệu", "33&&suất", "34&&đồ", "35&&họa", "36&&được"], "predicate": ["37&&cải", "38&&thiện", "39&&đáng", "40&&kể"], "label": "COM+"}
 
 alt: Con chip Exynos 1280 8 nhân được trang bị trên Samsung Galaxy A33 5G	alt : Con chip Exynos 1280 8 nhân được trang bị trên Samsung Galaxy A33 5G
 
@@ -175,56 +175,57 @@ des: Con chip Exynos 1280 8 nhân được trang bị trên Samsung Galaxy A33 5
 Con chip Exynos 1280 8 nhân được trang bị trên Samsung Galaxy A33 5G.	Con chip Exynos 1280 8 nhân được trang bị trên Samsung Galaxy A33 5G .
 
 Cấu hình mạnh mẽ của Galaxy A32 nhờ trang bị con chip  MediaTek Helio G80 8 nhân  có thể xử lý tốt các tác vụ cơ bản trong một ngày dài.	Cấu hình mạnh mẽ của Galaxy A32 nhờ trang bị con chip MediaTek Helio G80 8 nhân có thể xử lý tốt các tác vụ cơ bản trong một ngày dài .
-{"label": "COM+", "subject": ["6&&Galaxy", "7&&A32"], "object": [], "aspect": [], "predicate": []}
-{"label": "COM-", "subject": ["6&&Galaxy", "7&&A32"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["6&&Galaxy", "7&&A32"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
+{"subject": ["6&&Galaxy", "7&&A32"], "object": [], "aspect": [], "predicate": [], "label": "COM-"}
 
 Thiết lập đồ họa khá cao, hiệu ứng chuyển cảnh mượt mà và máy hoạt động khá mát khi trải nghiệm các tựa game phổ biến.	Thiết lập đồ họa khá cao , hiệu ứng chuyển cảnh mượt mà và máy hoạt động khá mát khi trải nghiệm các tựa game phổ biến .
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 alt: Con chip MediaTek Helio G80 8 nhân trên Samsung Galaxy A32	alt : Con chip MediaTek Helio G80 8 nhân trên Samsung Galaxy A32
 
 des: Con chip MediaTek Helio G80 8 nhân trên Samsung Galaxy A32	des : Con chip MediaTek Helio G80 8 nhân trên Samsung Galaxy A32
-{"label": "COM+", "subject": ["3&&Con", "4&&chip", "5&&MediaTek", "6&&Helio", "7&&G80", "8&&8", "9&&nh\u00e2n", "10&&tr\u00ean", "11&&Samsung", "12&&Galaxy", "13&&A32"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["3&&Con", "4&&chip", "5&&MediaTek", "6&&Helio", "7&&G80", "8&&8", "9&&nhân", "10&&trên", "11&&Samsung", "12&&Galaxy", "13&&A32"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Con chip MediaTek Helio G80 8 nhân trên Samsung Galaxy A32.	Con chip MediaTek Helio G80 8 nhân trên Samsung Galaxy A32 .
 
 Kết nối 4G, 5G trên cả hai thiết bị mang đến tốc độ truyền mạng cao, không bị gián đoạn và là một trong những điểm nhấn gây ấn tượng với đông đảo người dùng.	Kết nối 4G , 5G trên cả hai thiết bị mang đến tốc độ truyền mạng cao , không bị gián đoạn và là một trong những điểm nhấn gây ấn tượng với đông đảo người dùng .
-{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Bộ nhớ	Bộ nhớ
 
 Cả hai điện thoại có bộ nhớ RAM 6 GB cho đa nhiệm ổn định và dung lượng bộ nhớ trong 128 GB giúp người dùng có thể sử dụng thoải mái, đáp ứng tốt mọi nhu cầu lưu trữ tài liệu, thông tin hay hình ảnh, video.	Cả hai điện thoại có bộ nhớ RAM 6 GB cho đa nhiệm ổn định và dung lượng bộ nhớ trong 128 GB giúp người dùng có thể sử dụng thoải mái , đáp ứng tốt mọi nhu cầu lưu trữ tài liệu , thông tin hay hình ảnh , video .
 
 alt: Cả hai điện thoại sở hữu dung lượng bộ nhớ như nhau	alt : Cả hai điện thoại sở hữu dung lượng bộ nhớ như nhau
-{"label": "EQL", "subject": [], "object": [], "aspect": ["9&&dung", "10&&l\u01b0\u1ee3ng", "11&&b\u1ed9", "12&&nh\u1edb"], "predicate": ["13&&nh\u01b0", "14&&nhau"]}
+{"subject": [], "object": [], "aspect": ["9&&dung", "10&&lượng", "11&&bộ", "12&&nhớ"], "predicate": ["13&&như", "14&&nhau"], "label": "EQL"}
 
 des: Cả hai điện thoại sở hữu dung lượng bộ nhớ như nhau	des : Cả hai điện thoại sở hữu dung lượng bộ nhớ như nhau
-{"label": "DIF", "subject": [], "object": [], "aspect": ["9&&dung", "10&&l\u01b0\u1ee3ng", "11&&b\u1ed9", "12&&nh\u1edb"], "predicate": ["13&&nh\u01b0", "14&&nhau"]}
+{"subject": [], "object": [], "aspect": ["9&&dung", "10&&lượng", "11&&bộ", "12&&nhớ"], "predicate": ["13&&như", "14&&nhau"], "label": "DIF"}
 
 Cả hai điện thoại sở hữu dung lượng bộ nhớ như nhau.	Cả hai điện thoại sở hữu dung lượng bộ nhớ như nhau .
 
 Pin và sạc	Pin và sạc
-{"label": "COM+", "subject": [], "object": [], "aspect": ["1&&Pin", "2&&v\u00e0", "3&&s\u1ea1c"], "predicate": []}
+{"subject": [], "object": [], "aspect": ["3&&sạc"], "predicate": [], "label": "COM+"}
 
 Cả hai máy được trang bị viên pin 5000 mAh, một con số khá ấn tượng về pin cho các sản phẩm thuộc phân khúc tầm trung.	Cả hai máy được trang bị viên pin 5000 mAh , một con số khá ấn tượng về pin cho các sản phẩm thuộc phân khúc tầm trung .
 
 Do đó, thời lượng pin của bộ đôi có thể đáp ứng năng lượng cho một ngày sử dụng.	Do đó , thời lượng pin của bộ đôi có thể đáp ứng năng lượng cho một ngày sử dụng .
-{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Điểm khác biệt ở pin có lẽ là loại pin được trang bị ở cả hai thiết bị.	Điểm khác biệt ở pin có lẽ là loại pin được trang bị ở cả hai thiết bị .
-{"label": "COM+", "subject": [], "object": ["15&&c\u1ea3", "16&&hai", "17&&thi\u1ebft", "18&&b\u1ecb"], "aspect": [], "predicate": ["1&&\u0110i\u1ec3m", "2&&kh\u00e1c", "3&&bi\u1ec7t"]}
+{"subject": [], "object": [], "aspect": [], "predicate": ["1&&Điểm", "2&&khác", "3&&biệt"], "label": "COM+"}
 
 Nếu Galaxy A33 sử dụng lõi pin Li-Po nhẹ, bền và chịu được va đập tốt thì Galaxy A22 với loại pin Li-Ion có khả năng dự trữ năng lượng lớn, sở hữu chu kỳ sạc có thể lên đến hơn 400 lần.	Nếu Galaxy A33 sử dụng lõi pin Li-Po nhẹ , bền và chịu được va đập tốt thì Galaxy A22 với loại pin Li-Ion có khả năng dự trữ năng lượng lớn , sở hữu chu kỳ sạc có thể lên đến hơn 400 lần .
 
 Galaxy A33 hỗ trợ công nghệ sạc nhanh có công suất lớn hơn Galaxy A32 15 W nhưng cả hai đều đảm bảo người dùng có thể trải nghiệm liên tục mà không bị gián đoạn và tiết kiệm thời gian chờ sạc đầy.	Galaxy A33 hỗ trợ công nghệ sạc nhanh có công suất lớn hơn Galaxy A32 15 W nhưng cả hai đều đảm bảo người dùng có thể trải nghiệm liên tục mà không bị gián đoạn và tiết kiệm thời gian chờ sạc đầy .
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
-{"label": "COM-", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": ["14&&Galaxy", "15&&A32", "16&&15", "17&&W"], "aspect": [], "predicate": [], "label": "COM+"}
+{"subject": [], "object": ["14&&Galaxy", "15&&A32", "16&&15", "17&&W"], "aspect": [], "predicate": [], "label": "COM-"}
 
 alt: Cả hai điện thoại đều được hỗ trợ sạc nhanh	alt : Cả hai điện thoại đều được hỗ trợ sạc nhanh
 
 des: Cả hai điện thoại đều được hỗ trợ sạc nhanh	des : Cả hai điện thoại đều được hỗ trợ sạc nhanh
 
 Cả hai điện thoại đều được hỗ trợ sạc nhanh.	Cả hai điện thoại đều được hỗ trợ sạc nhanh .
-{"label": "COM+", "subject": [], "object": ["1&&C\u1ea3", "2&&hai", "3&&\u0111i\u1ec7n", "4&&tho\u1ea1i"], "aspect": ["9&&s\u1ea1c", "10&&nhanh"], "predicate": ["5&&\u0111\u1ec1u", "6&&\u0111\u01b0\u1ee3c", "7&&h\u1ed7", "8&&tr\u1ee3"]}
+{"subject": [], "object": ["1&&Cả", "2&&hai", "3&&điện", "4&&thoại"], "aspect": ["9&&sạc", "10&&nhanh"], "predicate": ["5&&đều", "6&&được", "7&&hỗ", "8&&trợ"], "label": "COM+"}
 
 4.	4 .
 
@@ -237,7 +238,7 @@ Bạn có 4 lựa chọn màu sắc bao gồm: đen, trắng, xanh bạc hà và
 alt: Các tùy chọn màu trên Samsung Galaxy A33 5G	alt : Các tùy chọn màu trên Samsung Galaxy A33 5G
 
 des: Các tùy chọn màu trên Samsung Galaxy A33 5G	des : Các tùy chọn màu trên Samsung Galaxy A33 5G
-{"label": "COM+", "subject": [], "object": ["8&&Samsung", "9&&Galaxy", "10&&A33", "11&&5G"], "aspect": [], "predicate": []}
+{"subject": [], "object": ["8&&Samsung", "9&&Galaxy", "10&&A33", "11&&5G"], "aspect": [], "predicate": [], "label": "COM+"}
 
 Các tùy chọn màu trên Samsung Galaxy A33 5G.	Các tùy chọn màu trên Samsung Galaxy A33 5G .
 
@@ -248,7 +249,7 @@ alt: Các tùy chọn màu trên Galaxy A32	alt : Các tùy chọn màu trên Ga
 des: Các tùy chọn màu trên Galaxy A32	des : Các tùy chọn màu trên Galaxy A32
 
 Các tùy chọn màu trên Galaxy A32.	Các tùy chọn màu trên Galaxy A32 .
-{"label": "COM+", "subject": [], "object": ["6&&Galaxy", "7&&A32"], "aspect": [], "predicate": []}
+{"subject": [], "object": ["6&&Galaxy", "7&&A32"], "aspect": [], "predicate": [], "label": "COM+"}
 
 5.	5 .
 
@@ -259,11 +260,12 @@ Bảng so sánh	Bảng so sánh
 Hướng dẫn mua điện thoại Samsung Galaxy A33 5G và Galaxy A32 tại TGDĐ	Hướng dẫn mua điện thoại Samsung Galaxy A33 5G và Galaxy A32 tại TGDĐ
 
 Để mua điện thoại Samsung Galaxy A33 5G và Galaxy A32, bạn có thể ghé qua các cửa hàng, đại lý phân phối của hãng như hệ thống siêu thị Thế Giới Di Động hoặc  Điện máy XANH .	Để mua điện thoại Samsung Galaxy A33 5G và Galaxy A32 , bạn có thể ghé qua các cửa hàng , đại lý phân phối của hãng như hệ thống siêu thị Thế Giới Di Động hoặc Điện máy XANH .
+{"subject": ["5&&Samsung", "6&&Galaxy", "7&&A33", "8&&5G"], "object": ["29&&hệ", "30&&thống", "31&&siêu", "32&&thị", "33&&Thế", "34&&Giới", "35&&Di", "36&&Động", "37&&hoặc", "38&&Điện", "39&&máy", "40&&XANH"], "aspect": [], "predicate": [], "label": "COM+"}
 
 Đây là những điểm bán hàng uy tín, thường xuyên cung cấp các chương trình khuyến mãi hấp dẫn, chính sách bảo hành chu đáo với giá bán phải chăng.	Đây là những điểm bán hàng uy tín , thường xuyên cung cấp các chương trình khuyến mãi hấp dẫn , chính sách bảo hành chu đáo với giá bán phải chăng .
 
 Hiện nay bạn có thể mua điện thoại Samsung Galaxy A23 và Galaxy A73 5G tại  Thế Giới Di Động  theo hai phương thức online và offline.	Hiện nay bạn có thể mua điện thoại Samsung Galaxy A23 và Galaxy A73 5G tại Thế Giới Di Động theo hai phương thức online và offline .
-{"label": "EQL", "subject": ["9&&Samsung", "10&&Galaxy", "11&&A23"], "object": ["13&&Galaxy", "14&&A73", "15&&5G", "16&&t\u1ea1i", "17&&Th\u1ebf", "18&&Gi\u1edbi", "19&&Di", "20&&\u0110\u1ed9ng"], "aspect": [], "predicate": []}
+{"subject": ["9&&Samsung", "10&&Galaxy", "11&&A23"], "object": ["13&&Galaxy", "14&&A73", "15&&5G", "16&&tại", "17&&Thế", "18&&Giới", "19&&Di", "20&&Động"], "aspect": [], "predicate": [], "label": "EQL"}
 
 Đối với cả hai hình thức mua trên bạn đều nhận được những ưu đãi hấp dẫn cũng như được đảm bảo chất lượng sản phẩm như nhau.	Đối với cả hai hình thức mua trên bạn đều nhận được những ưu đãi hấp dẫn cũng như được đảm bảo chất lượng sản phẩm như nhau .
 
@@ -272,13 +274,12 @@ alt: Mua hàng chính hãng tại TGDĐ	alt : Mua hàng chính hãng tại TGDĐ
 des: Mua hàng chính hãng tại TGDĐ	des : Mua hàng chính hãng tại TGDĐ
 
 Mua hàng chính hãng tại TGDĐ.	Mua hàng chính hãng tại TGDĐ .
-{"label": "COM+", "subject": [], "object": ["1&&Mua", "2&&h\u00e0ng", "3&&ch\u00ednh", "4&&h\u00e3ng", "5&&t\u1ea1i", "6&&TGD\u0110"], "aspect": [], "predicate": []}
-{"label": "COM-", "subject": [], "object": ["1&&Mua", "2&&h\u00e0ng", "3&&ch\u00ednh", "4&&h\u00e3ng", "5&&t\u1ea1i", "6&&TGD\u0110"], "aspect": [], "predicate": []}
+{"subject": [], "object": ["1&&Mua", "2&&hàng", "3&&chính", "4&&hãng", "5&&tại", "6&&TGDĐ"], "aspect": [], "predicate": [], "label": "COM-"}
 
 7.	7 .
 
 Chính sách bảo hành khi mua điện thoại Samsung Galaxy A33 5G và Galaxy A32 tại TGDĐ	Chính sách bảo hành khi mua điện thoại Samsung Galaxy A33 5G và Galaxy A32 tại TGDĐ
-{"label": "COM+", "subject": ["9&&Samsung", "10&&Galaxy", "11&&A33", "12&&5G"], "object": ["14&&Galaxy", "15&&A32", "16&&t\u1ea1i", "17&&TGD\u0110"], "aspect": ["1&&Ch\u00ednh", "2&&s\u00e1ch", "3&&b\u1ea3o", "4&&h\u00e0nh"], "predicate": []}
+{"subject": ["9&&Samsung", "10&&Galaxy", "11&&A33", "12&&5G"], "object": ["14&&Galaxy", "15&&A32", "16&&tại", "17&&TGDĐ"], "aspect": ["1&&Chính", "2&&sách", "3&&bảo", "4&&hành"], "predicate": [], "label": "COM+"}
 
 Khi mua điện thoại Samsung Galaxy A33 5G và Galaxy A32 tại Thế Giới Di Động, bạn sẽ được hưởng chính sách bảo hành với nhiều ưu đãi như:	Khi mua điện thoại Samsung Galaxy A33 5G và Galaxy A32 tại Thế Giới Di Động , bạn sẽ được hưởng chính sách bảo hành với nhiều ưu đãi như :
 
@@ -287,15 +288,14 @@ Khi mua điện thoại Samsung Galaxy A33 5G và Galaxy A32 tại Thế Giới 
 - Bảo hành chính hãng điện thoại  1 năm  tại các trung tâm bảo hành chính hãng.	- Bảo hành chính hãng điện thoại 1 năm tại các trung tâm bảo hành chính hãng .
 
 alt: Chính sách bảo hành khi mua điện thoại Samsung tại TGDĐ	alt : Chính sách bảo hành khi mua điện thoại Samsung tại TGDĐ
-{"label": "COM+", "subject": [], "object": [], "aspect": ["3&&Ch\u00ednh", "4&&s\u00e1ch", "5&&b\u1ea3o", "6&&h\u00e0nh"], "predicate": []}
+{"subject": [], "object": [], "aspect": ["3&&Chính", "4&&sách", "5&&bảo", "6&&hành"], "predicate": [], "label": "COM+"}
 
 des: Chính sách bảo hành khi mua điện thoại Samsung tại TGDĐ	des : Chính sách bảo hành khi mua điện thoại Samsung tại TGDĐ
-{"label": "SUP+", "subject": [], "object": [], "aspect": ["3&&Ch\u00ednh", "4&&s\u00e1ch", "5&&b\u1ea3o", "6&&h\u00e0nh"], "predicate": []}
 
 Chính sách bảo hành khi mua điện thoại Samsung tại TGDĐ.	Chính sách bảo hành khi mua điện thoại Samsung tại TGDĐ .
 
 Trên đây là những so sánh về Samsung Galaxy A33 5G và Galaxy A32.	Trên đây là những so sánh về Samsung Galaxy A33 5G và Galaxy A32 .
-{"label": "COM+", "subject": ["8&&Samsung", "9&&Galaxy", "10&&A33", "11&&5G"], "object": ["13&&Galaxy", "14&&A32"], "aspect": [], "predicate": []}
+{"subject": ["8&&Samsung", "9&&Galaxy", "10&&A33", "11&&5G"], "object": ["13&&Galaxy", "14&&A32"], "aspect": [], "predicate": [], "label": "COM+"}
 
 Hy vọng những thông tin hữu ích trên sẽ giúp bạn tìm kiếm được chiếc điện thoại phù hợp.	Hy vọng những thông tin hữu ích trên sẽ giúp bạn tìm kiếm được chiếc điện thoại phù hợp .
 

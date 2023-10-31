@@ -3,6 +3,8 @@ from datatypes import Record
 from datatypes import Tag, LabelClass
 import json
 
+from collections import OrderedDict
+
 
 class RecordEncoder:
     WORD_TAGS = [
@@ -170,8 +172,21 @@ class RecordDecoder:
 
     def format_record(self, record: Record) -> str:
         """Format record to string"""
+
+        def custom_dumps(quintuple: Dict) -> str:
+            order_quintuple = OrderedDict(
+                [
+                    ("subject", quintuple["subject"]),
+                    ("object", quintuple["object"]),
+                    ("aspect", quintuple["aspect"]),
+                    ("predicate", quintuple["predicate"]),
+                    ("label", quintuple["label"]),
+                ]
+            )
+            return json.dumps(order_quintuple, ensure_ascii=False)
+
         formatted_sentence = f"{record.original}\t{record.sentence}"
         formatted_quintuples = [
-            json.dumps(quintuple, ensure_ascii=False) for quintuple in record.quintuples
+            custom_dumps(quintuple) for quintuple in record.quintuples
         ]
         return "\n".join([formatted_sentence, *formatted_quintuples])

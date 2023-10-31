@@ -1,5 +1,4 @@
 title: Xiaomi 13 Pro vs Samsung Galaxy S23 Ultra: Đâu là kẻ chiến thắng?	title : Xiaomi 13 Pro vs Samsung Galaxy S23 Ultra : Đâu là kẻ chiến thắng ?
-{"label": "DIF", "subject": ["3&&Xiaomi", "4&&13", "5&&Pro", "6&&vs", "7&&Samsung", "8&&Galaxy", "9&&S23", "10&&Ultra"], "object": [], "aspect": [], "predicate": ["15&&chi\u1ebfn", "16&&th\u1eafng"]}
 
 Đứng từ phía người dùng, họ luôn có những băn khoăn giữa 2 chiếc Xiaomi 13 Pro vs Samsung Galaxy S23 Ultra, câu hỏi được đặt ra liệu sản phẩm nào tốt hơn.	Đứng từ phía người dùng , họ luôn có những băn khoăn giữa 2 chiếc Xiaomi 13 Pro vs Samsung Galaxy S23 Ultra , câu hỏi được đặt ra liệu sản phẩm nào tốt hơn .
 
@@ -14,7 +13,7 @@ Cả hai đều cho thấy cảm giác tinh tế, chắc chắn khi cầm tay, �
 Trong khi Galaxy được làm bằng kính ở mặt trước và mặt sau và nhôm cho khung giữa, thì Xiaomi được cung cấp ba lớp hoàn thiện khác nhau, một là kính giống như Galaxy, nhưng bạn cũng có lựa chọn mặt sau bằng gốm bền hơn nhiều, đến trầy xước và thậm chí là lớp hoàn thiện giả da với họa tiết rất dễ chịu.	Trong khi Galaxy được làm bằng kính ở mặt trước và mặt sau và nhôm cho khung giữa , thì Xiaomi được cung cấp ba lớp hoàn thiện khác nhau , một là kính giống như Galaxy , nhưng bạn cũng có lựa chọn mặt sau bằng gốm bền hơn nhiều , đến trầy xước và thậm chí là lớp hoàn thiện giả da với họa tiết rất dễ chịu .
 
 alt: Thiết kế Xiaomi 13 Pro vs Samsung Galaxy S23 Ultra	alt : Thiết kế Xiaomi 13 Pro vs Samsung Galaxy S23 Ultra
-{"label": "COM+", "subject": ["3&&Thi\u1ebft", "4&&k\u1ebf", "5&&Xiaomi", "6&&13", "7&&Pro", "8&&vs", "9&&Samsung", "10&&Galaxy", "11&&S23", "12&&Ultra"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["5&&Xiaomi", "6&&13", "7&&Pro", "8&&vs", "9&&Samsung", "10&&Galaxy", "11&&S23", "12&&Ultra"], "object": [], "aspect": ["3&&Thiết", "4&&kế"], "predicate": [], "label": "COM+"}
 
 des: Thiết kế Xiaomi 13 Pro vs Samsung Galaxy S23 Ultra	des : Thiết kế Xiaomi 13 Pro vs Samsung Galaxy S23 Ultra
 
@@ -29,7 +28,7 @@ Galaxy có màn hình 6,8 inch, trong khi Xiaomi có màn hình 6,7 inch, nhưng
 Màn hình	Màn hình
 
 Cả hai dường như đều sử dụng công nghệ tấm nền OLED mới nhất của Samsung, đây là một tin tuyệt vời.	Cả hai dường như đều sử dụng công nghệ tấm nền OLED mới nhất của Samsung , đây là một tin tuyệt vời .
-{"label": "COM+", "subject": [], "object": [], "aspect": ["8&&c\u00f4ng", "9&&ngh\u1ec7", "10&&t\u1ea5m", "11&&n\u1ec1n", "12&&OLED", "13&&m\u1edbi", "14&&nh\u1ea5t"], "predicate": []}
+{"subject": ["18&&đây"], "object": [], "aspect": ["8&&công", "9&&nghệ", "10&&tấm", "11&&nền", "12&&OLED", "13&&mới", "14&&nhất"], "predicate": [], "label": "COM+"}
 
 Khung màn hình phủ màu sắc rất sống động, ít bị đổi màu ở một góc và độ sáng tối đa đáng kinh ngạc giúp sử dụng những điện thoại này ngoài trời dễ dàng hơn.	Khung màn hình phủ màu sắc rất sống động , ít bị đổi màu ở một góc và độ sáng tối đa đáng kinh ngạc giúp sử dụng những điện thoại này ngoài trời dễ dàng hơn .
 
@@ -44,22 +43,23 @@ Về sinh trắc học, cả hai đều dựa vào máy quét dấu vân tay dư
 Cả hai đều hoàn thành công việc tốt như nhau, vì vậy không có gì phải phàn nàn ở đây.	Cả hai đều hoàn thành công việc tốt như nhau , vì vậy không có gì phải phàn nàn ở đây .
 
 3.	3 .
-{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": []}
-{"label": "COM", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM"}
 
 Hiệu năng	Hiệu năng
+{"subject": [], "object": [], "aspect": ["1&&Hiệu", "2&&năng"], "predicate": [], "label": "COM+"}
 
 Cả hai điện thoại đều đi kèm với bộ vi xử lý Snapdragon 8 Gen 2 của Qualcomm và mặc dù Samsung gọi phiên bản của nó là một mẫu đặc biệt, nhưng sự khác biệt về hiệu suất thực tế là không đáng kể.	Cả hai điện thoại đều đi kèm với bộ vi xử lý Snapdragon 8 Gen 2 của Qualcomm và mặc dù Samsung gọi phiên bản của nó là một mẫu đặc biệt , nhưng sự khác biệt về hiệu suất thực tế là không đáng kể .
 
 Nếu bạn tò mò về lý do tại sao lại như vậy, thì phiên bản Snapdragon của Samsung có xung nhịp cao hơn một chút, điều này mang lại cho nó một lợi thế rất nhỏ trong một số trường hợp sử dụng.	Nếu bạn tò mò về lý do tại sao lại như vậy , thì phiên bản Snapdragon của Samsung có xung nhịp cao hơn một chút , điều này mang lại cho nó một lợi thế rất nhỏ trong một số trường hợp sử dụng .
-{"label": "EQL", "subject": ["15&&phi\u00ean", "16&&b\u1ea3n", "17&&Snapdragon", "18&&c\u1ee7a", "19&&Samsung", "33&&n\u00f3"], "object": [], "aspect": [], "predicate": ["34&&m\u1ed9t", "35&&l\u1ee3i", "36&&th\u1ebf", "37&&r\u1ea5t", "38&&nh\u1ecf", "39&&trong", "40&&m\u1ed9t", "41&&s\u1ed1", "42&&tr\u01b0\u1eddng", "43&&h\u1ee3p", "44&&s\u1eed", "45&&d\u1ee5ng"]}
+{"subject": ["15&&phiên", "16&&bản", "17&&Snapdragon", "18&&của", "19&&Samsung"], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Và về RAM và dung lượng lưu trữ, Galaxy có mẫu cơ sở với RAM 8GB và dung lượng lưu trữ 256 GB, trong khi Xiaomi có cùng dung lượng lưu trữ cho mẫu cơ sở nhưng RAM 12GB.	Và về RAM và dung lượng lưu trữ , Galaxy có mẫu cơ sở với RAM 8GB và dung lượng lưu trữ 256 GB , trong khi Xiaomi có cùng dung lượng lưu trữ cho mẫu cơ sở nhưng RAM 12GB .
 
 Bạn cũng có thể nhận được RAM 12 GB trên Galaxy, nhưng bạn phải chi nhiều tiền hơn và mua phiên bản bộ nhớ trong 512 GB để được nâng cấp RAM.	Bạn cũng có thể nhận được RAM 12 GB trên Galaxy , nhưng bạn phải chi nhiều tiền hơn và mua phiên bản bộ nhớ trong 512 GB để được nâng cấp RAM .
 
 Bạn có thể thấy những khác biệt nhỏ về điểm số của những điện thoại này trong bài kiểm tra trung tâm CPU GeekBench.	Bạn có thể thấy những khác biệt nhỏ về điểm số của những điện thoại này trong bài kiểm tra trung tâm CPU GeekBench .
-{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Thay vào đó, sự khác biệt thực sự nằm ở bài kiểm tra 3D Mark Wildlife thứ hai, đây là bài kiểm tra chơi trò chơi.	Thay vào đó , sự khác biệt thực sự nằm ở bài kiểm tra 3D Mark Wildlife thứ hai , đây là bài kiểm tra chơi trò chơi .
 
@@ -82,7 +82,7 @@ Vào một ngày nắng đẹp, bạn có thể thấy rằng Xiaomi sẽ tối 
 alt: Khả năng chụp hình giữa hai camera	alt : Khả năng chụp hình giữa hai camera
 
 des: Khả năng chụp hình giữa hai camera	des : Khả năng chụp hình giữa hai camera
-{"label": "COM+", "subject": ["3&&Kh\u1ea3", "4&&n\u0103ng", "5&&ch\u1ee5p", "6&&h\u00ecnh", "7&&gi\u1eefa", "8&&hai"], "object": [], "aspect": ["9&&camera"], "predicate": []}
+{"subject": ["3&&Khả", "4&&năng", "5&&chụp", "6&&hình", "7&&giữa", "8&&hai"], "object": [], "aspect": ["9&&camera"], "predicate": [], "label": "COM+"}
 
 5.	5 .
 
@@ -95,7 +95,7 @@ Như bạn có thể thấy, các bạn có thể thấy, Galaxy đánh bại Xi
 alt: Thời lượng pin sử dụng máy	alt : Thời lượng pin sử dụng máy
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Trong cuộc sống thực, cả hai điện thoại đều dễ dàng tồn tại trong nhiều ngày thậm chí còn dài hơn và với mức sử dụng vừa phải, trung bình sẽ kéo dài khoảng một ngày rưỡi và thậm chí nhiều hơn nếu bạn hầu như không sử dụng điện thoại của mình.	Trong cuộc sống thực , cả hai điện thoại đều dễ dàng tồn tại trong nhiều ngày thậm chí còn dài hơn và với mức sử dụng vừa phải , trung bình sẽ kéo dài khoảng một ngày rưỡi và thậm chí nhiều hơn nếu bạn hầu như không sử dụng điện thoại của mình .
 

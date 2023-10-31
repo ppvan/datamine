@@ -13,12 +13,11 @@ Về bản chất, cả iPhone 11 và iPhone Xs Max đều có mặt lưng đư�
 Vậy nên, iPhone Xs Max lại tạo được sự đảng cấp hơn 1 chút.	Vậy nên , iPhone Xs Max lại tạo được sự đảng cấp hơn 1 chút .
 
 Bù lại, iPhone 11 lại có nhiều phiên bản màu sắc so với người anh của mình.	Bù lại , iPhone 11 lại có nhiều phiên bản màu sắc so với người anh của mình .
-{"label": "COM+", "subject": ["4&&iPhone", "5&&11"], "object": ["15&&ng\u01b0\u1eddi", "16&&anh", "17&&c\u1ee7a", "18&&m\u00ecnh"], "aspect": [], "predicate": []}
 
 alt: iPhone 11 thay mới thiết kế so với iPhone Xs Max	alt : iPhone 11 thay mới thiết kế so với iPhone Xs Max
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Nếu xét về cái nhìn bên ngoài, iPhone 11 mang đến một cái nhìn hoàn toàn mới, khác hẳn với các thế hệ trước.	Nếu xét về cái nhìn bên ngoài , iPhone 11 mang đến một cái nhìn hoàn toàn mới , khác hẳn với các thế hệ trước .
 
@@ -27,20 +26,20 @@ Nếu xét về cái nhìn bên ngoài, iPhone 11 mang đến một cái nhìn h
 Theo đó, người dùng có vẻ thích mẫu iPhone mới hơn, có vẻ là vì nó mới lạ và xu hướng chung của điện thoại thông minh.	Theo đó , người dùng có vẻ thích mẫu iPhone mới hơn , có vẻ là vì nó mới lạ và xu hướng chung của điện thoại thông minh .
 
 Màn hình có điểm cách biệt	Màn hình có điểm cách biệt
-{"label": "SUP+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "SUP+"}
 
 Cùng sở hữu màn hình tai thở nhưng iPhone Xs Max lại có màn hình tốt hơn iPhone 11.	Cùng sở hữu màn hình tai thở nhưng iPhone Xs Max lại có màn hình tốt hơn iPhone 11 .
 
 Chính xác thì chiếc iPhone 2018 được cài sẵn màn hình OLED 6,5 inch với công nghệ Super Rentina HD.	Chính xác thì chiếc iPhone 2018 được cài sẵn màn hình OLED 6,5 inch với công nghệ Super Rentina HD .
 
 Người em của nó lại sử dụng tấm nền LCD với khích thước 6.1 in, tương tự như iPhone Xr. Rõ ràng, khả năng hiện thì của chiếc iPhone đời mới không bằng mà còn ngốn pin hơn.	Người em của nó lại sử dụng tấm nền LCD với khích thước 6.1 in , tương tự như iPhone Xr . Rõ ràng , khả năng hiện thì của chiếc iPhone đời mới không bằng mà còn ngốn pin hơn .
-{"label": "COM", "subject": ["4&&n\u00f3", "32&&iPhone", "33&&\u0111\u1eddi", "34&&m\u1edbi"], "object": ["20&&iPhone", "21&&Xr"], "aspect": [], "predicate": ["35&&kh\u00f4ng", "36&&b\u1eb1ng"]}
+{"subject": ["4&&nó", "32&&iPhone", "33&&đời", "34&&mới"], "object": ["20&&iPhone", "21&&Xr"], "aspect": [], "predicate": ["35&&không", "36&&bằng"], "label": "COM+"}
 
 alt: Màn hình OLED trên iPhone Xs Max tốt hơn iPhone 11	alt : Màn hình OLED trên iPhone Xs Max tốt hơn iPhone 11
-{"label": "COM+", "subject": ["3&&M\u00e0n", "4&&h\u00ecnh", "5&&OLED", "6&&tr\u00ean", "7&&iPhone", "8&&Xs", "9&&Max"], "object": ["12&&iPhone", "13&&11"], "aspect": [], "predicate": ["10&&t\u1ed1t", "11&&h\u01a1n"]}
+{"subject": ["3&&Màn", "4&&hình", "5&&OLED", "6&&trên", "7&&iPhone", "8&&Xs", "9&&Max"], "object": ["12&&iPhone", "13&&11"], "aspect": [], "predicate": ["10&&tốt", "11&&hơn"], "label": "COM+"}
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Về công nghệ, trên iPhone Xs Max được bổ sung 3D Touch, một tính năng tiện lợi và hiện đại cho những ai dùng nhiều ứng dụng.	Về công nghệ , trên iPhone Xs Max được bổ sung 3D Touch , một tính năng tiện lợi và hiện đại cho những ai dùng nhiều ứng dụng .
 
@@ -59,12 +58,12 @@ Các chỉ số về đồ hòa và khả năng tiết kiệm năng lượng cũ
 alt: Chip A13 trên iPhone 11 tốt hơn A12 trên iPhone Xs Max	alt : Chip A13 trên iPhone 11 tốt hơn A12 trên iPhone Xs Max
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Vậy nên, iPhone 11 mạnh hơn hẳn iPhone Xs Max cho dù cả 2 cùng lượng RAM 4GB và sử dùng iOS cùng phiên bản.	Vậy nên , iPhone 11 mạnh hơn hẳn iPhone Xs Max cho dù cả 2 cùng lượng RAM 4GB và sử dùng iOS cùng phiên bản .
 
 Dù vậy, nó cũng không thể giúp viên pin 3110 trên iPhone 11 có thể hoạt động lâu hơn Xs Max.	Dù vậy , nó cũng không thể giúp viên pin 3110 trên iPhone 11 có thể hoạt động lâu hơn Xs Max .
-{"label": "SUP+", "subject": ["4&&n\u00f3", "13&&iPhone", "14&&11"], "object": ["21&&Xs", "22&&Max"], "aspect": ["17&&ho\u1ea1t", "18&&\u0111\u1ed9ng"], "predicate": ["19&&l\u00e2u", "20&&h\u01a1n"]}
+{"subject": ["4&&nó", "13&&iPhone", "14&&11"], "object": ["21&&Xs", "22&&Max"], "aspect": ["17&&hoạt", "18&&động"], "predicate": ["19&&lâu", "20&&hơn"], "label": "SUP+"}
 
 Viên pin 3174mAh giúp iPhone 2018 sử dụng liên tục 8 giờ, một phần nhờ màn hình OLED tiêu thụ ít điện năng so với LCD.	Viên pin 3174mAh giúp iPhone 2018 sử dụng liên tục 8 giờ , một phần nhờ màn hình OLED tiêu thụ ít điện năng so với LCD .
 
@@ -79,7 +78,7 @@ Trong khi đó, iPhone 11 lại đổi thành một ống kính góc rộng và 
 alt: Camera iPhone 11 với iPhone Xs Max khác nhau	alt : Camera iPhone 11 với iPhone Xs Max khác nhau
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Vì loại camera khác nhau nên chúng ta rất khó để so sánh thiết bị nào chụp ảnh tốt hơn, nó phụ thuộc nhiều hơn vào sở thích người dùng.	Vì loại camera khác nhau nên chúng ta rất khó để so sánh thiết bị nào chụp ảnh tốt hơn , nó phụ thuộc nhiều hơn vào sở thích người dùng .
 
@@ -100,6 +99,7 @@ Nên mua iPhone 11 hay iPhone Xs Max?	Nên mua iPhone 11 hay iPhone Xs Max ?
 Tổng hợp lại, iPhone Xs Max mang đến mời chất lượng hiện thị tuyệt vời.	Tổng hợp lại , iPhone Xs Max mang đến mời chất lượng hiện thị tuyệt vời .
 
 iPhone 11 là hiệu năng tốt hơn.	iPhone 11 là hiệu năng tốt hơn .
+{"subject": ["1&&iPhone", "2&&11"], "object": [], "aspect": ["4&&hiệu", "5&&năng"], "predicate": ["6&&tốt", "7&&hơn"], "label": "COM+"}
 
 Việc lựa chọn thiết bị nào phù thuộc vào sở thích của bạn về thiết kế điện thoại và camera.	Việc lựa chọn thiết bị nào phù thuộc vào sở thích của bạn về thiết kế điện thoại và camera .
 

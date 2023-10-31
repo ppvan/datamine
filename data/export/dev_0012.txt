@@ -1,11 +1,10 @@
 Title: Độ bền iPhone 12 Pro qua test thả rơi từ độ cao 100m: ơ mây zinh, gút chóp Apple!	Title : Độ bền iPhone 12 Pro qua test thả rơi từ độ cao 100m : ơ mây zinh , gút chóp Apple !
-{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Một Youtuber là chủ tài khoản của kênh Versus đã tiến hành thử nghiệm độ bền iPhone 12 Pro bằng cách thả rơi chiếc điện thoại ở độ cao 100m.	Một Youtuber là chủ tài khoản của kênh Versus đã tiến hành thử nghiệm độ bền iPhone 12 Pro bằng cách thả rơi chiếc điện thoại ở độ cao 100m .
-{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Kết quả chắc chắn sẽ khiến nhiều bạn ngạc nhiên đấy!	Kết quả chắc chắn sẽ khiến nhiều bạn ngạc nhiên đấy !
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
 
 Bài test độ bền iPhone 12 Pro bằng cách thả rơi 100m tự do cho kết quả bất ngờ	Bài test độ bền iPhone 12 Pro bằng cách thả rơi 100m tự do cho kết quả bất ngờ
 

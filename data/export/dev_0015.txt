@@ -9,7 +9,7 @@ Trong bài viết này, mình sẽ so sánh Samsung Galaxy A13 4GB và Galaxy A0
 1.	1 .
 
 Đôi nét về điện thoại Samsung Galaxy A13 4GB	Đôi nét về điện thoại Samsung Galaxy A13 4GB
-{"label": "EQL", "subject": ["6&&Samsung", "7&&Galaxy", "8&&A13", "9&&4GB"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["6&&Samsung", "7&&Galaxy", "8&&A13", "9&&4GB"], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Samsung Galaxy A13 4GB  là sản phẩm có  mức giá phải chăng  được ra hãng  điện thoại Samsung  ra mắt tại thị trường Việt Nam vào tháng  03/2022 .	Samsung Galaxy A13 4GB là sản phẩm có mức giá phải chăng được ra hãng điện thoại Samsung ra mắt tại thị trường Việt Nam vào tháng 03 / 2022 .
 
@@ -24,7 +24,7 @@ Galaxy A13 4G là chiếc điện thoại thuộc phân khúc giá rẻ.	Galaxy 
 Chiếc smartphone này còn thu hút người dùng bởi thông số kỹ thuật nổi bật như  màn hình rộng 6.6 inch  với  tần số quét  60 Hz cho ra chất lượng hình ảnh và video rõ nét đến từng chi tiết.	Chiếc smartphone này còn thu hút người dùng bởi thông số kỹ thuật nổi bật như màn hình rộng 6.6 inch với tần số quét 60 Hz cho ra chất lượng hình ảnh và video rõ nét đến từng chi tiết .
 
 Bộ nhớ  RAM 4 GB  và  ROM 128 GB  mang lại không gian lưu trữ thông tin dữ liệu lớn.	Bộ nhớ RAM 4 GB và ROM 128 GB mang lại không gian lưu trữ thông tin dữ liệu lớn .
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Không những thế, với dung lượng pin khủng lên đến  5000 mAh  giúp bạn thoải mái sử dụng mà không lo pin tụt nhanh chóng.	Không những thế , với dung lượng pin khủng lên đến 5000 mAh giúp bạn thoải mái sử dụng mà không lo pin tụt nhanh chóng .
 
@@ -43,34 +43,33 @@ Samsung Galaxy A03s  được tung ra thị trường Việt Nam vào ngày  23/
 Đây cũng là chiếc điện thoại được đánh giá thuộc  phân khúc giá rẻ  từ nhà Samsung.	Đây cũng là chiếc điện thoại được đánh giá thuộc phân khúc giá rẻ từ nhà Samsung .
 
 Sản phẩm mang thiết kế đặc trưng của dòng  Galaxy A  trước đó với viền màn hình khá mỏng, có kích thước màn hình  6.5 inch  với  tần số quét 60 Hz  cùng dung lượng  RAM 4GB  và  ROM 64 GB  đảm bảo nhu cầu của người dùng như: Lưu trữ hình ảnh, video, thông tin dữ liệu,...	Sản phẩm mang thiết kế đặc trưng của dòng Galaxy A trước đó với viền màn hình khá mỏng , có kích thước màn hình 6.5 inch với tần số quét 60 Hz cùng dung lượng RAM 4GB và ROM 64 GB đảm bảo nhu cầu của người dùng như : Lưu trữ hình ảnh , video , thông tin dữ liệu , . . .
-{"label": "COM-", "subject": ["1&&S\u1ea3n", "2&&ph\u1ea9m"], "object": ["10&&Galaxy", "11&&A", "12&&tr\u01b0\u1edbc", "13&&\u0111\u00f3"], "aspect": ["22&&k\u00edch", "23&&th\u01b0\u1edbc", "24&&m\u00e0n", "25&&h\u00ecnh", "26&&6.5", "27&&inch", "28&&v\u1edbi", "29&&t\u1ea7n", "30&&s\u1ed1", "31&&qu\u00e9t"], "predicate": []}
+{"subject": ["1&&Sản", "2&&phẩm"], "object": ["10&&Galaxy", "11&&A", "12&&trước", "13&&đó"], "aspect": ["22&&kích", "23&&thước", "24&&màn", "25&&hình", "26&&6.5", "27&&inch", "28&&với", "29&&tần", "30&&số", "31&&quét"], "predicate": [], "label": "COM-"}
 
 Ngoài ra, điểm thu hút ở chiếc smartphone này chính là dung lượng pin trâu lên đến  5000mAh  đáp ứng mọi tác vụ cơ bản hàng ngày.	Ngoài ra , điểm thu hút ở chiếc smartphone này chính là dung lượng pin trâu lên đến 5000mAh đáp ứng mọi tác vụ cơ bản hàng ngày .
 
 alt: Samsung Galaxy A03s với ba sắc màu cá tính	alt : Samsung Galaxy A03s với ba sắc màu cá tính
-{"label": "SUP+", "subject": ["3&&Samsung", "4&&Galaxy", "5&&A03s"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&A03s"], "object": [], "aspect": [], "predicate": [], "label": "SUP+"}
 
 des: Samsung Galaxy A03s với ba sắc màu cá tính	des : Samsung Galaxy A03s với ba sắc màu cá tính
 
 Samsung Galaxy A03s với ba sắc màu cá tính.	Samsung Galaxy A03s với ba sắc màu cá tính .
 
 3.	3 .
-{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": []}
-{"label": "COM", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM"}
 
 So sánh điện thoại Samsung Galaxy A13 4GB và Galaxy A03s	So sánh điện thoại Samsung Galaxy A13 4GB và Galaxy A03s
 
 Thiết kế	Thiết kế
 
 Cả hai chiếc smartphone đều sở hữu  thiết kế nguyên khối , thiết kế đặc trưng của dòng Galaxy A Series với chất liệu  khung và mặt lưng làm bằng nhựa .	Cả hai chiếc smartphone đều sở hữu thiết kế nguyên khối , thiết kế đặc trưng của dòng Galaxy A Series với chất liệu khung và mặt lưng làm bằng nhựa .
-{"label": "SUP+", "subject": ["19&&Galaxy", "20&&A", "21&&Series"], "object": ["1&&C\u1ea3", "2&&hai", "3&&chi\u1ebfc", "4&&smartphone"], "aspect": ["8&&thi\u1ebft", "9&&k\u1ebf", "10&&nguy\u00ean", "11&&kh\u1ed1i", "23&&ch\u1ea5t", "24&&li\u1ec7u", "25&&khung", "26&&v\u00e0", "27&&m\u1eb7t", "28&&l\u01b0ng", "29&&l\u00e0m", "30&&b\u1eb1ng", "31&&nh\u1ef1a"], "predicate": ["5&&\u0111\u1ec1u", "6&&s\u1edf", "7&&h\u1eefu"]}
 
 Đây là những chiếc điện thoại phù hợp với những ai ưa thích phong cách tối giản nhưng mang lại sự tinh tế và thanh lịch.	Đây là những chiếc điện thoại phù hợp với những ai ưa thích phong cách tối giản nhưng mang lại sự tinh tế và thanh lịch .
 
 Tuy nhiên, thiết kế của Samsung Galaxy A13 4GB mang nhiều  điểm phá cách riêng  hơn so với các dòng sản phẩm trước.	Tuy nhiên , thiết kế của Samsung Galaxy A13 4GB mang nhiều điểm phá cách riêng hơn so với các dòng sản phẩm trước .
 
 Máy được thiết kế hoàn thiện bởi các chi tiết nhỏ như cổng sạc, jack cắm tai nghe, cảm biến loa thoại đều được gia công chỉn chu, tỉ mỉ và gần như không xuất hiện chi tiết thừa.	Máy được thiết kế hoàn thiện bởi các chi tiết nhỏ như cổng sạc , jack cắm tai nghe , cảm biến loa thoại đều được gia công chỉn chu , tỉ mỉ và gần như không xuất hiện chi tiết thừa .
-{"label": "COM+", "subject": ["1&&M\u00e1y"], "object": [], "aspect": [], "predicate": ["35&&g\u1ea7n", "36&&nh\u01b0", "37&&kh\u00f4ng", "38&&xu\u1ea5t", "39&&hi\u1ec7n", "40&&chi", "41&&ti\u1ebft", "42&&th\u1eeba"]}
+{"subject": ["1&&Máy"], "object": [], "aspect": [], "predicate": ["35&&gần", "36&&như", "37&&không", "38&&xuất", "39&&hiện", "40&&chi", "41&&tiết", "42&&thừa"], "label": "COM+"}
 
 alt: Thiết kế mỏng nhẹ và tinh tế của Galaxy A13	alt : Thiết kế mỏng nhẹ và tinh tế của Galaxy A13
 
@@ -93,7 +92,7 @@ Màn hình	Màn hình
 Bộ đôi được trang bị màn hình lớn cho trải nghiệm cực đỉnh, giữa hai sản phẩm này có những điểm khác nhau về thông số kỹ thuật.	Bộ đôi được trang bị màn hình lớn cho trải nghiệm cực đỉnh , giữa hai sản phẩm này có những điểm khác nhau về thông số kỹ thuật .
 
 Samsung Galaxy A13 4GB có màn hình rộng  6.6 inch  với  công nghệ màn hình  PLS TFT LCD  đi kèm độ phân giải  Full HD+ (1080 x 2408 Pixels)  và độ sáng tối đa  600 nits  cho phép người dùng trải nghiệm cảm giác sống động như thật khi xem phim, chơi game,...	Samsung Galaxy A13 4GB có màn hình rộng 6.6 inch với công nghệ màn hình PLS TFT LCD đi kèm độ phân giải Full HD + ( 1080 x 2408 Pixels ) và độ sáng tối đa 600 nits cho phép người dùng trải nghiệm cảm giác sống động như thật khi xem phim , chơi game , . . .
-{"label": "SUP+", "subject": ["1&&Samsung", "2&&Galaxy", "3&&A13", "4&&4GB", "12&&c\u00f4ng", "13&&ngh\u1ec7", "14&&m\u00e0n", "15&&h\u00ecnh", "16&&PLS", "17&&TFT", "18&&LCD"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A13", "4&&4GB", "12&&công", "13&&nghệ", "14&&màn", "15&&hình", "16&&PLS", "17&&TFT", "18&&LCD"], "object": [], "aspect": [], "predicate": [], "label": "SUP+"}
 
 alt: Màn hình rộng 6.6 inch Full HD+ tạo nên những trải nghiệm chân thực	alt : Màn hình rộng 6.6 inch Full HD + tạo nên những trải nghiệm chân thực
 
@@ -108,7 +107,7 @@ alt: Galaxy A03s mang lại những trải nghiệm chân thực	alt : Galaxy A0
 des: Galaxy A03s mang lại những trải nghiệm chân thực	des : Galaxy A03s mang lại những trải nghiệm chân thực
 
 Galaxy A03s mang lại những trải nghiệm chân thực .	Galaxy A03s mang lại những trải nghiệm chân thực .
-{"label": "SUP+", "subject": [], "object": ["1&&Galaxy", "2&&A03s"], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "SUP+"}
 
 Camera	Camera
 
@@ -119,50 +118,50 @@ Samsung Galaxy A03s với camera trước  5 MP  cũng đáp ứng được nhi�
 alt: Camera xịn sò cho ra những hình ảnh sắc nét	alt : Camera xịn sò cho ra những hình ảnh sắc nét
 
 des: Camera xịn sò cho ra những hình ảnh sắc nét	des : Camera xịn sò cho ra những hình ảnh sắc nét
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Camera xịn sò cho ra những hình ảnh sắc nét.	Camera xịn sò cho ra những hình ảnh sắc nét .
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Về camera sau , Samsung Galaxy A13 4GB chiếm ưu thế hơn Samsung Galaxy A03s khi sở hữu  bộ 4 camera  có độ phân giải  50 MP ,  5 MP ,  2 MP ,  2 MP  mang lại trải nghiệm quay chụp có độ sắc nét cao, bắt trọn từng chi tiết nhỏ.	Về camera sau , Samsung Galaxy A13 4GB chiếm ưu thế hơn Samsung Galaxy A03s khi sở hữu bộ 4 camera có độ phân giải 50 MP , 5 MP , 2 MP , 2 MP mang lại trải nghiệm quay chụp có độ sắc nét cao , bắt trọn từng chi tiết nhỏ .
 
 Camera sau của Galaxy A03s có độ phân giải thấp hơn với  bộ 3 camera  đa chức năng có độ phân giải  13 MP ,  2 MP ,  2 MP  nhưng vẫn cho ra những bức ảnh chất lượng cao, màu sắc chân thực và sống động.	Camera sau của Galaxy A03s có độ phân giải thấp hơn với bộ 3 camera đa chức năng có độ phân giải 13 MP , 2 MP , 2 MP nhưng vẫn cho ra những bức ảnh chất lượng cao , màu sắc chân thực và sống động .
-{"label": "COM+", "subject": [], "object": ["4&&Galaxy", "5&&A03s"], "aspect": ["1&&Camera", "2&&sau", "7&&\u0111\u1ed9", "8&&ph\u00e2n", "9&&gi\u1ea3i"], "predicate": ["10&&th\u1ea5p", "11&&h\u01a1n"]}
+{"subject": [], "object": ["4&&Galaxy", "5&&A03s"], "aspect": ["1&&Camera", "2&&sau", "7&&độ", "8&&phân", "9&&giải"], "predicate": ["10&&thấp", "11&&hơn"], "label": "COM+"}
 
 alt: Bộ 4 camera bắt trọn từng khoảnh khắc	alt : Bộ 4 camera bắt trọn từng khoảnh khắc
 
 des: Bộ 4 camera bắt trọn từng khoảnh khắc	des : Bộ 4 camera bắt trọn từng khoảnh khắc
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "DIF"}
 
 Bộ 4 camera bắt trọn từng khoảnh khắc.	Bộ 4 camera bắt trọn từng khoảnh khắc .
 
 CPU	CPU
-{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Samsung Galaxy A13 4GB sở hữu con chip xử lý  Exynos 850 8 nhân  với tốc độ xử lý  2.0 GHz  cung cấp cho người dùng trải nghiệm ổn định và giảm độ trễ khi chơi game.	Samsung Galaxy A13 4GB sở hữu con chip xử lý Exynos 850 8 nhân với tốc độ xử lý 2.0 GHz cung cấp cho người dùng trải nghiệm ổn định và giảm độ trễ khi chơi game .
 
 alt: Con chip xử lý Exynos 850 8 nhân trên Samsung A13	alt : Con chip xử lý Exynos 850 8 nhân trên Samsung A13
 
 des: Con chip xử lý Exynos 850 8 nhân trên Samsung A13	des : Con chip xử lý Exynos 850 8 nhân trên Samsung A13
-{"label": "COM+", "subject": ["3&&Con", "4&&chip", "5&&x\u1eed", "6&&l\u00fd", "7&&Exynos", "8&&850", "9&&8", "10&&nh\u00e2n", "12&&Samsung", "13&&A13"], "object": [], "aspect": [], "predicate": []}
 
 Con chip xử lý Exynos 850 8 nhân trên Samsung A13.	Con chip xử lý Exynos 850 8 nhân trên Samsung A13 .
-{"label": "COM+", "subject": [], "object": ["10&&Samsung", "11&&A13"], "aspect": ["1&&Con", "2&&chip", "3&&x\u1eed", "4&&l\u00fd", "5&&Exynos", "6&&850", "7&&8", "8&&nh\u00e2n"], "predicate": []}
+{"subject": ["1&&Con", "2&&chip", "3&&xử", "4&&lý", "5&&Exynos", "6&&850", "7&&8", "8&&nhân"], "object": ["10&&Samsung", "11&&A13"], "aspect": [], "predicate": [], "label": "COM+"}
 
 Samsung Galaxy A03s được trang bị con chip  MediaTek MT6765 8 nhân  với tốc độ xử lý lần lượt là  4 nhân 2.3 GHz  và  4 nhân 1.8 GHz  mang lại hiệu suất mượt mà và kết nối ổn định, độ trễ thấp.	Samsung Galaxy A03s được trang bị con chip MediaTek MT6765 8 nhân với tốc độ xử lý lần lượt là 4 nhân 2.3 GHz và 4 nhân 1.8 GHz mang lại hiệu suất mượt mà và kết nối ổn định , độ trễ thấp .
-{"label": "COM+", "subject": ["1&&Samsung", "2&&Galaxy", "3&&A03s"], "object": [], "aspect": ["37&&k\u1ebft", "38&&n\u1ed1i", "39&&\u1ed5n", "40&&\u0111\u1ecbnh"], "predicate": []}
+{"subject": [], "object": [], "aspect": ["37&&kết", "38&&nối", "39&&ổn", "40&&định"], "predicate": [], "label": "COM+"}
 
 alt: Con chip MediaTek MT6765 8 nhân trên Samsung Galaxy A03s	alt : Con chip MediaTek MT6765 8 nhân trên Samsung Galaxy A03s
 
 des: Con chip MediaTek MT6765 8 nhân trên Samsung Galaxy A03s	des : Con chip MediaTek MT6765 8 nhân trên Samsung Galaxy A03s
 
 Con chip MediaTek MT6765 8 nhân trên Samsung Galaxy A03s.	Con chip MediaTek MT6765 8 nhân trên Samsung Galaxy A03s .
-{"label": "COM+", "subject": [], "object": ["8&&Samsung", "9&&Galaxy", "10&&A03s"], "aspect": [], "predicate": []}
+{"subject": [], "object": ["8&&Samsung", "9&&Galaxy", "10&&A03s"], "aspect": [], "predicate": [], "label": "COM+"}
 
 CPU của cả hai chiếc smartphone đều đảm bảo các  nhu cầu cơ bản  cho những đối tượng có thói quen lướt web, xem phim, nghe nhạc, chiến các tựa game nhẹ,...	CPU của cả hai chiếc smartphone đều đảm bảo các nhu cầu cơ bản cho những đối tượng có thói quen lướt web , xem phim , nghe nhạc , chiến các tựa game nhẹ , . . .
-{"label": "COM+", "subject": [], "object": [], "aspect": ["8&&\u0111\u1ea3m", "9&&b\u1ea3o", "10&&c\u00e1c", "11&&nhu", "12&&c\u1ea7u", "13&&c\u01a1", "14&&b\u1ea3n"], "predicate": []}
+{"subject": [], "object": [], "aspect": ["8&&đảm", "9&&bảo", "10&&các", "11&&nhu", "12&&cầu", "13&&cơ", "14&&bản"], "predicate": [], "label": "COM+"}
 
 Với chip xử lý trên, các tác vụ này sẽ được  hoạt động mượt mà ,  tránh gặp tình trạng giật ,  lag .	Với chip xử lý trên , các tác vụ này sẽ được hoạt động mượt mà , tránh gặp tình trạng giật , lag .
-{"label": "EQL", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Bộ nhớ	Bộ nhớ
 
@@ -171,13 +170,13 @@ Samsung Galaxy A13 4GB và Samsung Galaxy A03s đều có  RAM 4 GB , tuy nhiên
 alt: Bộ nhớ trong 128GB của cả hai thiết bị có khả năng lưu trữ dữ liệu lớn	alt : Bộ nhớ trong 128GB của cả hai thiết bị có khả năng lưu trữ dữ liệu lớn
 
 des: Bộ nhớ trong 128GB của cả hai thiết bị có khả năng lưu trữ dữ liệu lớn	des : Bộ nhớ trong 128GB của cả hai thiết bị có khả năng lưu trữ dữ liệu lớn
-{"label": "EQL", "subject": [], "object": [], "aspect": ["13&&kh\u1ea3", "14&&n\u0103ng", "15&&l\u01b0u", "16&&tr\u1eef", "17&&d\u1eef", "18&&li\u1ec7u", "19&&l\u1edbn"], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Bộ nhớ trong 128GB của cả hai thiết bị có khả năng lưu trữ dữ liệu lớn.	Bộ nhớ trong 128GB của cả hai thiết bị có khả năng lưu trữ dữ liệu lớn .
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Với  ROM 128 GB , Samsung Galaxy A13 4GB cho phép người dùng lưu trữ một khối lượng tài liệu và hình ảnh.	Với ROM 128 GB , Samsung Galaxy A13 4GB cho phép người dùng lưu trữ một khối lượng tài liệu và hình ảnh .
-{"label": "COM+", "subject": ["6&&Samsung", "7&&Galaxy", "8&&A13", "9&&4GB"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["6&&Samsung", "7&&Galaxy", "8&&A13", "9&&4GB"], "object": [], "aspect": ["22&&hình", "23&&ảnh"], "predicate": [], "label": "COM+"}
 
 Với  ROM 64 GB  Samsung Galaxy A03s cũng đáp ứng được các nhu cầu lưu trữ cơ bản.	Với ROM 64 GB Samsung Galaxy A03s cũng đáp ứng được các nhu cầu lưu trữ cơ bản .
 
@@ -188,7 +187,7 @@ des: Dung lượng bộ nhớ của cả hai đáp ứng nhu cầu sử dụng c
 Dung lượng bộ nhớ của cả hai đáp ứng nhu cầu sử dụng cơ bản .	Dung lượng bộ nhớ của cả hai đáp ứng nhu cầu sử dụng cơ bản .
 
 Pin và sạc	Pin và sạc
-{"label": "COM+", "subject": [], "object": [], "aspect": ["1&&Pin", "2&&v\u00e0", "3&&s\u1ea1c"], "predicate": []}
+{"subject": [], "object": [], "aspect": ["3&&sạc"], "predicate": [], "label": "COM+"}
 
 Cả hai chiếc điện thoại đều có thời lượng pin lớn lên tới  5000 mAh  cho phép người dùng vô tư sử dụng điện thoại mà không lo hết hết pin giữa chừng.	Cả hai chiếc điện thoại đều có thời lượng pin lớn lên tới 5000 mAh cho phép người dùng vô tư sử dụng điện thoại mà không lo hết hết pin giữa chừng .
 
@@ -249,12 +248,13 @@ Khi mua  điện thoại Samsung  tại cửa hàng  Thế Giới Di Động , b
 - Hư gì đổi nấy  12 tháng .	- Hư gì đổi nấy 12 tháng .
 
 - Bảo hành chính hãng  1 năm  tại các trung tâm bảo hành hãng.	- Bảo hành chính hãng 1 năm tại các trung tâm bảo hành hãng .
-{"label": "COM+", "subject": [], "object": [], "aspect": ["1&&-", "2&&B\u1ea3o", "3&&h\u00e0nh", "4&&ch\u00ednh", "5&&h\u00e3ng", "6&&1", "7&&n\u0103m", "8&&t\u1ea1i", "9&&c\u00e1c", "10&&trung", "11&&t\u00e2m", "12&&b\u1ea3o", "13&&h\u00e0nh", "14&&h\u00e3ng"], "predicate": []}
-{"label": "COM-", "subject": [], "object": [], "aspect": ["1&&-", "2&&B\u1ea3o", "3&&h\u00e0nh", "4&&ch\u00ednh", "5&&h\u00e3ng", "6&&1", "7&&n\u0103m", "8&&t\u1ea1i", "9&&c\u00e1c", "10&&trung", "11&&t\u00e2m", "12&&b\u1ea3o", "13&&h\u00e0nh", "14&&h\u00e3ng"], "predicate": []}
+{"subject": [], "object": [], "aspect": ["1&&-", "2&&Bảo", "3&&hành", "4&&chính", "5&&hãng", "6&&1", "7&&năm", "8&&tại", "9&&các", "10&&trung", "11&&tâm", "12&&bảo", "13&&hành", "14&&hãng"], "predicate": [], "label": "COM+"}
+{"subject": [], "object": [], "aspect": ["1&&-", "2&&Bảo", "3&&hành", "4&&chính", "5&&hãng", "6&&1", "7&&năm", "8&&tại", "9&&các", "10&&trung", "11&&tâm", "12&&bảo", "13&&hành", "14&&hãng"], "predicate": [], "label": "COM-"}
 
 alt: Chính sách bảo hành điện thoại khi mua tại Thế Giới Di Động	alt : Chính sách bảo hành điện thoại khi mua tại Thế Giới Di Động
 
 des: Chính sách bảo hành điện thoại khi mua tại Thế Giới Di Động	des : Chính sách bảo hành điện thoại khi mua tại Thế Giới Di Động
+{"subject": [], "object": [], "aspect": ["3&&Chính", "4&&sách", "5&&bảo", "6&&hành", "7&&điện", "8&&thoại"], "predicate": [], "label": "COM+"}
 
 Chính sách bảo hành điện thoại khi mua tại Thế Giới Di Động.	Chính sách bảo hành điện thoại khi mua tại Thế Giới Di Động .
 

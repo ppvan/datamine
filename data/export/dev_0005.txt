@@ -5,7 +5,7 @@ Tuy phải tới giữa tháng 1 năm sau, dòng Galaxy S21 của Samsung mới 
 Chưa ra mắt nhưng Galaxy S21+ đã lộ video trên tay và đánh giá	Chưa ra mắt nhưng Galaxy S21 + đã lộ video trên tay và đánh giá
 
 Vậy là sau một loạt hình ảnh render và thông số kỹ thuật, mới đây, một video đánh giá sơ bộ Galaxy S21+ đã được đăng tải bởi kênh YouTube Random Stuff 2.	Vậy là sau một loạt hình ảnh render và thông số kỹ thuật , mới đây , một video đánh giá sơ bộ Galaxy S21 + đã được đăng tải bởi kênh YouTube Random Stuff 2 .
-{"label": "COM+", "subject": [], "object": ["35&&Stuff", "36&&2"], "aspect": [], "predicate": []}
+{"subject": [], "object": ["35&&Stuff", "36&&2"], "aspect": [], "predicate": [], "label": "COM+"}
 
 Qua đó, kênh YouTune này hiện tại đã có trong tay một bản mẫu thử nghiệm của Galaxy S21+, và anh chàng review của Random Stuff 2 đã chia sẻ một số cảm nhận của bản thân sau một thời gian sử dụng chiếc máy.	Qua đó , kênh YouTune này hiện tại đã có trong tay một bản mẫu thử nghiệm của Galaxy S21 + , và anh chàng review của Random Stuff 2 đã chia sẻ một số cảm nhận của bản thân sau một thời gian sử dụng chiếc máy .
 
@@ -34,12 +34,12 @@ des: Máy vẫn có màn hình đục lỗ quen thuộc, nhưng vân tay siêu �
 Về cấu hình của máy, Galaxy S21+ được trang bị con chip Snapdragon 888 mới nhất kết hợp cùng với thanh RAM 8GB, và Random Stuff 2 cho hay anh không gặp bất cứ vấn đề nào nghiêm trọng hiệu năng trong quá trình sử dụng.	Về cấu hình của máy , Galaxy S21 + được trang bị con chip Snapdragon 888 mới nhất kết hợp cùng với thanh RAM 8GB , và Random Stuff 2 cho hay anh không gặp bất cứ vấn đề nào nghiêm trọng hiệu năng trong quá trình sử dụng .
 
 Dù vậy, tại nhiều thị trường khác (trong đó bao gồm Việt Nam), Galaxy S21+ sẽ sử dụng chip Exynos, mà nhiều khả năng sẽ là Exynos 2100 mới nhất sẽ được Samsung công bố trong buổi lễ ra mắt Galaxy S21 Series dự kiến sẽ được diễn ra vào ngày 14/1/2021.	Dù vậy , tại nhiều thị trường khác ( trong đó bao gồm Việt Nam ) , Galaxy S21 + sẽ sử dụng chip Exynos , mà nhiều khả năng sẽ là Exynos 2100 mới nhất sẽ được Samsung công bố trong buổi lễ ra mắt Galaxy S21 Series dự kiến sẽ được diễn ra vào ngày 14 / 1 / 2021 .
-{"label": "EQL", "subject": ["18&&Galaxy", "19&&S21", "33&&Exynos", "34&&2100", "35&&m\u1edbi", "36&&nh\u1ea5t"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["18&&Galaxy", "19&&S21", "33&&Exynos", "34&&2100", "35&&mới", "36&&nhất"], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 alt: danh-gia-galaxy-s21-5	alt : danh-gia-galaxy-s21 - 5
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Galaxy S21+ được trang bị cụm 3 camera gồm camera chính gồm camera góc thường, góc siêu rộng và camera zoom 3X.	Galaxy S21 + được trang bị cụm 3 camera gồm camera chính gồm camera góc thường , góc siêu rộng và camera zoom 3X .
 
@@ -50,10 +50,10 @@ Những hình ảnh chưa cho thấy thế mạnh về camera của Galaxy S21+,
 alt: danh-gia-galaxy-s21-6	alt : danh-gia-galaxy-s21 - 6
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Thời lượng pin là một yếu tố được Random Stuff 2 đánh giá rất cao.	Thời lượng pin là một yếu tố được Random Stuff 2 đánh giá rất cao .
-{"label": "COM+", "subject": [], "object": [], "aspect": ["1&&Th\u1eddi", "2&&l\u01b0\u1ee3ng", "3&&pin"], "predicate": []}
+{"subject": [], "object": [], "aspect": ["1&&Thời", "2&&lượng", "3&&pin"], "predicate": [], "label": "COM+"}
 
 Anh này cho biết Galaxy S21+ có thể dễ dàng “trụ” 1 ngày, và chiếc smartphone cuối cùng cho anh trải nghiệm pin tốt đến vậy là Huawei Mate 20 Pro.	Anh này cho biết Galaxy S21 + có thể dễ dàng “ trụ ” 1 ngày , và chiếc smartphone cuối cùng cho anh trải nghiệm pin tốt đến vậy là Huawei Mate 20 Pro .
 

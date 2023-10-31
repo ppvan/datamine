@@ -13,10 +13,10 @@ Xét về vẻ ngoài, Xiaomi Mi 11 trông bắt mắt hơn đối thủ b
 alt: So sánh thiết kế giữa Xiaomi Mi 11 và iPhone 12	alt : So sánh thiết kế giữa Xiaomi Mi 11 và iPhone 12
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Tuy nhiên, khi xét về độ hoàn thiện của máy, iPhone 12 lại chiếm ưu thế so với Mi 11.	Tuy nhiên , khi xét về độ hoàn thiện của máy , iPhone 12 lại chiếm ưu thế so với Mi 11 .
-{"label": "EQL", "subject": [], "object": ["21&&Mi", "22&&11"], "aspect": [], "predicate": []}
+{"subject": [], "object": ["21&&Mi", "22&&11"], "aspect": [], "predicate": [], "label": "EQL"}
 
 Mặc dù cả hai đều có phần khung nhôm nguyên khối và kính cường lực bao phủ hai mặt, nhưng chất liệu trên iPhone 12 có độ bền tốt hơn và đi kèm với khả năng chống bụi/nước IP68 (Mi 11 không có khả năng này).	Mặc dù cả hai đều có phần khung nhôm nguyên khối và kính cường lực bao phủ hai mặt , nhưng chất liệu trên iPhone 12 có độ bền tốt hơn và đi kèm với khả năng chống bụi / nước IP68 ( Mi 11 không có khả năng này ) .
 
@@ -39,10 +39,10 @@ src:https://cdn.tgdd.vn/Files/2021/03/12/1334584/so-sanh-xiaomi-mi-11-va-iphone-
 alt: So sánh màn hình giữa Xiaomi Mi 11 và iPhone 12	alt : So sánh màn hình giữa Xiaomi Mi 11 và iPhone 12
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Với iPhone 12, bạn sẽ nhận được màn hình có độ phân giải thấp hơn, kích thước nhỏ hơn và độ sáng cũng như tốc độ làm mới thấp hơn Mi 11.	Với iPhone 12 , bạn sẽ nhận được màn hình có độ phân giải thấp hơn , kích thước nhỏ hơn và độ sáng cũng như tốc độ làm mới thấp hơn Mi 11 .
-{"label": "COM+", "subject": [], "object": ["2&&iPhone", "3&&12", "33&&Mi", "34&&11"], "aspect": ["12&&\u0111\u1ed9", "13&&ph\u00e2n", "14&&gi\u1ea3i", "23&&\u0111\u1ed9", "24&&s\u00e1ng", "27&&t\u1ed1c", "28&&\u0111\u1ed9", "29&&l\u00e0m", "30&&m\u1edbi"], "predicate": ["15&&th\u1ea5p", "16&&h\u01a1n", "25&&c\u0169ng", "26&&nh\u01b0", "31&&th\u1ea5p", "32&&h\u01a1n"]}
+{"subject": [], "object": ["2&&iPhone", "3&&12", "33&&Mi", "34&&11"], "aspect": ["12&&độ", "13&&phân", "14&&giải", "27&&tốc", "28&&độ", "29&&làm", "30&&mới"], "predicate": ["15&&thấp", "16&&hơn", "31&&thấp", "32&&hơn"], "label": "COM+"}
 
 Tuy nhiên, không thể phủ nhận rằng đây vẫn là một trong những tấm nền hiển thị tốt nhất trên thị trường.	Tuy nhiên , không thể phủ nhận rằng đây vẫn là một trong những tấm nền hiển thị tốt nhất trên thị trường .
 
@@ -57,7 +57,7 @@ Cả hai model đều được nhà sản xuất trang bị những vi xử lý 
 alt: Cấu hình của Mi 11 và iPhone 12	alt : Cấu hình của Mi 11 và iPhone 12
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Cụ thể, Xiaomi Mi 11 được cung cấp sức mạnh bởi con chip Snapdragon 888 kết hợp với RAM lên đến 8 GB và bộ nhớ trong 256 GB chuẩn UFS 3.1. Với iPhone 12, bạn nhận được chipset Apple A14 Bionic, RAM 4GB và bộ nhớ trong tối đa 256 GB.	Cụ thể , Xiaomi Mi 11 được cung cấp sức mạnh bởi con chip Snapdragon 888 kết hợp với RAM lên đến 8 GB và bộ nhớ trong 256 GB chuẩn UFS 3.1 . Với iPhone 12 , bạn nhận được chipset Apple A14 Bionic , RAM 4GB và bộ nhớ trong tối đa 256 GB .
 
@@ -76,7 +76,7 @@ Ngoài cụm camera phía sau, Mi 11 còn trang bị ống kính selfie lên đ�
 alt: So sánh camera của Xiaomi Mi 11 và iPhone 12	alt : So sánh camera của Xiaomi Mi 11 và iPhone 12
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Trong khi đó iPhone 12 chỉ sở hữu hệ thống camera kép 12 MP bao gồm camera chính và camera góc rộng.	Trong khi đó iPhone 12 chỉ sở hữu hệ thống camera kép 12 MP bao gồm camera chính và camera góc rộng .
 
@@ -87,7 +87,7 @@ Chính vì vậy mà bạn sẽ không thể sử dụng tính năng zoom quang 
 Hơn nữa, camera trước của thiết bị mới nhà Táo chỉ được trang bị độ phân giải 12 MP mà thôi.	Hơn nữa , camera trước của thiết bị mới nhà Táo chỉ được trang bị độ phân giải 12 MP mà thôi .
 
 5Thời lượng pin và tốc độ sạc	5Thời lượng pin và tốc độ sạc
-{"label": "COM+", "subject": [], "object": [], "aspect": ["5&&t\u1ed1c", "6&&\u0111\u1ed9", "7&&s\u1ea1c"], "predicate": []}
+{"subject": [], "object": [], "aspect": ["5&&tốc", "6&&độ", "7&&sạc"], "predicate": [], "label": "COM+"}
 
 Về phần pin, Xiaomi Mi 11 có dung lượng 4.600 mAh với sạc nhanh 55W, sạc không dây 50W và sạc không dây ngược 10W.	Về phần pin , Xiaomi Mi 11 có dung lượng 4.600 mAh với sạc nhanh 55W , sạc không dây 50W và sạc không dây ngược 10W .
 
@@ -98,19 +98,18 @@ iPhone 12 cũng được trang bị công nghệ sạc nhanh nhưng chỉ khoả
 alt: Thời lượng pin và tốc độ sạc của Xiaomi Mi 11 và iPhone 12	alt : Thời lượng pin và tốc độ sạc của Xiaomi Mi 11 và iPhone 12
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Mặc dù pin của iPhone 12 nhỏ hơn rất nhiều nhưng điều đó không có nghĩa là "gà chiến" của nhà Táo sẽ không cho thời lượng sử dụng được lâu.	Mặc dù pin của iPhone 12 nhỏ hơn rất nhiều nhưng điều đó không có nghĩa là " gà chiến " của nhà Táo sẽ không cho thời lượng sử dụng được lâu .
 
 Nếu xét tổng thể, iPhone 12 được trang bị màn hình với các thông số nhỏ hơn nên lượng tiêu hao năng lượng cũng ít hơn so với Mi 11.	Nếu xét tổng thể , iPhone 12 được trang bị màn hình với các thông số nhỏ hơn nên lượng tiêu hao năng lượng cũng ít hơn so với Mi 11 .
 
 Ngoài ra, công nghệ sạc nhanh 20W được hỗ trợ trên iPhone 12 cũng khá tương xứng với viên pin 'khiêm tốn' đi kèm.	Ngoài ra , công nghệ sạc nhanh 20W được hỗ trợ trên iPhone 12 cũng khá tương xứng với viên pin ' khiêm tốn ' đi kèm .
-{"label": "SUP+", "subject": [], "object": ["13&&iPhone", "14&&12"], "aspect": [], "predicate": []}
 
 Thêm vào đó, iPhone 12 hỗ trợ bộ sạc MagSafe, điều mà Xiaomi Mi 11 không có.	Thêm vào đó , iPhone 12 hỗ trợ bộ sạc MagSafe , điều mà Xiaomi Mi 11 không có .
 
 6Giá cả	6Giá cả
-{"label": "DIF", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "DIF"}
 
 Về giá cả, chiếc Xiaomi Mi 11 hiện đang được kinh doanh tại Điện máy XANH có giá 21.990.000₫ với dung lượng RAM 8 GB và bộ nhớ trong 256 GB.	Về giá cả , chiếc Xiaomi Mi 11 hiện đang được kinh doanh tại Điện máy XANH có giá 21.990.000 ₫ với dung lượng RAM 8 GB và bộ nhớ trong 256 GB .
 
@@ -121,12 +120,12 @@ Bộ sản phẩm khi mua sẽ bao gồm: Hộp, sạc, sách hướng dẫn s�
 alt: So sánh giá bán của Xiaomi Mi 11 và iPhone 12	alt : So sánh giá bán của Xiaomi Mi 11 và iPhone 12
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Với iPhone 12, tại Điện máy XANH có giá bán như sau:	Với iPhone 12 , tại Điện máy XANH có giá bán như sau :
 
 Bản dung lượng RAM 4 GB, bộ nhớ trong 64 GB có giá 21.990.000₫	Bản dung lượng RAM 4 GB , bộ nhớ trong 64 GB có giá 21.990.000 ₫
-{"label": "SUP", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "SUP"}
 
 Bản dung lượng RAM 4 GB, bộ nhớ trong 128 GB có giá 24.990.000₫	Bản dung lượng RAM 4 GB , bộ nhớ trong 128 GB có giá 24.990.000 ₫
 
@@ -141,10 +140,10 @@ Bộ sản phẩm khi mua iPhone 12 sẽ bao gồm: Hộp, sách hướng dẫn 
 Bảng so sánh thông số chi tiết giữa Xiaomi Mi 11 và Apple iPhone 12	Bảng so sánh thông số chi tiết giữa Xiaomi Mi 11 và Apple iPhone 12
 
 Nhìn chung, có thể thấy Xiaomi Mi 11 sở hữu nhiều tính năng thú vị hơn iPhone 12.	Nhìn chung , có thể thấy Xiaomi Mi 11 sở hữu nhiều tính năng thú vị hơn iPhone 12 .
-{"label": "COM+", "subject": ["7&&Xiaomi", "8&&Mi", "9&&11"], "object": ["18&&iPhone", "19&&12"], "aspect": ["12&&nhi\u1ec1u", "13&&t\u00ednh", "14&&n\u0103ng"], "predicate": ["15&&th\u00fa", "16&&v\u1ecb", "17&&h\u01a1n"]}
+{"subject": ["7&&Xiaomi", "8&&Mi", "9&&11"], "object": ["18&&iPhone", "19&&12"], "aspect": ["12&&nhiều", "13&&tính", "14&&năng"], "predicate": ["15&&thú", "16&&vị", "17&&hơn"], "label": "COM+"}
 
 Nếu như bạn mong muốn sở hữu chiếc smartphone có thiết kế hiện đại, màn hình lớn với khả năng hiển thị tốt và xử lý nhanh các tác vụ thì Mi 11 là sự lựa chọn hợp lý.	Nếu như bạn mong muốn sở hữu chiếc smartphone có thiết kế hiện đại , màn hình lớn với khả năng hiển thị tốt và xử lý nhanh các tác vụ thì Mi 11 là sự lựa chọn hợp lý .
-{"label": "COM+", "subject": ["33&&Mi", "34&&11"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["33&&Mi", "34&&11"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Nhưng nếu bạn yêu thích sự nhỏ gọn, chất lượng hoàn thiện cao cùng hệ điều hành tối ưu thì iPhone 12 sẽ là lựa chọn ưng ý nhất.	Nhưng nếu bạn yêu thích sự nhỏ gọn , chất lượng hoàn thiện cao cùng hệ điều hành tối ưu thì iPhone 12 sẽ là lựa chọn ưng ý nhất .
 

@@ -23,13 +23,13 @@ Mặt sau nổi bật với cụm camera hình chữ nhật và logo của hãng
 alt: so-sanh-samsung-galaxy-a53-5g-va-galaxy-a73-5g-5-1	alt : so-sanh-samsung-galaxy-a53 - 5g-va-galaxy-a73 - 5g - 5 - 1
 
 des: Mặt sau Samsung Galaxy A53 5G	des : Mặt sau Samsung Galaxy A53 5G
-{"label": "EQL", "subject": ["3&&M\u1eb7t", "4&&sau", "5&&Samsung", "6&&Galaxy", "7&&A53", "8&&5G"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["3&&Mặt", "4&&sau", "5&&Samsung", "6&&Galaxy", "7&&A53", "8&&5G"], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Samsung Galaxy A73 5G có mặt trước, sau và các cạnh có xu hướng vát phẳng nhưng vẫn hơi bo cong vừa tạo nên dáng vẻ vuông vức vừa tạo cảm giác không bị cấn tay khi cầm nắm.	Samsung Galaxy A73 5G có mặt trước , sau và các cạnh có xu hướng vát phẳng nhưng vẫn hơi bo cong vừa tạo nên dáng vẻ vuông vức vừa tạo cảm giác không bị cấn tay khi cầm nắm .
-{"label": "EQL", "subject": ["1&&Samsung", "2&&Galaxy", "3&&A73", "4&&5G"], "object": [], "aspect": [], "predicate": ["20&&h\u01a1i", "21&&bo", "22&&cong", "23&&v\u1eeba", "24&&t\u1ea1o", "25&&n\u00ean", "26&&d\u00e1ng", "27&&v\u1ebb", "28&&vu\u00f4ng", "29&&v\u1ee9c", "30&&v\u1eeba", "31&&t\u1ea1o", "32&&c\u1ea3m", "33&&gi\u00e1c", "34&&kh\u00f4ng", "35&&b\u1ecb"]}
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A73", "4&&5G"], "object": [], "aspect": [], "predicate": ["20&&hơi", "21&&bo", "22&&cong", "23&&vừa", "24&&tạo"], "label": "EQL"}
 
 Ngược lại chiếc máy của Vivo có mặt lưng vát cong cho cảm giác ôm tay hơn khi cầm năm lâu dài.	Ngược lại chiếc máy của Vivo có mặt lưng vát cong cho cảm giác ôm tay hơn khi cầm năm lâu dài .
-{"label": "EQL", "subject": ["3&&chi\u1ebfc", "4&&m\u00e1y", "5&&c\u1ee7a", "6&&Vivo"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["3&&chiếc", "4&&máy", "5&&của", "6&&Vivo"], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 alt: so-sanh-samsung-galaxy-a53-5g-va-galaxy-a73-5g-7	alt : so-sanh-samsung-galaxy-a53 - 5g-va-galaxy-a73 - 5g - 7
 
@@ -40,7 +40,7 @@ Mặt trước của cả hai máy đều là màn hình tràn viền với 85,
 Phần viền dưới các các viền xung quanh của Galaxy A73 sẽ mỏng hơn và chỗ đặt camera trước là một chấm nhỏ, nhìn cao cấp và hiện đại hơn màn hình dạng giọt nước đã "quá cổ" của chiếc T1 5G.	Phần viền dưới các các viền xung quanh của Galaxy A73 sẽ mỏng hơn và chỗ đặt camera trước là một chấm nhỏ , nhìn cao cấp và hiện đại hơn màn hình dạng giọt nước đã " quá cổ " của chiếc T1 5G .
 
 alt: vivo-t1-5g-4-1	alt : vivo-t1 - 5g - 4 - 1
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 des: Mặt sau Vivo T1 5G	des : Mặt sau Vivo T1 5G
 
@@ -73,8 +73,7 @@ Galaxy A73 hỗ trợ độ sáng lên tới 800 nits ở chế độ HBM trong 
 Điện thoại A73 thắng thế về tốc độ làm tươi, nó có tần số quét 120Hz cao hơn so với 90Hz của T1.	Điện thoại A73 thắng thế về tốc độ làm tươi , nó có tần số quét 120Hz cao hơn so với 90Hz của T1 .
 
 Cả hai máy đều được trang bị cảm biến vân tay trong màn hình tốc độ nhanh và nhạy.	Cả hai máy đều được trang bị cảm biến vân tay trong màn hình tốc độ nhanh và nhạy .
-{"label": "DIF", "subject": [], "object": ["1&&C\u1ea3", "2&&hai", "3&&m\u00e1y"], "aspect": ["8&&c\u1ea3m", "9&&bi\u1ebfn", "10&&v\u00e2n", "11&&tay", "12&&trong", "13&&m\u00e0n", "14&&h\u00ecnh"], "predicate": ["4&&\u0111\u1ec1u", "5&&\u0111\u01b0\u1ee3c", "6&&trang", "7&&b\u1ecb"]}
-{"label": "EQL", "subject": [], "object": ["1&&C\u1ea3", "2&&hai", "3&&m\u00e1y"], "aspect": ["8&&c\u1ea3m", "9&&bi\u1ebfn", "10&&v\u00e2n", "11&&tay", "12&&trong", "13&&m\u00e0n", "14&&h\u00ecnh"], "predicate": ["4&&\u0111\u1ec1u", "5&&\u0111\u01b0\u1ee3c", "6&&trang", "7&&b\u1ecb"]}
+{"subject": [], "object": ["1&&Cả", "2&&hai", "3&&máy"], "aspect": ["8&&cảm", "9&&biến", "10&&vân", "11&&tay", "12&&trong", "13&&màn", "14&&hình"], "predicate": ["4&&đều", "5&&được", "6&&trang", "7&&bị"], "label": "EQL"}
 
 Hiệu năng, giải trí và kết nối	Hiệu năng , giải trí và kết nối
 
@@ -91,6 +90,7 @@ Khi sở hữu Galaxy A73, bạn còn có thể tăng thêm dung lượng lưu t
 alt: so-sanh-samsung-galaxy-a53-5g-va-galaxy-a73-5g-2	alt : so-sanh-samsung-galaxy-a53 - 5g-va-galaxy-a73 - 5g - 2
 
 des: Samsung Galaxy A73 5G	des : Samsung Galaxy A73 5G
+{"subject": ["3&&Samsung", "4&&Galaxy", "5&&A73", "6&&5G"], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Về giải trí, hệ thống âm thanh stereo sống động được Samsung tích hợp lên sản phẩm của mình.	Về giải trí , hệ thống âm thanh stereo sống động được Samsung tích hợp lên sản phẩm của mình .
 
@@ -115,7 +115,7 @@ Samsung Galaxy A73 được trang bị viên pin 5000 mAh cao hơn viên pin 470
 Vivo hào phóng trang bị sạc nhanh 66W cho thiết bị của mình, bạn chỉ cần 18 phút để kích viền pin của máy từ 0 lên 50%.	Vivo hào phóng trang bị sạc nhanh 66W cho thiết bị của mình , bạn chỉ cần 18 phút để kích viền pin của máy từ 0 lên 50% .
 
 Còn Samsung lại quá keo kiệt với người dùng khi hãng chỉ trang bị công nghệ sạc nhanh 25W lên sản phẩm của mình.	Còn Samsung lại quá keo kiệt với người dùng khi hãng chỉ trang bị công nghệ sạc nhanh 25W lên sản phẩm của mình .
-{"label": "EQL", "subject": ["2&&Samsung"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["2&&Samsung"], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Một điểm đáng trách nữa, Galaxy A73 không được tặng kèm bất kỳ phụ kiện gì ngoài dây cáp Type-C to C. Ngược lại, khi chọn Vivo T1 5G người dùng sẽ được trang bị "đến tận răng" và không cần lo lặng sắm thêm bất cứ phụ kiện gì nữa.	Một điểm đáng trách nữa , Galaxy A73 không được tặng kèm bất kỳ phụ kiện gì ngoài dây cáp Type-C to C . Ngược lại , khi chọn Vivo T1 5G người dùng sẽ được trang bị " đến tận răng " và không cần lo lặng sắm thêm bất cứ phụ kiện gì nữa .
 
@@ -128,19 +128,19 @@ Cả hai máy đều được bán Chính hãng tại Việt Nam với giá bán
 Điện thoại Samsung Galaxy A73 5G Chính hãng có giá 11,29 triệu đồng với bản 8GB/128GB và 11,99 triệu đồng với bản 8GB/256GB.	Điện thoại Samsung Galaxy A73 5G Chính hãng   có giá 11,29 triệu đồng với bản 8GB / 128GB và 11,99 triệu đồng với bản 8GB / 256GB .
 
 Samsung Galaxy A73 5G Chính hãng có giá bán tham khảo tại MobileCity từ 9,25 triệu đồng cho bản thấp nhất 6GB/128GB.	Samsung Galaxy A73 5G Chính hãng có giá bán tham khảo tại MobileCity từ 9,25 triệu đồng cho bản thấp nhất 6GB / 128GB .
-{"label": "EQL", "subject": ["1&&Samsung", "2&&Galaxy", "3&&A73", "4&&5G", "5&&Ch\u00ednh", "6&&h\u00e3ng"], "object": [], "aspect": [], "predicate": []}
+{"subject": ["1&&Samsung", "2&&Galaxy", "3&&A73", "4&&5G", "5&&Chính", "6&&hãng"], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Lưu ý: giá bán có thể thay đổi theo từng thời điểm khác nhau.	Lưu ý : giá bán có thể thay đổi theo từng thời điểm khác nhau .
-{"label": "COM+", "subject": [], "object": [], "aspect": ["4&&gi\u00e1"], "predicate": ["5&&b\u00e1n", "6&&c\u00f3", "7&&th\u1ec3", "8&&thay", "9&&\u0111\u1ed5i", "10&&theo", "11&&t\u1eebng", "12&&th\u1eddi", "13&&\u0111i\u1ec3m", "14&&kh\u00e1c", "15&&nhau"]}
+{"subject": [], "object": [], "aspect": ["4&&giá"], "predicate": ["5&&bán", "6&&có", "7&&thể", "8&&thay", "9&&đổi", "10&&theo", "11&&từng", "12&&thời", "13&&điểm", "14&&khác", "15&&nhau"], "label": "COM+"}
 
 Ưu và nhược điểm Vivo T1 5G và Samsung Galaxy A73 5G	Ưu và nhược điểm   Vivo T1 5G và Samsung Galaxy A73 5G
-{"label": "EQL", "subject": ["6&&Vivo", "7&&T1", "8&&5G"], "object": ["10&&Samsung", "11&&Galaxy", "12&&A73", "13&&5G"], "aspect": [], "predicate": []}
+{"subject": ["6&&Vivo", "7&&T1", "8&&5G"], "object": ["10&&Samsung", "11&&Galaxy", "12&&A73", "13&&5G"], "aspect": [], "predicate": [], "label": "EQL"}
 
 Khi so về giá bán trên hiệu năng thì Vivo T1 5G có lợi thế hoàn toàn.	Khi so về giá bán trên hiệu năng thì Vivo T1 5G có lợi thế hoàn toàn .
-{"label": "EQL", "subject": ["10&&Vivo", "11&&T1", "12&&5G"], "object": [], "aspect": ["4&&gi\u00e1", "5&&b\u00e1n"], "predicate": ["13&&c\u00f3", "14&&l\u1ee3i", "15&&th\u1ebf", "16&&ho\u00e0n", "17&&to\u00e0n"]}
+{"subject": ["10&&Vivo", "11&&T1", "12&&5G"], "object": [], "aspect": [], "predicate": ["14&&lợi", "15&&thế", "16&&hoàn", "17&&toàn"], "label": "EQL"}
 
 Tuy nhiên, chọn mua một chiếc điện thoại đúng nhu cầu sử dụng ta cần biết thêm các điểm mạnh và điểm của chiếc máy đó với đối thủ của nó.	Tuy nhiên , chọn mua một chiếc điện thoại đúng nhu cầu sử dụng ta cần biết thêm các điểm mạnh và điểm của chiếc máy đó với đối thủ của nó .
-{"label": "EQL", "subject": [], "object": ["29&&\u0111\u1ed1i", "30&&th\u1ee7", "31&&c\u1ee7a", "32&&n\u00f3"], "aspect": [], "predicate": []}
+{"subject": [], "object": ["29&&đối", "30&&thủ", "31&&của", "32&&nó"], "aspect": [], "predicate": [], "label": "EQL"}
 
 Qua bài so sánh trên đây, nhận thấy:Nếu bạn cần một chiếc máy hiệu năng cao giá thành phải chăng, không quan trọng về dạng màn hình đục lỗ hay notch, có đủ phụ kiện và công nghệ sạc nhanh siêu tốc 66W thì Vivo T1 5G là lựa chọn tốt nhất trong khoảng giá dưới 8 triệu Chính hãng.	Qua bài so sánh trên đây , nhận thấy : Nếu bạn cần một chiếc máy hiệu năng cao giá thành phải chăng , không quan trọng về dạng màn hình đục lỗ hay notch , có đủ phụ kiện và công nghệ sạc nhanh siêu tốc 66W thì Vivo T1 5G là lựa chọn tốt nhất trong khoảng giá dưới 8 triệu Chính hãng .
 

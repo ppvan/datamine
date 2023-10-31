@@ -3,14 +3,13 @@ title: So sánh Samsung Galaxy S23 và Apple iPhone 13: Nên mua điện thoại
 Ở thời điểm hiện tại, mặc dù Samsung vẫn chưa chính thức ra mắt Galaxy S23 nhưng nhờ các tin đồn và rò rỉ xuất hiện thời gian qua, chúng ta đã có khá đầy đủ thông tin về flagship này.	Ở thời điểm hiện tại , mặc dù Samsung vẫn chưa chính thức ra mắt Galaxy S23 nhưng nhờ các tin đồn và rò rỉ xuất hiện thời gian qua , chúng ta đã có khá đầy đủ thông tin về flagship này .
 
 Dựa trên điều đó, chúng ta có thể so sánh Galaxy S23 với iPhone 13 để giúp người dùng có được những hình dung ban đầu về hai điện thoại này, từ đó quyết định sẽ mua model nào khi Samsung giới thiệu thế hệ Galaxy S mới của mình vào đầu năm tới.	Dựa trên điều đó , chúng ta có thể so sánh Galaxy S23 với iPhone 13 để giúp người dùng có được những hình dung ban đầu về hai điện thoại này , từ đó quyết định sẽ mua model nào khi Samsung giới thiệu thế hệ Galaxy S mới của mình vào đầu năm tới .
-{"label": "COM+", "subject": ["12&&Galaxy", "13&&S23"], "object": ["15&&iPhone", "16&&13"], "aspect": [], "predicate": []}
+{"subject": ["12&&Galaxy", "13&&S23"], "object": ["15&&iPhone", "16&&13"], "aspect": [], "predicate": [], "label": "COM+"}
 
 Thiết kế	Thiết kế
 
 Trên iPhone 13, Apple đã mang đến một cải tiến nhỏ về thiết kế mặt trước khi phần notch xuất hiện với kích thước nhỏ gọn hơn một chút so với thế hệ trước.	Trên iPhone 13 , Apple đã mang đến một cải tiến nhỏ về thiết kế mặt trước khi phần notch xuất hiện với kích thước nhỏ gọn hơn một chút so với thế hệ trước .
 
 Dù vậy, phần khuyết đỉnh này vẫn lớn hơn khá nhiều so với màn hình đục lỗ của Galaxy S23.	Dù vậy , phần khuyết đỉnh này vẫn lớn hơn khá nhiều so với màn hình đục lỗ của Galaxy S23 .
-{"label": "COM+", "subject": [], "object": ["20&&Galaxy", "21&&S23"], "aspect": [], "predicate": ["9&&l\u1edbn", "10&&h\u01a1n", "11&&kh\u00e1", "12&&nhi\u1ec1u"]}
 
 alt: So sánh Samsung Galaxy S23 và Apple iPhone 13: Nên mua điện thoại nào?	alt : So sánh Samsung Galaxy S23 và Apple iPhone 13 : Nên mua điện thoại nào ?
 
@@ -19,7 +18,6 @@ des: iPhone 13	des : iPhone 13
 Cả hai điện thoại này đều sở hữu khung viền nhôm được vát phẳng và mặt lưng kính bóng bẩy phía sau.	Cả hai điện thoại này đều sở hữu khung viền nhôm được vát phẳng và mặt lưng kính bóng bẩy phía sau .
 
 Chính vì vậy, mà xét về tính thẩm mỹ thì Galaxy S23 đã làm tốt hơn.	Chính vì vậy , mà xét về tính thẩm mỹ thì Galaxy S23 đã làm tốt hơn .
-{"label": "SUP+", "subject": ["12&&Galaxy", "13&&S23"], "object": [], "aspect": [], "predicate": ["15&&l\u00e0m", "16&&t\u1ed1t", "17&&h\u01a1n"]}
 
 Chưa hết, hệ thống camera trên mẫu flagship sắp tới của Samsung được cho là không còn khung viền bao quanh nên trông liền lạc và đẹp mắt hơn so với mô-đun máy ảnh hình vuông của	Chưa hết , hệ thống camera trên mẫu flagship sắp tới của Samsung được cho là không còn khung viền bao quanh nên trông liền lạc và đẹp mắt hơn so với mô-đun máy ảnh hình vuông của
 
@@ -28,7 +26,7 @@ alt: So sánh Samsung Galaxy S23 và Apple iPhone 13: Nên mua điện thoại n
 des: Ảnh render Samsung Galaxy S23	des : Ảnh render Samsung Galaxy S23
 
 Dù vậy, di động Apple có chất lượng hoàn thiện tốt hơn khi máy có thể “lặn” ở độ sâu lên tới 6 mét dưới nước trong tối đa 30 phút, trong khi Samsung S23 dự kiến chỉ sống sót ở độ sâu 1.5 mét trong cùng khoảng thời gian.	Dù vậy , di động Apple có chất lượng hoàn thiện tốt hơn khi máy có thể “ lặn ” ở độ sâu lên tới 6 mét dưới nước trong tối đa 30 phút , trong khi Samsung S23 dự kiến chỉ sống sót ở độ sâu 1.5 mét trong cùng khoảng thời gian .
-{"label": "COM+", "subject": ["4&&di", "5&&\u0111\u1ed9ng", "6&&Apple", "15&&m\u00e1y", "38&&Samsung", "39&&S23"], "object": [], "aspect": ["8&&ch\u1ea5t", "9&&l\u01b0\u1ee3ng", "10&&ho\u00e0n", "11&&thi\u1ec7n"], "predicate": ["12&&t\u1ed1t", "13&&h\u01a1n"]}
+{"subject": ["4&&di", "5&&động", "6&&Apple", "38&&Samsung", "39&&S23"], "object": [], "aspect": ["8&&chất", "9&&lượng", "10&&hoàn", "11&&thiện", "46&&độ", "47&&sâu", "48&&1.5"], "predicate": ["12&&tốt", "13&&hơn", "15&&máy", "16&&có", "17&&thể", "49&&mét", "50&&trong", "51&&cùng", "52&&khoảng", "53&&thời", "54&&gian"], "label": "COM+"}
 
 Màn hình	Màn hình
 
@@ -39,20 +37,21 @@ Trong khi đó, Galaxy S23 cũng được đồn đại sẽ ra mắt với màn
 alt: So sánh Samsung Galaxy S23 và Apple iPhone 13: Nên mua điện thoại nào?	alt : So sánh Samsung Galaxy S23 và Apple iPhone 13 : Nên mua điện thoại nào ?
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Tuy nhiên, so với đối thủ đến từ Apple thì Galaxy S23 có một lợi thế lớn là hỗ trợ tần số quét thích ứng 120Hz.	Tuy nhiên , so với đối thủ đến từ Apple thì Galaxy S23 có một lợi thế lớn là hỗ trợ tần số quét thích ứng 120Hz .
 
 Do đó, chiếc flagship tiếp theo của Samsung hứa hẹn sẽ mang đến trải nghiệm xem mượt mà hơn, đặc biệt là khi người dùng xem video hay chơi game.	Do đó , chiếc flagship tiếp theo của Samsung hứa hẹn sẽ mang đến trải nghiệm xem mượt mà hơn , đặc biệt là khi người dùng xem video hay chơi game .
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": ["9&&Samsung"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Hiệu năng	Hiệu năng
+{"subject": [], "object": [], "aspect": ["1&&Hiệu", "2&&năng"], "predicate": [], "label": "COM+"}
 
 alt: Trên tay iPhone 13 bản mẫu 3	alt : Trên tay iPhone 13 bản mẫu 3
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Đây là yếu tố được rất nhiều người quan tâm khi so sánh Galaxy S23 và iPhone 13.	Đây là yếu tố được rất nhiều người quan tâm khi so sánh Galaxy S23 và iPhone 13 .
 
@@ -73,14 +72,13 @@ Camera	Camera
 alt: Galaxy S23 (ảnh 3)	alt : Galaxy S23 ( ảnh 3 )
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Về khả năng nhiếp ảnh, Apple đã trang bị cho chiếc iPhone 13 của mình hệ thống camera kép 12MP ở mặt sau tương tự như thế hệ trước, nhưng cảm biến chính có kích thước lớn hơn giúp cải thiện chất lượng ảnh thiếu sáng.	Về khả năng nhiếp ảnh , Apple đã trang bị cho chiếc iPhone 13 của mình hệ thống camera kép 12MP ở mặt sau tương tự như thế hệ trước , nhưng cảm biến chính có kích thước lớn hơn giúp cải thiện chất lượng ảnh thiếu sáng .
 
 Ở bên kia chiến tuyến, Samsung được đồn đại mang đến một số cải tiến về khả năng chụp ảnh cho chiếc flagship Galaxy S23 tiếp theo của mình.	Ở bên kia chiến tuyến , Samsung được đồn đại mang đến một số cải tiến về khả năng chụp ảnh cho chiếc flagship Galaxy S23 tiếp theo của mình .
 
 Điện thoại này được đồn sẽ có camera chính 50MP với khẩu độ f/1.8, hứa hẹn mang đến những bức ảnh chất lượng cao cho người dùng trong hầu hết các điều kiện ánh sáng.	Điện thoại này được đồn sẽ có camera chính 50MP với khẩu độ f / 1.8 , hứa hẹn mang đến những bức ảnh chất lượng cao cho người dùng trong hầu hết các điều kiện ánh sáng .
-{"label": "DIF", "subject": ["1&&\u0110i\u1ec7n", "2&&tho\u1ea1i", "3&&n\u00e0y"], "object": [], "aspect": ["34&&c\u00e1c", "35&&\u0111i\u1ec1u", "36&&ki\u1ec7n", "37&&\u00e1nh", "38&&s\u00e1ng"], "predicate": []}
 
 Ngoài ra, mẫu flagship thế hệ mới của Samsung còn sở hữu máy ảnh góc siêu rộng 12MP và camera tele 10MP với hỗ trợ zoom quang học 2x.	Ngoài ra , mẫu flagship thế hệ mới của Samsung còn sở hữu máy ảnh góc siêu rộng 12MP và camera tele 10MP với hỗ trợ zoom quang học 2x .
 
@@ -93,7 +91,7 @@ Thời lượng pin	Thời lượng pin
 alt: Trên tay iPhone 13 bản mẫu 2	alt : Trên tay iPhone 13 bản mẫu 2
 
 des:	des :
-{"label": "COM+", "subject": [], "object": [], "aspect": [], "predicate": []}
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Nhiều nguồn tin trước đó cho biết, Samsung sẽ nâng cấp dung lượng pin của Galaxy S23 lên mức 3,900 mAh.	Nhiều nguồn tin trước đó cho biết , Samsung sẽ nâng cấp dung lượng pin của Galaxy S23 lên mức 3,900 mAh .
 

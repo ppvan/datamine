@@ -3,10 +3,13 @@ from typing import Dict, List, Literal
 import json
 
 
-Tag = Literal[
-    "B-Sub", "I-Sub", "B-Obj", "I-Obj", "B-Asp", "I-Asp", "B-Pre", "I-Pre", "O"
-]
-LabelClass = Literal["No", "DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"]
+Tag = (
+    Literal["B-Sub", "I-Sub", "B-Obj", "I-Obj", "B-Asp", "I-Asp", "B-Pre", "I-Pre", "O"]
+    | str
+)
+LabelClass = (
+    Literal["No", "DIF", "EQL", "SUP+", "SUP-", "SUP", "COM+", "COM-", "COM"] | str
+)
 
 
 @dataclass
