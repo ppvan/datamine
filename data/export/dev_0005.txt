@@ -5,19 +5,20 @@ Tuy phải tới giữa tháng 1 năm sau, dòng Galaxy S21 của Samsung mới 
 Chưa ra mắt nhưng Galaxy S21+ đã lộ video trên tay và đánh giá	Chưa ra mắt nhưng Galaxy S21 + đã lộ video trên tay và đánh giá
 
 Vậy là sau một loạt hình ảnh render và thông số kỹ thuật, mới đây, một video đánh giá sơ bộ Galaxy S21+ đã được đăng tải bởi kênh YouTube Random Stuff 2.	Vậy là sau một loạt hình ảnh render và thông số kỹ thuật , mới đây , một video đánh giá sơ bộ Galaxy S21 + đã được đăng tải bởi kênh YouTube Random Stuff 2 .
-{"subject": [], "object": ["35&&Stuff", "36&&2"], "aspect": [], "predicate": [], "label": "COM+"}
 
 Qua đó, kênh YouTune này hiện tại đã có trong tay một bản mẫu thử nghiệm của Galaxy S21+, và anh chàng review của Random Stuff 2 đã chia sẻ một số cảm nhận của bản thân sau một thời gian sử dụng chiếc máy.	Qua đó , kênh YouTune này hiện tại đã có trong tay một bản mẫu thử nghiệm của Galaxy S21 + , và anh chàng review của Random Stuff 2 đã chia sẻ một số cảm nhận của bản thân sau một thời gian sử dụng chiếc máy .
 
 Đầu tiên là về mặt thiết kế, cụm camera ở mặt lưng Galaxy S21+ chính là sự thay đổi lớn nhất.	Đầu tiên là về mặt thiết kế , cụm camera ở mặt lưng Galaxy S21 + chính là sự thay đổi lớn nhất .
 
 Cũng như đa số smartphone cao cấp hiện nay, camera của Galaxy S21+ sẽ lồi lên đôi chút, nhưng camera của máy sẽ được nối tiếp, liền mạch với phần mặt trước của máy, tạo cảm giác ít bị lồi hơn.	Cũng như đa số smartphone cao cấp hiện nay , camera của Galaxy S21 + sẽ lồi lên đôi chút , nhưng camera của máy sẽ được nối tiếp , liền mạch với phần mặt trước của máy , tạo cảm giác ít bị lồi hơn .
+{"subject": ["13&&Galaxy", "14&&S21", "23&&camera", "24&&của", "25&&máy"], "object": ["34&&phần", "35&&mặt", "36&&trước", "37&&của", "38&&máy"], "aspect": [], "predicate": [], "label": "COM+"}
 
 Không chỉ mang tới sự độc đáo, lạ mắt mà thiết kế này chắc chắn sẽ giúp cho việc bảo vệ các ống kính tốt hơn.	Không chỉ mang tới sự độc đáo , lạ mắt mà thiết kế này chắc chắn sẽ giúp cho việc bảo vệ các ống kính tốt hơn .
 
 alt:	alt :
 
 des: Cụm camera của dòng Galaxy S21 nói chung sẽ được nối liền với mặt trước của máy, tạo cảm giác liền mạch và ít bị lồi hơn	des : Cụm camera của dòng Galaxy S21 nói chung sẽ được nối liền với mặt trước của máy , tạo cảm giác liền mạch và ít bị lồi hơn
+{"subject": [], "object": [], "aspect": [], "predicate": ["27&&ít", "28&&bị", "29&&lồi", "30&&hơn"], "label": "COM+"}
 
 Random Stuff 2 còn chia sẻ thêm rằng Galaxy S21+ mang lại một cảm giác cầm nắm là cực kì cao cấp, thế nhưng sau đó anh chàng này lại nói thêm rằng anh không thật sự thích mặt lưng kính bóng của máy.	Random Stuff 2 còn chia sẻ thêm rằng Galaxy S21 + mang lại một cảm giác cầm nắm là cực kì cao cấp , thế nhưng sau đó anh chàng này lại nói thêm rằng anh không thật sự thích mặt lưng kính bóng của máy .
 
@@ -26,34 +27,33 @@ Màn hình của Galaxy S21+ có thiết kế “đục lỗ” theo dạng Infi
 Phần viền benzel màn hình của máy rất mỏng, tạo cho người dùng trải nghiệm toàn màn hình.	Phần viền benzel màn hình của máy rất mỏng , tạo cho người dùng trải nghiệm toàn màn hình .
 
 Galaxy S21+ tiếp tục được trang bị cảm biến vân tay siêu âm, những có vẻ đã được Samsung tùy chỉnh lại và nâng cấp hơn, cho tốc độ mở khoá màn hình nhanh hơn thế hệ Galaxy S20.	Galaxy S21 + tiếp tục được trang bị cảm biến vân tay siêu âm , những có vẻ đã được Samsung tùy chỉnh lại và nâng cấp hơn , cho tốc độ mở khoá màn hình nhanh hơn thế hệ Galaxy S20 .
+{"subject": ["1&&Galaxy", "2&&S21"], "object": ["39&&thế", "40&&hệ", "41&&Galaxy", "42&&S20"], "aspect": ["31&&tốc", "32&&độ", "33&&mở", "34&&khoá", "35&&màn", "36&&hình"], "predicate": ["26&&nâng", "27&&cấp", "28&&hơn", "37&&nhanh", "38&&hơn"], "label": "COM+"}
 
 alt: danh-gia-galaxy-s21-4	alt : danh-gia-galaxy-s21 - 4
 
 des: Máy vẫn có màn hình đục lỗ quen thuộc, nhưng vân tay siêu âm dường như đã nhanh hơn trước	des : Máy vẫn có màn hình đục lỗ quen thuộc , nhưng vân tay siêu âm dường như đã nhanh hơn trước
+{"subject": ["3&&Máy"], "object": [], "aspect": [], "predicate": ["21&&nhanh", "22&&hơn", "23&&trước"], "label": "COM+"}
 
 Về cấu hình của máy, Galaxy S21+ được trang bị con chip Snapdragon 888 mới nhất kết hợp cùng với thanh RAM 8GB, và Random Stuff 2 cho hay anh không gặp bất cứ vấn đề nào nghiêm trọng hiệu năng trong quá trình sử dụng.	Về cấu hình của máy , Galaxy S21 + được trang bị con chip Snapdragon 888 mới nhất kết hợp cùng với thanh RAM 8GB , và Random Stuff 2 cho hay anh không gặp bất cứ vấn đề nào nghiêm trọng hiệu năng trong quá trình sử dụng .
 
 Dù vậy, tại nhiều thị trường khác (trong đó bao gồm Việt Nam), Galaxy S21+ sẽ sử dụng chip Exynos, mà nhiều khả năng sẽ là Exynos 2100 mới nhất sẽ được Samsung công bố trong buổi lễ ra mắt Galaxy S21 Series dự kiến sẽ được diễn ra vào ngày 14/1/2021.	Dù vậy , tại nhiều thị trường khác ( trong đó bao gồm Việt Nam ) , Galaxy S21 + sẽ sử dụng chip Exynos , mà nhiều khả năng sẽ là Exynos 2100 mới nhất sẽ được Samsung công bố trong buổi lễ ra mắt Galaxy S21 Series dự kiến sẽ được diễn ra vào ngày 14 / 1 / 2021 .
-{"subject": ["18&&Galaxy", "19&&S21", "33&&Exynos", "34&&2100", "35&&mới", "36&&nhất"], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 alt: danh-gia-galaxy-s21-5	alt : danh-gia-galaxy-s21 - 5
 
 des:	des :
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Galaxy S21+ được trang bị cụm 3 camera gồm camera chính gồm camera góc thường, góc siêu rộng và camera zoom 3X.	Galaxy S21 + được trang bị cụm 3 camera gồm camera chính gồm camera góc thường , góc siêu rộng và camera zoom 3X .
 
 Random Stuff 2 đã đăng tải một số hình ảnh được chụp bằng Galaxy S21+ và so sánh với iPhone 12 Pro Max.	Random Stuff 2 đã đăng tải một số hình ảnh được chụp bằng Galaxy S21 + và so sánh với iPhone 12 Pro Max .
 
 Những hình ảnh chưa cho thấy thế mạnh về camera của Galaxy S21+, tuy nhiên do đây chỉ là phiên bản thử nghiệm, vậy nên người dùng hoàn toàn có thể trông đợi kết quả tốt hơn ở phiên bản chính thức.	Những hình ảnh chưa cho thấy thế mạnh về camera của Galaxy S21 + , tuy nhiên do đây chỉ là phiên bản thử nghiệm , vậy nên người dùng hoàn toàn có thể trông đợi kết quả tốt hơn ở phiên bản chính thức .
+{"subject": ["12&&Galaxy", "13&&S21"], "object": [], "aspect": ["1&&Những", "2&&hình", "3&&ảnh"], "predicate": ["4&&chưa", "5&&cho", "6&&thấy", "7&&thế", "8&&mạnh"], "label": "COM+"}
 
 alt: danh-gia-galaxy-s21-6	alt : danh-gia-galaxy-s21 - 6
 
 des:	des :
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Thời lượng pin là một yếu tố được Random Stuff 2 đánh giá rất cao.	Thời lượng pin là một yếu tố được Random Stuff 2 đánh giá rất cao .
-{"subject": [], "object": [], "aspect": ["1&&Thời", "2&&lượng", "3&&pin"], "predicate": [], "label": "COM+"}
 
 Anh này cho biết Galaxy S21+ có thể dễ dàng “trụ” 1 ngày, và chiếc smartphone cuối cùng cho anh trải nghiệm pin tốt đến vậy là Huawei Mate 20 Pro.	Anh này cho biết Galaxy S21 + có thể dễ dàng “ trụ ” 1 ngày , và chiếc smartphone cuối cùng cho anh trải nghiệm pin tốt đến vậy là Huawei Mate 20 Pro .
 

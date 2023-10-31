@@ -17,16 +17,15 @@ Thiết kế	Thiết kế
 alt: Samsung Galaxy Z Fold 2 vs Samsung Galaxy Z Flip: a battle of Samsung foldables	alt : Samsung Galaxy Z Fold 2 vs Samsung Galaxy Z Flip : a battle of Samsung foldables
 
 des:	des :
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Thật khó để so sánh chiếc điện thoại nào có thiết kế đẹp hơn.	Thật khó để so sánh chiếc điện thoại nào có thiết kế đẹp hơn .
 
 Điều này phụ thuộc nhiều vào ý kiến chủ quan của mỗi người.	Điều này phụ thuộc nhiều vào ý kiến chủ quan của mỗi người .
 
 Cả hai chiếc máy đều được làm từ kính sang trọng, khung viền kim loại sáng bóng đem lại sự cao cấp đáng có.	Cả hai chiếc máy đều được làm từ kính sang trọng , khung viền kim loại sáng bóng đem lại sự cao cấp đáng có .
+{"subject": [], "object": ["1&&Cả", "2&&hai", "3&&chiếc", "4&&máy"], "aspect": ["14&&viền", "15&&kim", "16&&loại", "17&&sáng", "18&&bóng", "19&&đem"], "predicate": ["5&&đều", "6&&được", "7&&làm", "8&&từ", "9&&kính", "10&&sang", "11&&trọng", "24&&đáng", "25&&có"], "label": "EQL"}
 
 Những siêu phẩm gập của Samsung đều là những ý tưởng đầy sáng tạo, cùng thu hút ánh nhìn của mọi người bằng kiểu dáng thời trang.	Những siêu phẩm gập của Samsung đều là những ý tưởng đầy sáng tạo , cùng thu hút ánh nhìn của mọi người bằng kiểu dáng thời trang .
-{"subject": ["6&&Samsung"], "object": [], "aspect": ["1&&Những", "2&&siêu", "3&&phẩm", "4&&gập"], "predicate": [], "label": "EQL"}
 
 Z Flip sở hữu mặt lưng kính màu tím sáng bóng với hiệu ứng quang học cuốn hút.	Z Flip sở hữu mặt lưng kính màu tím sáng bóng với hiệu ứng quang học cuốn hút .
 
@@ -45,7 +44,6 @@ Màn hình	Màn hình
 alt: Samsung Galaxy Z Fold 2 vs Samsung Galaxy Z Flip: a battle of Samsung foldables	alt : Samsung Galaxy Z Fold 2 vs Samsung Galaxy Z Flip : a battle of Samsung foldables
 
 des:	des :
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Nhìn vào thông số, có vẻ chiếc điện thoại đi sau đang giữ ưu thế về mặt hiển thị.	Nhìn vào thông số , có vẻ chiếc điện thoại đi sau đang giữ ưu thế về mặt hiển thị .
 
@@ -62,6 +60,7 @@ Bạn có thể sử dụng màn hình này với mọi tác vụ hoàn toàn b�
 Trong khi đó, Z Flip sở hữu màn hình 6,7 inch, cùng công nghệ AMOLED với độ phân giải Full HD+ 2626 x 1080.	Trong khi đó , Z Flip sở hữu màn hình 6,7 inch , cùng công nghệ AMOLED với độ phân giải Full HD + 2626 x 1080 .
 
 Về lý thuyết Z Flip có mật độ điểm ảnh cao hơn, 425ppi so với 372ppi trên Z Fold 2. tuy nhiên đây không phải điều sẽ đem lại sự khác biệt quá lớn.	Về lý thuyết Z Flip có mật độ điểm ảnh cao hơn , 425ppi so với 372ppi trên Z Fold 2 . tuy nhiên đây không phải điều sẽ đem lại sự khác biệt quá lớn .
+{"subject": ["4&&Z", "5&&Flip"], "object": ["19&&Z", "20&&Fold", "21&&2"], "aspect": [], "predicate": [], "label": "COM+"}
 
 Màn hình phụ của Z Flip chỉ là một ô nhỏ bên cạnh camera, chỉ có tác dụng đọc một vài thông báo và dùng camera sau để selfie, chứ không đem lại tính tiện dụng như màn hình lớn của Z Fold 2.	Màn hình phụ của Z Flip chỉ là một ô nhỏ bên cạnh camera , chỉ có tác dụng đọc một vài thông báo và dùng camera sau để selfie , chứ không đem lại tính tiện dụng như màn hình lớn của Z Fold 2 .
 
@@ -70,39 +69,35 @@ Cơ chế gập	Cơ chế gập
 alt: Samsung Galaxy Z Fold 2 vs Samsung Galaxy Z Flip: a battle of Samsung foldables	alt : Samsung Galaxy Z Fold 2 vs Samsung Galaxy Z Flip : a battle of Samsung foldables
 
 des:	des :
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Hai chiếc điện thoại này khác hẳn nhau về cách gập.	Hai chiếc điện thoại này khác hẳn nhau về cách gập .
-{"subject": [], "object": ["1&&Hai", "2&&chiếc", "3&&điện", "4&&thoại", "5&&này"], "aspect": [], "predicate": ["6&&khác", "7&&hẳn", "8&&nhau"], "label": "COM+"}
+{"subject": [], "object": ["1&&Hai", "2&&chiếc", "3&&điện", "4&&thoại", "5&&này"], "aspect": [], "predicate": ["6&&khác", "7&&hẳn", "8&&nhau"], "label": "EQL"}
 
 Chiếc Galaxy Z Flip sở hữu cơ chế gập vỏ sò, trong khi Z Fold 2 thừa kế cách mở cánh bướm từ người tiền nhiệm năm ngoái, khiến nó trông giống như một cuốn sách.	Chiếc Galaxy Z Flip sở hữu cơ chế gập vỏ sò , trong khi Z Fold 2 thừa kế cách mở cánh bướm từ người tiền nhiệm năm ngoái , khiến nó trông giống như một cuốn sách .
-{"subject": ["1&&Chiếc", "2&&Galaxy", "3&&Z", "4&&Flip", "15&&Z", "16&&Fold", "17&&2", "32&&nó"], "object": ["36&&một", "37&&cuốn", "38&&sách"], "aspect": [], "predicate": ["33&&trông", "34&&giống", "35&&như"], "label": "COM+"}
 
 Khi được gập lại, chiếc Galaxy Z Flip trở thành một khối vuông nằm gọn trong lòng bàn tay.	Khi được gập lại , chiếc Galaxy Z Flip trở thành một khối vuông nằm gọn trong lòng bàn tay .
 
 Tuy nhiên, với cách gập của Z Fold 2, chiếc điện thoại này không thể làm được điều tương tự.	Tuy nhiên , với cách gập của Z Fold 2 , chiếc điện thoại này không thể làm được điều tương tự .
-{"subject": ["12&&chiếc", "13&&điện", "14&&thoại", "15&&này"], "object": ["5&&cách", "6&&gập", "7&&của", "8&&Z", "9&&Fold", "10&&2"], "aspect": [], "predicate": ["16&&không", "17&&thể", "18&&làm", "19&&được", "20&&điều", "21&&tương", "22&&tự"], "label": "COM+"}
 
 Có một điều không tránh khỏi là vết hằn trên màn hình.	Có một điều không tránh khỏi là vết hằn trên màn hình .
 
 Mặc dù được làm từ vật liệu Ultra Thin Glass, bạn vẫn sẽ thấy vết gập ở giữa màn hình.	Mặc dù được làm từ vật liệu Ultra Thin Glass , bạn vẫn sẽ thấy vết gập ở giữa màn hình .
 
 Nhưng thú thực là bạn sẽ sớm quen với nó thôi.	Nhưng thú thực là bạn sẽ sớm quen với nó thôi .
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Camera	Camera
 
 alt: Samsung Galaxy Z Fold 2 vs Samsung Galaxy Z Flip: a battle of Samsung foldables	alt : Samsung Galaxy Z Fold 2 vs Samsung Galaxy Z Flip : a battle of Samsung foldables
 
 des:	des :
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Về thông số, hai chiếc điện thoại này chia sẻ camera chính và camera góc siêu rộng độ phân giải 12MP.	Về thông số , hai chiếc điện thoại này chia sẻ camera chính và camera góc siêu rộng độ phân giải 12MP .
 
 Camera chính đều có chống rung quang học OIS và lấy nét theo pha PDAF.	Camera chính đều có chống rung quang học OIS và lấy nét theo pha PDAF .
+{"subject": [], "object": [], "aspect": ["1&&Camera", "2&&chính"], "predicate": ["3&&đều", "4&&có", "5&&chống", "6&&rung", "7&&quang", "8&&học", "9&&OIS"], "label": "EQL"}
 
 Cả hai máy đều có thể quay video 4K.	Cả hai máy đều có thể quay video 4K .
-{"subject": [], "object": ["1&&Cả", "2&&hai", "3&&máy"], "aspect": [], "predicate": ["4&&đều", "5&&có", "6&&thể", "7&&quay", "8&&video", "9&&4K"], "label": "COM+"}
+{"subject": [], "object": ["1&&Cả", "2&&hai", "3&&máy"], "aspect": [], "predicate": ["4&&đều", "5&&có", "6&&thể", "7&&quay", "8&&video", "9&&4K"], "label": "EQL"}
 
 Camera trước cũng có độ phân giải tương đương là 10MP, được đặt trong một lỗ nhỏ trên màn hình	Camera trước cũng có độ phân giải tương đương là 10MP , được đặt trong một lỗ nhỏ trên màn hình
 
@@ -115,75 +110,72 @@ Có lẽ chất lượng camera của Samsung không còn là điều đáng ngh
 Có thể những chiếc điện thoại gập không có được độ phân giải siêu khủng 108MP, nhưng điều đó không cản trở bạn chụp những bức ảnh đẹp từ chiếc máy này.	Có thể những chiếc điện thoại gập không có được độ phân giải siêu khủng 108MP , nhưng điều đó không cản trở bạn chụp những bức ảnh đẹp từ chiếc máy này .
 
 Hiệu năng	Hiệu năng
-{"subject": [], "object": [], "aspect": ["1&&Hiệu", "2&&năng"], "predicate": [], "label": "COM+"}
 
 Chiến thắng trong cuộc đua cấu hình chắc chắn sẽ nghiêng về phía Galaxy Z Fold 2 với sức mạnh của chip Snapdragon 865+.	Chiến thắng trong cuộc đua cấu hình chắc chắn sẽ nghiêng về phía Galaxy Z Fold 2 với sức mạnh của chip Snapdragon 865 + .
 
 “Sức khoẻ” vượt trội hơn sẽ giúp chiếc máy này “cân” được tấm nền lớn và tần số làm tươi lớn.	“ Sức khoẻ ” vượt trội hơn sẽ giúp chiếc máy này “ cân ” được tấm nền lớn và tần số làm tươi lớn .
+{"subject": ["10&&chiếc", "11&&máy", "12&&này"], "object": [], "aspect": ["21&&tần", "22&&số", "23&&làm", "24&&tươi", "25&&lớn"], "predicate": ["5&&vượt", "6&&trội", "7&&hơn"], "label": "COM+"}
 
 Trong khi Z Flip mang trên mình SoC Snapdragon 855+ ra mắt năm ngoái.	Trong khi Z Flip mang trên mình SoC Snapdragon 855 + ra mắt năm ngoái .
 
 Tuy nhiên, điều này không cản trở Z Flip thực hiện mọi tác vụ hoàn toàn mượt mà.	Tuy nhiên , điều này không cản trở Z Flip thực hiện mọi tác vụ hoàn toàn mượt mà .
 
 Chiếc Z Fold 2 cũng đã được nâng cấp lên 12GB RAM (so với 8GB của Z Flip) cho người dùng trải nghiệm đa nhiệm đáng tin cậy hơn.	Chiếc Z Fold 2 cũng đã được nâng cấp lên 12GB RAM ( so với 8GB của Z Flip ) cho người dùng trải nghiệm đa nhiệm đáng tin cậy hơn .
+{"subject": ["1&&Chiếc", "2&&Z", "3&&Fold", "4&&2"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Đừng quên rằng Galaxy Z Fold 2 còn hỗ trợ băng tần 5G.	Đừng quên rằng Galaxy Z Fold 2 còn hỗ trợ băng tần 5G .
-{"subject": ["4&&Galaxy", "5&&Z", "6&&Fold", "7&&2"], "object": [], "aspect": ["9&&hỗ", "10&&trợ", "11&&băng", "12&&tần", "13&&5G"], "predicate": [], "label": "EQL"}
 
 Mặc dù chưa thể sử dụng ở Việt Nam, nhưng đây chắc chắn là bước đà tuyệt vời để chuẩn bị cho tương lai sắp tới.	Mặc dù chưa thể sử dụng ở Việt Nam , nhưng đây chắc chắn là bước đà tuyệt vời để chuẩn bị cho tương lai sắp tới .
 
 Phần mềm	Phần mềm
-{"subject": [], "object": [], "aspect": ["1&&Phần", "2&&mềm"], "predicate": [], "label": "SUP+"}
 
 Cả hai thiết bị này đang chạy trên Android 10 với giao diện One UI đặc trưng của Samsung.	Cả hai thiết bị này đang chạy trên Android 10 với giao diện One UI đặc trưng của Samsung .
+{"subject": ["19&&Samsung"], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Z Fold 2 sẽ có ngay One UI 2.5 mới nhất khi vừa bóc hộp, tuy nhiên bản cập nhật với giao diện mới sẽ sớm đực đưa đến Z Flip trong thời gian tới.	Z Fold 2 sẽ có ngay One UI 2.5 mới nhất khi vừa bóc hộp , tuy nhiên bản cập nhật với giao diện mới sẽ sớm đực đưa đến Z Flip trong thời gian tới .
 
 Lợi thế của cả hai chiếc smartphone gập này là tính năng Flex Mode.	Lợi thế của cả hai chiếc smartphone gập này là tính năng Flex Mode .
+{"subject": [], "object": ["4&&cả", "5&&hai", "6&&chiếc", "7&&smartphone", "8&&gập", "9&&này"], "aspect": [], "predicate": [], "label": "EQL"}
 
 Khi được gập nửa chừng, giao diện một số ứng dụng như camera sẽ được chia thành hai nửa, với màn hình xem hoặc preview ở một nửa và các phím chức năng ở nửa còn lại.	Khi được gập nửa chừng , giao diện một số ứng dụng như camera sẽ được chia thành hai nửa , với màn hình xem hoặc preview ở một nửa và các phím chức năng ở nửa còn lại .
 
 Pin	Pin
-{"subject": [], "object": [], "aspect": ["1&&Pin"], "predicate": [], "label": "SUP+"}
 
 Chiếc Galaxy Z Fold 2 có viên pin lớn hơn hẳn với dung lượng 4500mAh.	Chiếc Galaxy Z Fold 2 có viên pin lớn hơn hẳn với dung lượng 4500mAh .
-{"subject": ["1&&Chiếc", "2&&Galaxy", "3&&Z", "4&&Fold", "5&&2"], "object": [], "aspect": [], "predicate": [], "label": "COM"}
+{"subject": ["1&&Chiếc", "2&&Galaxy", "3&&Z", "4&&Fold", "5&&2"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Tuy nhiên viên pin này phải “gánh” màn hình lớn hơn với tần số quét 120Hz.	Tuy nhiên viên pin này phải “ gánh ” màn hình lớn hơn với tần số quét 120Hz .
+{"subject": [], "object": [], "aspect": ["3&&viên", "4&&pin", "10&&màn", "11&&hình"], "predicate": ["12&&lớn", "13&&hơn"], "label": "COM+"}
 
 Z Flip có viên pin chỉ 3300mAh.	Z Flip có viên pin chỉ 3300mAh .
 
 Thật không may, trong các bài test, Z Fold 2 có vẻ mang tới thời lượng pin kém hơn Z Flip một chút.	Thật không may , trong các bài test , Z Fold 2 có vẻ mang tới thời lượng pin kém hơn Z Flip một chút .
-{"subject": ["10&&Z", "11&&Fold", "12&&2"], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
+{"subject": ["10&&Z", "11&&Fold", "12&&2"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Người dùng sẽ có thêm 2 tiếng sử dụng thông thường với chiếc Z Flip nhờ lợi thế của một màn hình nhỏ hơn.	Người dùng sẽ có thêm 2 tiếng sử dụng thông thường với chiếc Z Flip nhờ lợi thế của một màn hình nhỏ hơn .
+{"subject": [], "object": ["13&&chiếc", "14&&Z", "15&&Flip"], "aspect": [], "predicate": [], "label": "COM+"}
 
 Mức giá	Mức giá
 
 alt: Samsung Galaxy Z Fold 2 vs Samsung Galaxy Z Flip: a battle of Samsung foldables	alt : Samsung Galaxy Z Fold 2 vs Samsung Galaxy Z Flip : a battle of Samsung foldables
 
 des:	des :
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Mặc dù được nâng cấp đáng kể từ Galaxy Fold, nhưng Z Fold 2 vẫn có mức giá 50 triệu đồng như người tiền nhiệm.	Mặc dù được nâng cấp đáng kể từ Galaxy Fold , nhưng Z Fold 2 vẫn có mức giá 50 triệu đồng như người tiền nhiệm .
-{"subject": ["13&&Z", "14&&Fold", "15&&2"], "object": ["24&&người", "25&&tiền", "26&&nhiệm"], "aspect": [], "predicate": ["4&&nâng", "5&&cấp", "6&&đáng", "7&&kể"], "label": "EQL"}
 
 Chiếc Z Flip có mức giá mềm hơn, và cũng đã ra mắt được một thời gian, hiện chỉ có giá khoảng 22-23 triệu trong thời điểm hiện tại.	Chiếc Z Flip có mức giá mềm hơn , và cũng đã ra mắt được một thời gian , hiện chỉ có giá khoảng 22 - 23 triệu trong thời điểm hiện tại .
-{"subject": ["1&&Chiếc", "2&&Z", "3&&Flip"], "object": [], "aspect": ["5&&mức", "6&&giá"], "predicate": ["7&&mềm", "8&&hơn", "23&&giá", "24&&khoảng", "25&&22"], "label": "COM+"}
 
 Rõ ràng bạn phải bỏ ra số tiền không nhỏ để mang về nhà chiếc Z Fold 2 mới nhất.	Rõ ràng bạn phải bỏ ra số tiền không nhỏ để mang về nhà chiếc Z Fold 2 mới nhất .
 
 Do tới cùng một thương hiệu và ra mắt chỉ cách nhau vài tháng, thật khó để so sánh hai chiếc máy gập của Samsung.	Do tới cùng một thương hiệu và ra mắt chỉ cách nhau vài tháng , thật khó để so sánh hai chiếc máy gập của Samsung .
-{"subject": [], "object": ["21&&hai", "22&&chiếc", "23&&máy", "24&&gập", "25&&của", "26&&Samsung"], "aspect": [], "predicate": [], "label": "EQL"}
 
 Cả hai đều là những chiếc điện thoại đẹp, độc đáo, với thông số thuộc hàng flagship trong thời điểm hiện tại.	Cả hai đều là những chiếc điện thoại đẹp , độc đáo , với thông số thuộc hàng flagship trong thời điểm hiện tại .
-{"subject": [], "object": [], "aspect": ["15&&thông", "16&&số"], "predicate": ["17&&thuộc", "18&&hàng", "19&&flagship", "20&&trong", "21&&thời", "22&&điểm", "23&&hiện", "24&&tại"], "label": "COM+"}
-{"subject": [], "object": [], "aspect": ["15&&thông", "16&&số"], "predicate": ["17&&thuộc", "18&&hàng", "19&&flagship", "20&&trong", "21&&thời", "22&&điểm", "23&&hiện", "24&&tại"], "label": "COM"}
+{"subject": [], "object": [], "aspect": ["15&&thông", "16&&số"], "predicate": ["17&&thuộc", "18&&hàng", "19&&flagship", "20&&trong", "21&&thời", "22&&điểm", "23&&hiện", "24&&tại"], "label": "EQL"}
 
 Vấn đề lựa chọn phụ thuộc khá nhiều vào nhu cầu người dùng.	Vấn đề lựa chọn phụ thuộc khá nhiều vào nhu cầu người dùng .
 
 Nếu bạn đang cần một chiếc điện thoại nhỏ gọn, chiếc Z Flip chắn chán là sự lựa chọn không nên bỏ qua.	Nếu bạn đang cần một chiếc điện thoại nhỏ gọn , chiếc Z Flip chắn chán là sự lựa chọn không nên bỏ qua .
 
 Tuy nhiên, một chiếc Z Fold 2 với kích thước tablet, cấu hình và camera mạnh mẽ hơn, thiết kế cũng lịch lãm hơn chắc chắn sẽ dành cho những người đòi hỏi hiệu năng và tính linh động cao ở một chiếc điện thoại.	Tuy nhiên , một chiếc Z Fold 2 với kích thước tablet , cấu hình và camera mạnh mẽ hơn , thiết kế cũng lịch lãm hơn chắc chắn sẽ dành cho những người đòi hỏi hiệu năng và tính linh động cao ở một chiếc điện thoại .
-{"subject": ["4&&một", "5&&chiếc", "6&&Z", "7&&Fold", "8&&2"], "object": [], "aspect": ["17&&camera", "40&&tính", "41&&linh", "42&&động", "43&&cao"], "predicate": ["18&&mạnh", "19&&mẽ", "20&&hơn"], "label": "DIF"}
+{"subject": ["4&&một", "5&&chiếc", "6&&Z", "7&&Fold", "8&&2"], "object": [], "aspect": ["17&&camera", "40&&tính", "41&&linh", "42&&động", "43&&cao"], "predicate": ["18&&mạnh", "19&&mẽ", "20&&hơn"], "label": "COM+"}
 

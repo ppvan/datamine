@@ -1,8 +1,6 @@
 Title: Độ bền iPhone 12 Pro qua test thả rơi từ độ cao 100m: ơ mây zinh, gút chóp Apple!	Title : Độ bền iPhone 12 Pro qua test thả rơi từ độ cao 100m : ơ mây zinh , gút chóp Apple !
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Một Youtuber là chủ tài khoản của kênh Versus đã tiến hành thử nghiệm độ bền iPhone 12 Pro bằng cách thả rơi chiếc điện thoại ở độ cao 100m.	Một Youtuber là chủ tài khoản của kênh Versus đã tiến hành thử nghiệm độ bền iPhone 12 Pro bằng cách thả rơi chiếc điện thoại ở độ cao 100m .
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
 
 Kết quả chắc chắn sẽ khiến nhiều bạn ngạc nhiên đấy!	Kết quả chắc chắn sẽ khiến nhiều bạn ngạc nhiên đấy !
 
@@ -31,6 +29,7 @@ Kết quả, màn hình chiếc iPhone 12 bị nứt nhỏ, các góc và cạnh
 Đối với iPhone 12 Pro, chiếc smartphone này đã bị nứt ở nửa dưới của màn hình Ceramic Shield nhưng cảm ứng vẫn hoạt động.	Đối với iPhone 12 Pro , chiếc smartphone này đã bị nứt ở nửa dưới của màn hình Ceramic Shield nhưng cảm ứng vẫn hoạt động .
 
 Độ bền này tốt hơn đáng kể so với iPhone 11 Pro trong các thử nghiệm tương tự.	Độ bền này tốt hơn đáng kể so với iPhone 11 Pro trong các thử nghiệm tương tự .
+{"subject": [], "object": ["10&&iPhone", "11&&11", "12&&Pro"], "aspect": ["1&&Độ", "2&&bền", "3&&này"], "predicate": ["4&&tốt", "5&&hơn", "6&&đáng", "7&&kể"], "label": "COM+"}
 
 alt:	alt :
 

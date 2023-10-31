@@ -30,7 +30,7 @@ class Record:
 
         sentences, *raw_labels = raw.split("\n")
         original, tokenized_sentence = sentences.split("\t")
-
+        
         quintuples = [json.loads(label) for label in raw_labels]
         comparative = [tup["label"] for tup in quintuples]
         if not comparative:

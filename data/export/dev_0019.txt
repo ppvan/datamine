@@ -1,5 +1,4 @@
 title: Thiết kế, màu sắc Samsung Galaxy A24 có gì mới? Có nên mua không?	title : Thiết kế , màu sắc Samsung Galaxy A24 có gì mới ? Có nên mua không ?
-{"subject": ["8&&Samsung", "9&&Galaxy", "10&&A24"], "object": [], "aspect": ["3&&Thiết", "4&&kế", "6&&màu", "7&&sắc"], "predicate": [], "label": "COM+"}
 
 Hãng sản xuất đến từ Hàn Quốc  điện thoại Samsung  đã trở nên quen thuộc với thị trường  điện thoại thông minh  tại Việt Nam.	Hãng sản xuất đến từ Hàn Quốc điện thoại Samsung đã trở nên quen thuộc với thị trường điện thoại thông minh tại Việt Nam .
 
@@ -12,12 +11,10 @@ Tổng quan về điện thoại Samsung Galaxy A24	Tổng quan về điện tho
 Samsung Galaxy A24 thuộc dòng  Galaxy A  đình đám, là mẫu điện thoại giá rẻ mới nhất đến từ ông lớn Hàn Quốc.	Samsung Galaxy A24 thuộc dòng Galaxy A đình đám , là mẫu điện thoại giá rẻ mới nhất đến từ ông lớn Hàn Quốc .
 
 Sản phẩm này đã xuất hiện rất nhiều trong các thông tin rò rỉ trước đây, và mới được tung ra thị trường vào tháng 4 năm nay.	Sản phẩm này đã xuất hiện rất nhiều trong các thông tin rò rỉ trước đây , và mới được tung ra thị trường vào tháng 4 năm nay .
-{"subject": ["1&&Sản", "2&&phẩm", "3&&này"], "object": [], "aspect": [], "predicate": ["5&&xuất", "6&&hiện", "7&&rất", "8&&nhiều"], "label": "COM+"}
 
 Dòng mới nhất của Samsung Galaxy này sẽ được trang bị con chip xử lý MediaTek Helio G99 cùng 8GB RAM và 128GB bộ nhớ trong (có hỗ trợ bộ nhớ mở rộng thông qua  thẻ microSD ).	Dòng mới nhất của Samsung Galaxy này sẽ được trang bị con chip xử lý MediaTek Helio G99 cùng 8GB RAM và 128GB bộ nhớ trong ( có hỗ trợ bộ nhớ mở rộng thông qua thẻ microSD ) .
 
 Trọng lượng máy chỉ 195g, vô cùng nhẹ nhàng để bạn mang theo bên mình hàng ngày.	Trọng lượng máy chỉ 195g , vô cùng nhẹ nhàng để bạn mang theo bên mình hàng ngày .
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Thiết bị được bán ra với các phiên bản màu là Đen Vampire, Xanh Lime, Đỏ Rượu Vang và Màu Bạc.	Thiết bị được bán ra với các phiên bản màu là Đen Vampire , Xanh Lime , Đỏ Rượu Vang và Màu Bạc .
 
@@ -28,7 +25,6 @@ des: Samsung Galaxy A24 là điện thoại đến từ Hàn Quốc	des : Samsun
 2.	2 .
 
 Thiết kế, màu sắc điện thoại Samsung Galaxy A24	Thiết kế , màu sắc điện thoại Samsung Galaxy A24
-{"subject": ["8&&Samsung", "9&&Galaxy", "10&&A24"], "object": [], "aspect": ["1&&Thiết", "2&&kế"], "predicate": [], "label": "COM"}
 
 Thiết kế	Thiết kế
 
@@ -43,17 +39,14 @@ Bạn hoàn toàn có thể bắt trọn mọi khoảnh khắc với bộ camera
 Bộ đôi  camera Ultra Wide  và  camera Macro  đảm bảo cho người dùng khả năng ghi lại những kỷ niệm đẹp đầy đủ nhất.	Bộ đôi camera Ultra Wide và camera Macro đảm bảo cho người dùng khả năng ghi lại những kỷ niệm đẹp đầy đủ nhất .
 
 alt: Ngoại hình vô cùng hiện đại cùng mặt lưng tráng gương sang trọng	alt : Ngoại hình vô cùng hiện đại cùng mặt lưng tráng gương sang trọng
-{"subject": [], "object": [], "aspect": ["3&&Ngoại", "4&&hình", "5&&vô", "6&&cùng", "7&&hiện", "8&&đại", "9&&cùng", "10&&mặt", "11&&lưng", "12&&tráng", "13&&gương"], "predicate": ["14&&sang", "15&&trọng"], "label": "COM+"}
 
 des: Ngoại hình vô cùng hiện đại cùng mặt lưng tráng gương sang trọng	des : Ngoại hình vô cùng hiện đại cùng mặt lưng tráng gương sang trọng
 
 Bên cạnh đó, hãng sản xuất còn trang bị cho máy chiếc camera trước 13MP giúp bạn thu về những tấm hình selfie rực rỡ.	Bên cạnh đó , hãng sản xuất còn trang bị cho máy chiếc camera trước 13MP giúp bạn thu về những tấm hình selfie rực rỡ .
-{"subject": ["12&&máy", "13&&chiếc", "14&&camera", "15&&trước", "16&&13MP"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Kèm theo sẽ là các tính năng chụp ảnh hữu dụng như siêu độ phân giải, chụp chân dung hỗ trợ  xóa phông  để bạn có thể thỏa sức sáng tạo trước những khung cảnh tuyệt đẹp với đa dạng phong cách chụp hơn.	Kèm theo sẽ là các tính năng chụp ảnh hữu dụng như siêu độ phân giải , chụp chân dung hỗ trợ xóa phông để bạn có thể thỏa sức sáng tạo trước những khung cảnh tuyệt đẹp với đa dạng phong cách chụp hơn .
 
 alt: Hãng trang bị các tính năng đặc biệt cho camera máy	alt : Hãng trang bị các tính năng đặc biệt cho camera máy
-{"subject": ["12&&camera", "13&&máy"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 des: Hãng trang bị các tính năng đặc biệt cho camera máy	des : Hãng trang bị các tính năng đặc biệt cho camera máy
 
@@ -62,11 +55,11 @@ Màu sắc	Màu sắc
 Bảng sắc màu của Samsung Galaxy A24 có sự khác biệt so với phiên bản tiền nhiệm  Samsung Galaxy A14 , cụ thể là phiên bản Xanh Lime độc đáo đậm chất Galaxy.	Bảng sắc màu của Samsung Galaxy A24 có sự khác biệt so với phiên bản tiền nhiệm Samsung Galaxy A14 , cụ thể là phiên bản Xanh Lime độc đáo đậm chất Galaxy .
 
 Với bốn phiên bản màu sắc của thiết bị, người dùng có thể lựa chọn tùy theo sở thích cũng như mục đích sử dụng của mình.	Với bốn phiên bản màu sắc của thiết bị , người dùng có thể lựa chọn tùy theo sở thích cũng như mục đích sử dụng của mình .
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "SUP+"}
 
 Màu đen cơ bản biểu tượng cho sự huyền bí, quyền lực và nghiêm trang.	Màu đen cơ bản biểu tượng cho sự huyền bí , quyền lực và nghiêm trang .
 
 Khi sở hữu điện thoại màu đen ngoài giúp phong thuỷ bạn tốt, thuận lợi hơn còn mang lại cho bạn một cảm giác sang trọng và cực kì tinh tế.	Khi sở hữu điện thoại màu đen ngoài giúp phong thuỷ bạn tốt , thuận lợi hơn còn mang lại cho bạn một cảm giác sang trọng và cực kì tinh tế .
+{"subject": [], "object": [], "aspect": ["24&&cảm", "25&&giác"], "predicate": ["26&&sang", "27&&trọng", "28&&và", "29&&cực", "30&&kì", "31&&tinh", "32&&tế"], "label": "COM+"}
 
 Hay một chiếc điện thoại Samsung Galaxy A24 màu bạc sẽ rất phù hợp với người mệnh Kim, đem lại phú quý, tài lộc và may mắn cho chủ nhân của mình.	Hay một chiếc điện thoại Samsung Galaxy A24 màu bạc sẽ rất phù hợp với người mệnh Kim , đem lại phú quý , tài lộc và may mắn cho chủ nhân của mình .
 
@@ -79,10 +72,8 @@ des: Bốn lựa chọn màu sắc phù hợp với đa dạng đối tượng s
 Ngoài ra, màu đỏ còn biểu tượng cho sự bùng cháy, sáng tạo cũng như sự cuồng nhiệt và cháy bỏng.	Ngoài ra , màu đỏ còn biểu tượng cho sự bùng cháy , sáng tạo cũng như sự cuồng nhiệt và cháy bỏng .
 
 Chủ sở hữu điện thoại màu đỏ luôn tạo cảm giác ấm áp, niềm vui, sự sang trọng và giàu có.	Chủ sở hữu điện thoại màu đỏ luôn tạo cảm giác ấm áp , niềm vui , sự sang trọng và giàu có .
-{"subject": [], "object": [], "aspect": [], "predicate": ["19&&sang", "20&&trọng", "21&&và", "22&&giàu", "23&&có"], "label": "COM+"}
 
 Sắc xanh Lime nổi bật nhưng cũng rất nhẹ nhàng, đem đến cảm giác thoải mái khi nhìn và cầm nắm sử dụng.	Sắc xanh Lime nổi bật nhưng cũng rất nhẹ nhàng , đem đến cảm giác thoải mái khi nhìn và cầm nắm sử dụng .
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Đây hẳn sẽ trở thành điểm nhấn vô cùng khác biệt cho outfit thường ngày của bạn.	Đây hẳn sẽ trở thành điểm nhấn vô cùng khác biệt cho outfit thường ngày của bạn .
 
@@ -91,8 +82,6 @@ alt: Sắc Xanh Lime độc đáo của các phiên bản màu sắc ra mắt l�
 des: Sắc Xanh Lime độc đáo của các phiên bản màu sắc ra mắt lần này	des : Sắc Xanh Lime độc đáo của các phiên bản màu sắc ra mắt lần này
 
 3.	3 .
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "EQL"}
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM"}
 
 Điện thoại Samsung Galaxy A24 có gì mới?	Điện thoại Samsung Galaxy A24 có gì mới ?
 
@@ -101,18 +90,14 @@ Màn hình hiển thị rộng rãi	Màn hình hiển thị rộng rãi
 Samsung Galaxy A24 cũng theo xu hướng chung với màn hình lớn được tối ưu diện tích hiển thị.	Samsung Galaxy A24 cũng theo xu hướng chung với màn hình lớn được tối ưu diện tích hiển thị .
 
 Trong lần trở lại này, Samsung trang bị cho những tân binh của mình tấm nền Super AMOLED đảm bảo mọi thứ hiển thị tại đây đều sắc nét và sống động.	Trong lần trở lại này , Samsung trang bị cho những tân binh của mình tấm nền Super AMOLED đảm bảo mọi thứ hiển thị tại đây đều sắc nét và sống động .
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Nhờ đó mà trải nghiệm xem phim, chơi game trên chiếc điện thoại này được nâng cấp và cải thiện đáng kể so với phiên bản tiền nhiệm.	Nhờ đó mà trải nghiệm xem phim , chơi game trên chiếc điện thoại này được nâng cấp và cải thiện đáng kể so với phiên bản tiền nhiệm .
 
 alt: Màn hình rộng mang lại trải nghiệm sử dụng tốt nhất	alt : Màn hình rộng mang lại trải nghiệm sử dụng tốt nhất
-{"subject": [], "object": [], "aspect": [], "predicate": ["12&&tốt", "13&&nhất"], "label": "EQL"}
-{"subject": [], "object": [], "aspect": [], "predicate": ["12&&tốt", "13&&nhất"], "label": "COM+"}
 
 des: Màn hình rộng mang lại trải nghiệm sử dụng tốt nhất	des : Màn hình rộng mang lại trải nghiệm sử dụng tốt nhất
 
 Camera chụp ảnh sắc nét hơn	Camera chụp ảnh sắc nét hơn
-{"subject": [], "object": [], "aspect": ["1&&Camera", "2&&chụp", "3&&ảnh"], "predicate": ["4&&sắc", "5&&nét", "6&&hơn"], "label": "COM+"}
 
 Nếu là một tín đồ sống ảo thì bạn hoàn toàn nên lựa chọn Samsung Galaxy A24 để nâng tầm nghệ thuật cho những tấm hình của mình.	Nếu là một tín đồ sống ảo thì bạn hoàn toàn nên lựa chọn Samsung Galaxy A24 để nâng tầm nghệ thuật cho những tấm hình của mình .
 
@@ -127,28 +112,24 @@ Chất lượng ảnh mà điện thoại mang lại vô cùng sắc nét, chi t
 Hãng trang bị các tính năng  AI Camera , làm đẹp và  HDR  giúp tăng cường độ sắc nét và đẹp mắt của bức hình.	Hãng trang bị các tính năng AI Camera , làm đẹp và HDR giúp tăng cường độ sắc nét và đẹp mắt của bức hình .
 
 Nhờ đó, các khuyết điểm trên khuôn mặt cũng được xử lý và làm mờ, giúp cho kết quả chụp ảnh trở nên ưng ý hơn.	Nhờ đó , các khuyết điểm trên khuôn mặt cũng được xử lý và làm mờ , giúp cho kết quả chụp ảnh trở nên ưng ý hơn .
+{"subject": [], "object": [], "aspect": [], "predicate": ["26&&ưng", "27&&ý", "28&&hơn"], "label": "COM+"}
 
 alt: Thế hệ mới cùng sự cải tiến camera với những thông số ấn tượng	alt : Thế hệ mới cùng sự cải tiến camera với những thông số ấn tượng
-{"subject": [], "object": [], "aspect": ["13&&thông", "14&&số", "15&&ấn", "16&&tượng"], "predicate": [], "label": "COM+"}
 
 des: Thế hệ mới cùng sự cải tiến camera với những thông số ấn tượng	des : Thế hệ mới cùng sự cải tiến camera với những thông số ấn tượng
-{"subject": [], "object": [], "aspect": ["13&&thông", "14&&số", "15&&ấn", "16&&tượng"], "predicate": [], "label": "EQL"}
 
 Cấu hình mạnh mẽ	Cấu hình mạnh mẽ
-{"subject": [], "object": [], "aspect": ["1&&Cấu", "2&&hình"], "predicate": ["3&&mạnh", "4&&mẽ"], "label": "COM+"}
 
 Dù chỉ là mẫu điện thoại có giá thành bình dân, nhưng thiết bị này được trang bị cấu hình mạnh mẽ ẩn sâu trong ngoại hình tinh tế của mình, đánh dấu trở thành một trong những chiếc smartphone được quan tâm nhất thời điểm hiện tại.	Dù chỉ là mẫu điện thoại có giá thành bình dân , nhưng thiết bị này được trang bị cấu hình mạnh mẽ ẩn sâu trong ngoại hình tinh tế của mình , đánh dấu trở thành một trong những chiếc smartphone được quan tâm nhất thời điểm hiện tại .
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 CPU  MediaTek Helio G99 có thể xử lý thần tốc mọi tác vụ một cách mượt mà.	CPU MediaTek Helio G99 có thể xử lý thần tốc mọi tác vụ một cách mượt mà .
-{"subject": ["2&&MediaTek", "3&&Helio", "4&&G99"], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Người dùng có thể thoải mái trải nghiệm sản phẩm từ làm việc hàng ngày tới chiến các tựa game nổi bật như  Liên Quân ,  PUBG ,... Hiệu suất máy được nâng cao kèm theo khả năng tiết kiệm thời gian và điện năng tốt hơn nhờ con chip xử lý.	Người dùng có thể thoải mái trải nghiệm sản phẩm từ làm việc hàng ngày tới chiến các tựa game nổi bật như Liên Quân , PUBG , . . . Hiệu suất máy được nâng cao kèm theo khả năng tiết kiệm thời gian và điện năng tốt hơn nhờ con chip xử lý .
+{"subject": [], "object": [], "aspect": ["40&&khả", "41&&năng", "42&&tiết", "43&&kiệm", "44&&thời", "45&&gian", "46&&và", "47&&điện", "48&&năng"], "predicate": ["36&&nâng", "37&&cao", "38&&kèm", "39&&theo", "49&&tốt", "50&&hơn"], "label": "COM+"}
 
 Mức xung nhịp tối đa của vi xử lý là 2.2 GHz, được đánh giá là mẫu chip có hiệu suất tốt trong phân khúc, đáp ứng tốt mọi nhu cầu hằng ngày của bạn mà không gặp phải hiện tượng giật lag.	Mức xung nhịp tối đa của vi xử lý là 2.2 GHz , được đánh giá là mẫu chip có hiệu suất tốt trong phân khúc , đáp ứng tốt mọi nhu cầu hằng ngày của bạn mà không gặp phải hiện tượng giật lag .
 
 alt: Cấu hình mạnh mẽ ẩn sâu trong ngoại hình tinh tế	alt : Cấu hình mạnh mẽ ẩn sâu trong ngoại hình tinh tế
-{"subject": [], "object": [], "aspect": ["3&&Cấu", "4&&hình"], "predicate": ["5&&mạnh", "6&&mẽ", "7&&ẩn", "8&&sâu", "9&&trong", "10&&ngoại", "11&&hình", "12&&tinh", "13&&tế"], "label": "COM+"}
 
 des: Cấu hình mạnh mẽ ẩn sâu trong ngoại hình tinh tế	des : Cấu hình mạnh mẽ ẩn sâu trong ngoại hình tinh tế
 
@@ -163,6 +144,7 @@ Có hai phiên bản  RAM  để bạn lựa chọn là 6GB và 8GB.	Có hai phi
 Nếu bạn chỉ sử dụng điện thoại cho những mục đích hàng ngày như đọc báo, lướt mạng, xem phim, nghe nhạc,... thì bản 6GB đã đáp ứng được tốt.	Nếu bạn chỉ sử dụng điện thoại cho những mục đích hàng ngày như đọc báo , lướt mạng , xem phim , nghe nhạc , . . . thì bản 6GB đã đáp ứng được tốt .
 
 Còn nếu bạn muốn chơi các tựa game mạnh mẽ hơn, phiên bản RAM cao hơn sẽ rất phù hợp.	Còn nếu bạn muốn chơi các tựa game mạnh mẽ hơn , phiên bản RAM cao hơn sẽ rất phù hợp .
+{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 alt: Có hai phiên bản RAM để bạn lựa chọn là 6GB và 8GB	alt : Có hai phiên bản RAM để bạn lựa chọn là 6GB và 8GB
 
@@ -175,7 +157,6 @@ Chiếc điện thoại phân khúc thấp này được hãng sản xuất ưu 
 Người dùng có thể trải nghiệm giải trí hơn 2 ngày liền với chỉ một lần sạc.	Người dùng có thể trải nghiệm giải trí hơn 2 ngày liền với chỉ một lần sạc .
 
 Trong trường hợp cần nạp đầy máy, khả năng sạc nhanh 25W sẽ nhanh chóng hỗ trợ bạn, không còn nỗi lo bị gián đoạn quá trình sử dụng.	Trong trường hợp cần nạp đầy máy , khả năng sạc nhanh 25W sẽ nhanh chóng hỗ trợ bạn , không còn nỗi lo bị gián đoạn quá trình sử dụng .
-{"subject": [], "object": [], "aspect": [], "predicate": ["21&&không", "22&&còn", "23&&nỗi", "24&&lo", "25&&bị", "26&&gián", "27&&đoạn", "28&&quá", "29&&trình", "30&&sử", "31&&dụng"], "label": "COM+"}
 
 alt: Điện thoại được trang bị trang bị viên pin khủng 5000mAh	alt : Điện thoại được trang bị trang bị viên pin khủng 5000mAh
 
@@ -204,10 +185,8 @@ des: Nên chọn mua điện thoại để phù hợp nhu cầu hàng ngày	des 
 Ưu đãi khi mua điện thoại Samsung Galaxy A24 tại TGDĐ	Ưu đãi khi mua điện thoại Samsung Galaxy A24 tại TGDĐ
 
 Trên đây là bài viết về thiết kế, màu sắc Samsung Galaxy A24 có gì mới?	Trên đây là bài viết về thiết kế , màu sắc Samsung Galaxy A24 có gì mới ?
-{"subject": ["12&&Samsung", "13&&Galaxy", "14&&A24"], "object": [], "aspect": ["10&&màu", "11&&sắc"], "predicate": [], "label": "COM+"}
 
 Có nên mua không?	Có nên mua không ?
-{"subject": [], "object": [], "aspect": [], "predicate": [], "label": "COM+"}
 
 Cảm ơn bạn đã theo dõi, hẹn gặp lại ở các bài viết sau!	Cảm ơn bạn đã theo dõi , hẹn gặp lại ở các bài viết sau !
 
