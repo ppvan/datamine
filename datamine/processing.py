@@ -172,6 +172,6 @@ class RecordDecoder:
         """Format record to string"""
         formatted_sentence = f"{record.original}\t{record.sentence}"
         formatted_quintuples = [
-            json.dumps(quintuple) for quintuple in record.quintuples
+            json.dumps(quintuple, ensure_ascii=False) for quintuple in record.quintuples
         ]
         return "\n".join([formatted_sentence, *formatted_quintuples])
