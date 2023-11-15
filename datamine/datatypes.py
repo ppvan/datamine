@@ -4,7 +4,7 @@ import json
 
 
 Tag = (
-    Literal["B-Sub", "I-Sub", "B-Obj", "I-Obj", "B-Asp", "I-Asp", "B-Pre", "I-Pre", "O"]
+    Literal["Sub", "Obj", "Asp","Pre", "O"]
     | str
 )
 LabelClass = (
